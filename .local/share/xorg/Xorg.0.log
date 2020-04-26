@@ -676,3 +676,12 @@ See https://wayland.freedesktop.org/libinput/doc/1.10.4/touchpad_jumping_cursor.
 [  3945.089] (EE) event16 - Synaptics TM3253-001: kernel bug: Touch jump detected and discarded.
 See https://wayland.freedesktop.org/libinput/doc/1.10.4/touchpad_jumping_cursor.html for details
 [  3965.269] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.
+[  4235.254] (EE) client bug: timer event16 tap: offset negative (-935ms)
+[  4262.878] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.
+[  4300.820] (EE) client bug: timer event5 keyboard: offset negative (-2366ms)
+[  4300.820] (EE) client bug: timer event16 keyboard: offset negative (-2366ms)
+[  4535.262] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.
+[  4580.270] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.
+[  4664.675] (EE) client bug: timer event16 tap: offset negative (-565ms)
+[  4664.677] (EE) client bug: timer event16 tap: offset negative (-115ms)
+[  4789.321] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.

@@ -92,3 +92,23 @@ git add --a
 git commit -m 'modencyagency project by tnn'
 git config --global user.email "kittykittypinky@gmail.com"
 git config --global user.name "thirinandarnyan11"
+git add --a
+git commit -m 'modencyagency project by tnn'
+git config --global user.name "thirinandarnyan11"
+git config --global user.email kittykittypinky@gmail.com
+git commit -m 'modencyagency project by tnn'
+git remote add origin https://github.com/thirinandarnyan11/modelagency.git
+git push origin master
+git push --help
+git push origin master
+git fetch
+git push origin master
+git pull
+git push origin master
+git push --force
+git push origin master
+git pull
+git push --force
+git push origin master
+git fetch origin
+git merge origin master
