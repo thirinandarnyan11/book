@@ -88,3 +88,7 @@ git add .
 git help submodule
 git add --a
 git commit -m 'modelagency bootstrap project by tnn'
+git add --a
+git commit -m 'modencyagency project by tnn'
+git config --global user.email "kittykittypinky@gmail.com"
+git config --global user.name "thirinandarnyan11"

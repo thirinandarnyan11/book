@@ -672,3 +672,7 @@ X Protocol Version 11, Revision 0
 [  2013.352] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.
 [  2013.352] (EE) event16 - Synaptics TM3253-001: kernel bug: Touch jump detected and discarded.
 See https://wayland.freedesktop.org/libinput/doc/1.10.4/touchpad_jumping_cursor.html for details
+[  3945.069] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.
+[  3945.089] (EE) event16 - Synaptics TM3253-001: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.10.4/touchpad_jumping_cursor.html for details
+[  3965.269] (II) event16 - Synaptics TM3253-001: SYN_DROPPED event - some input events have been lost.
