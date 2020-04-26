@@ -1,0 +1,10 @@
+operator (4)
+
+
+Unary Operator (+,-,*,%,/)
+
+Assignment operator(=,+=,=+,++,--)
+
+comparison operator(==,<,>,<=,>=,!=)
+
+logical operator(&&,||,!)

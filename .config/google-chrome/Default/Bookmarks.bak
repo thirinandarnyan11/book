@@ -1,0 +1,82 @@
+{
+   "checksum": "d391955811cf0a739eee64c0c1b5f272",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13229980755806736",
+            "guid": "30e918e3-60ad-4ec9-9184-c672b9b61c74",
+            "id": "5",
+            "name": "Buy Books Online, New and Used Online Bookstore from Alibris",
+            "type": "url",
+            "url": "https://www.alibris.com/books"
+         }, {
+            "date_added": "13230051001455426",
+            "guid": "0e770f7c-7c41-4b8a-b112-d6d251020ed9",
+            "id": "7",
+            "name": "Myanmar Bookshop - Myanmar Books - Book Details",
+            "type": "url",
+            "url": "http://www.myanmarbookshop.com/MyanmarBooks/BookDetails/1038"
+         }, {
+            "date_added": "13230076380177798",
+            "guid": "836c33ab-7dbd-4f7b-a7ff-52daaa6cad6e",
+            "id": "9",
+            "name": "Bootstrap Sidebar Examples",
+            "type": "url",
+            "url": "https://bootsnipp.com/tags/sidebar"
+         }, {
+            "date_added": "13230316847678778",
+            "guid": "6d37d007-3fb3-4f14-b2cd-3d9f08609208",
+            "id": "11",
+            "name": "Scrolling Nav - One Page Scrolling Bootstrap Template - Start Bootstrap",
+            "type": "url",
+            "url": "https://startbootstrap.com/templates/scrolling-nav/"
+         }, {
+            "date_added": "13230388697610806",
+            "guid": "6f340321-7ff2-4f38-9aaa-ea7472c889da",
+            "id": "13",
+            "name": "CSS Card Hover Effects",
+            "type": "url",
+            "url": "https://codepen.io/Jhonierpc/pen/MWgBJpy"
+         }, {
+            "date_added": "13232294893609948",
+            "guid": "08776d87-fc8c-4bcd-8a5a-773022db1475",
+            "id": "15",
+            "name": "Bootstrap Snippet JS Typewriter (Text Animation) using HTML CSS Javascript",
+            "type": "url",
+            "url": "https://bootsnipp.com/snippets/XRNAv"
+         }, {
+            "date_added": "13232297100632570",
+            "guid": "9d1d2960-dcf7-4444-ab49-3cf9caeb51a2",
+            "id": "16",
+            "name": "Bootstrap and jQuery 'image animate' code snippets",
+            "type": "url",
+            "url": "https://bootsnipp.com/search?q=image+animate&page=4"
+         } ],
+         "date_added": "13229980155415950",
+         "date_modified": "13232297100632570",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13229980155415956",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13229980155415957",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

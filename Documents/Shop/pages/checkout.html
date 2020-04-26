@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CheckOut</title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="custom.js"></script>
+	<style type="text/css">
+		a{
+			text-decoration: none;
+		}
+		table{
+			margin-left: 250px;
+		}
+	</style>
+</head>
+<body style="background-color: #eee;">
+	<a href="items.html">Back</a><br>
+	<a href="checkout.html" style="margin-left:900px;"><img src="../images/cart.png" width="30" height="30"><span id="count" style="color: black;"></span></a>
+	<table cellspacing="0" cellpadding="30">
+		<thead>
+			<tr>
+				<th>#</th>
+				<th>Name</th>
+				<th>Price</th>
+				<th>Qty</th>
+				<th>Sub Total</th>
+			</tr>
+		</thead>
+		<tbody id="tbody"></tbody>
+	</table>
+	<button style="margin-left: 630px;" id="button">CheckOut</button>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			count();
+			getData();
+			function getData(){
+				var coffeeshop_str=localStorage.getItem("coffee_shop");
+				var coffeeshop_arr;
+				if(coffeeshop_str){
+					coffeeshop_arr=JSON.parse(coffeeshop_str);
+					var html='';var total=0; var j=1;
+					$.each(coffeeshop_arr,function(i,v){
+						var price=v.price;
+						var qty=v.qty;
+						var sub_total=price*qty;
+						html+=`<tr>
+						<td>${j++}</td>
+						<td>${v.name}</td>
+						<td>${v.price}</td>
+						<td><button class="max" data-item_j="${i}">+</button> ${v.qty} <button class="min" data-item_i="${i}">-</button></td>
+						<td>${sub_total}</td>
+						<td><button>X</button></td>
+						</tr>`
+						total+=sub_total;
+
+					})
+					html+=`<tr>
+					<td colspan="4">Total Price: </td>
+					<td>${total}</td>
+					</tr>;`
+
+					$("#tbody").html(html);
+				}else{
+					$("#tbody").html('');
+				}
+			}
+			$("#tbody").on('click','.max',function(){
+				var item_j=$(this).data("item_j");
+				
+				var coffeeshop_str=localStorage.getItem("coffee_shop");
+				if(coffeeshop_str){
+					var coffeeshop_arr=JSON.parse(coffeeshop_str);
+					$.each(coffeeshop_arr,function(i,v){
+						if(item_j==i){
+							v.qty++;
+
+						}
+						var coffeeData=JSON.stringify(coffeeshop_arr);
+						localStorage.setItem("coffee_shop",coffeeData);
+						getData();
+					})
+				}
+			})
+			$("#tbody").on('click','.min',function(){
+				var item_i=$(this).data("item_i");
+				
+				var coffeeshop_str=localStorage.getItem("coffee_shop");
+				if(coffeeshop_str){
+					var coffeeshop_arr=JSON.parse(coffeeshop_str);
+					$.each(coffeeshop_arr,function(i,v){
+						if(item_i==i){
+							v.qty--;
+							if(v.qty==0){
+								coffeeshop_arr.splice(item_i,1);
+							}
+
+						}
+						var coffeeData=JSON.stringify(coffeeshop_arr);
+						localStorage.setItem("coffee_shop",coffeeData);
+						getData();
+					})
+				}
+			})
+			$("#button").click(function(){
+				alert("Your Checkout is complete!");
+				localStorage.clear();
+				getData();
+			})
+		})
+	</script>
+</body>
+</html>

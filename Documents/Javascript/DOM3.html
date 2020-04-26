@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h1 onclick="click_event()">Create Element</h1>
+	<input type="text" name="name" id="name"><br>
+	<button onclick="adding()">ADD</button>
+	<ul id="list">
+		<li>Apple</li>
+	</ul>
+	<script type="text/javascript">
+		function click_event(){
+			var btn=document.createElement('button');
+		    btn.innerHTML="Click Me";
+		    document.body.appendChild(btn);
+		}
+		function adding(){
+			var names=document.querySelector('#name').value;//query selector
+			// var names=document.getElementById('name').value;// name
+			var list=document.getElementById('list');
+			var li_dat=document.createElement('li');
+			li_dat.innerHTML=names;
+			list.appendChild(li_dat);
+		}
+	</script>
+</body>
+</html>

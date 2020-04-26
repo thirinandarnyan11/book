@@ -1,0 +1,306 @@
+<!DOCTYPE html >
+<html>
+<head>
+	<title>About | Shwe Htay Min</title>
+	<meta name="description" content="About, Our Main business is Distribution of Pharmaceutical Products and Lubricant products in Myanmar." />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet"> 
+	<link rel="stylesheet" type="text/css" href="/font-awesome-4.1.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/css/jquery.fancybox.css">
+	<link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />  
+	<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDfTc9st7mwWA-DQ9HizDRk4ggMxXAyFG4&"></script>		
+	<script src='https://www.google.com/recaptcha/api.js'></script>	
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/scripts.js"></script> 
+	<script src="/js/map.js"></script>
+	<script src="/js/jquery.fancybox.js"></script>
+	<script src="/js/classie.js"></script>
+	<script>
+		 function init() {
+			  window.addEventListener('scroll', function(e){
+					var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+						 shrinkOn = 300,
+						 header = document.querySelector("header");
+					if (distanceY > shrinkOn) {
+						 classie.add(header,"smaller");
+					} else {
+						 if (classie.has(header,"smaller")) {
+							  classie.remove(header,"smaller");
+						 }
+					}
+			  });
+		 }
+		 window.onload = init();
+</script>	  
+</head>
+<body>
+<div class="header" style="position:static;opacity:1;background-color:#fff;">
+
+ 	<div class="header-menu">
+
+ 	   	<div class="container clearfix">
+
+ 	   		<div class="row">
+
+ 	   			<div class="col-md-4 col-sm-4 col-xs-12">
+
+ 	   				<div class="logo">
+
+ 	   					<a href="/"><img src="/images/logo.png" class="logo-img img-responsive" style="background-color:#fff;"></a>
+
+ 	   				</div>
+
+ 	   			</div>
+
+ 	   			<div class="col-md-8 col-sm-8 col-xs-12 nopadding">
+
+ 	   				<div class="">
+
+ 	   				<div class="menu">
+
+					    <nav class="navbar navbar-default menu-default" role="navigation">
+
+					        <!-- Brand and toggle get grouped for better mobile display -->
+
+					        <div class="navbar-header">
+
+					            <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+
+					                <span class="sr-only">Toggle navigation</span>
+
+					                <span class="icon-bar"></span>
+
+					                <span class="icon-bar"></span>
+
+					                <span class="icon-bar"></span>
+
+					            </button>
+
+					        </div>
+
+					        <!-- Collection of nav links and other content for toggling -->
+
+					        <div id="navbarCollapse" class="collapse navbar-collapse">
+
+					            <ul class="nav navbar-nav menu-nav">
+
+					                <li ><a href="/">Home</a></li>
+
+					                <li class="active"><a href="/about/">About Us</a></li>
+
+					                <li class=" dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Products<span class="caret"></span></a>
+
+										<ul class="dropdown-menu menu-open" role="menu">								
+
+											<li class=" dropdown-list"> <a href="/medical/">Medical</a></li>
+
+											<li class=" dropdown-list"><a href="/cosmetic/">Cosmetic</a></li>	
+
+											<li class=" dropdown-list"><a href="/lubricant/">Lubricant</a></li>								
+
+										</ul>
+
+									</li>	
+
+
+
+									<li class=" small-size"><a href="/medical/">Medical</a></li>
+
+									<li class=" small-size"><a href="/cosmetic/">Cosmetic</a></li>
+
+									<li class=" small-size"><a href="/lubricant/">Lubricant</a></li>						
+
+									<li class=""><a href="/contact/">Contact</a></li>
+
+					            </ul>					            
+
+					        </div>
+
+					    </nav>
+
+ 	   				</div>
+
+ 	   				</div>
+
+ 	   			</div>
+
+ 	   		</div>
+
+ 	   	</div> 	   	
+
+  	</div>
+
+ </div>
+
+
+
+
+
+
+	  <div class="breadcrumbs">
+	 <div class="container">
+		<div class="row">
+		  <ul class="breadcrumb">			 
+			 <li class="active">About Us</li>
+		  </ul>
+		</div>
+	 </div>
+  </div>
+  <div class="breadcrumbs-wrapper">
+	<div class="container">		
+		<div class="row">
+			<div class="col-xs-12">
+				<ul class="breadcrumb">
+			 <li>
+				<a href="#">Home</a>
+				<span class="divider"></span>
+			 </li>
+			 <li class="active">About Us</li>
+		  </ul>
+			</div>
+		</div>
+	</div>
+</div>
+  <div class="about-us">
+	  <div class="container">
+		 <div class="col-md-12 col-xs-12">
+			<h1 class="title">About Shwe Htay Min</h1>
+			<p> Shwe Htay Min Co., Ltd. is one of the most trusted Distribution Company in Myanmar, especially in Yangon State which is the centre hub for business society. Our Shwe Htay Min Co.,Ltd. Since 2013 In Myanmar. Our Main business is Distribution of Pharmaceutical Products and Lubricant  products in Myanmar. Our Distribution activity started in the year 2013. We have two branch offices, One is Yangon State(main branch) and another one is Mandalay State.</p>
+			<p>We are now one of the fastest growing companies in Myanmar. We look forward to building successful with pharmaceutical (health care) products suppliers and Lubricant suppliers worldwide.</p>
+			<p>We are importing Medical Products from India ,Korea, and Lubricant  Products from UAE. Our medical products include tables, Capsules and soft gelatin, Syrups (Liquid and Dry), and also Cream. We creating value by offering best quality products at a reasonable price, We understand the true value of the human life, Our confidence in the products we provide is due to our one hundred percent efforts in the QUALITY of these products.  </p>
+			<p>We Distribution our products from the whole Myanmar Country by Shwe Htay Min Co.,Ltd. Name. Now we are getting good relationship with our customers and also getting good name in the market. We are investing significantly more in upgrading and expanding our importing of medical products and Lubricant products.</p>
+		 </div>
+	  </div>
+</div>
+
+
+
+
+
+
+
+<div class="contact-container">
+
+  <div class="container"> 
+        <div class="col-sm-6 hidden-xs">
+        </div>
+        <div class="col-sm-6 col-xs-12"> 
+            <div class="footer-icon-box">
+                <div class="title-icon">
+                    <h3 class=""> Follow Us On</h3>
+                </div>
+                <div class="icon">
+                  <a href="https://facebook.com" class="icon-button facebook" target="_blank"><i class="fa fa-facebook icon-facebook"></i><span></span></a>
+                 </div>
+                <div class="icon">
+                <a href="#" class="icon-button twitter"><i class="fa fa-twitter icon-twitter"></i><span></span></a>
+                </div>
+                <div class="icon">
+                <a href="#" class="icon-button google-plus"><i class="fa fa-google icon-google-plus"></i><span></span></a>
+                </div>
+            </div>
+        </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footerbg">
+    <div class="container nopadding">
+         <div class="col-sm-4 col-xs-12 border">
+            <div class="">
+              <h4 class="">Contact Information</h4>
+               <div class="footer-line"></div>
+               <div class="pt25"></div>
+               <div class="icon-box">
+              <div class="icon ptb"><i class="fa fa-map-marker" aria-hidden="true"></i> 
+              <p class="m-right20">No.105/6B, 91 Street, Mingalar Taung Nyunt Township,
+                Yangon,Myanmar.</p></div>
+              <div class="icon ptb"><i class="fa fa-phone" aria-hidden="true"></i><p>01-381056, 09-73217557</p></div>
+              <div class="icon ptb"><i class="fa fa-calendar" aria-hidden="true"></i><p>info@shwehtaymin.com</p></div>            
+          </div>
+          </div>
+          </div>
+          <div class="mt40"></div>
+          <div class="col-sm-4 col-xs-12 border">
+          <div class="quicklink-box mt20">
+              <h4>Quick Links</h4>
+               <div class="footer-line"></div>
+               <div class="pt25"></div>
+              <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="/about/">About Us</a></li>
+                <li><a href="/medical/">Medical</a></li>
+                <li><a href="/cosmetic/">Cosmetics</a></li>
+                <li><a href="/lubricant/">Lubricant</a></li>
+              </ul>  
+        </div>
+        </div>
+        <div class="col-sm-4 col-xs-12 border">
+        <div class="footer-box mt20">
+            <h4>Working Hours</h4>
+            <div class="footer-line"></div>
+            <div class="pt25"></div>
+            <div class="row">
+            <div class="col-xs-12">
+            <p class="">You can contact or visit us during working time </p>
+            </div>
+            <div class="col-xs-6"><p>Monday - Sat: </p></div>
+            <div class="col-xs-6"><p> 9 AM to 5 PM</p></div>
+            <div class="col-xs-6"><p>Sunday:</p></div> <div class="col-xs-6"><p>Close</p></div>
+            </div>
+        </div>    
+    </div>
+ </div>
+</div>
+
+ <div class="top-line">
+    <div class="container nopadding">
+      <div class="row">
+        <div class="col-xs-12">
+          <p class="center-text">2016-2020 Shwe Htay Min Co., Ltd. All rights reserved.            
+          <a href="https://www.netscriper.com/web-design/" target="_blank">Web Design</a> 
+          <span><a>by</a></span> 
+          <a class="footer_create color-dark" target="_blank" href="https://www.netscriper.com">NetScriper</a>
+          </p>
+        </div> 
+        </div> 
+        </div>        
+    </div>
+     <div class="col-xs-12">
+          <div class="scrollToTop" style="display: block;">
+          <i class="fa fa-angle-up" aria-hidden="true"></i>
+          <span>Up</span>
+          </div>
+      </div>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75010583-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>	
+			 	
+  „Ô˙Ã=π           ^e∫Am¯•^e∫   #    :https://www.shwehtaymin.com/about/ strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Sun, 08 Mar 2020 16:13:45 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+Content-Type: text/html; charset=UTF-8
+ original-response-headers Date: Sun, 08 Mar 2020 16:13:45 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+Keep-Alive: timeout=3, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+ ctid 1 eTLD1Access 1;0;2814544369, uncompressed-len 0 predictor::resource-count 17 predictor::https://www.shwehtaymin.com/css/bootstrap.min.css 1,1,0,4096 predictor::https://www.shwehtaymin.com/css/style.css 1,1,0,4096 predictor::https://fonts.googleapis.com/css?family=Merriweather 1,1,0,4096 predictor::https://www.shwehtaymin.com/font-awesome-4.1.0/css/font-awesome.min.css 1,1,0,4096 predictor::https://www.shwehtaymin.com/css/jquery.fancybox.css 1,1,0,4096 predictor::https://maps.google.com/maps/api/js?key=AIzaSyDfTc9st7mwWA-DQ9HizDRk4ggMxXAyFG4& 1,1,0,4096 predictor::https://www.google.com/recaptcha/api.js 1,1,0,4097 predictor::https://www.shwehtaymin.com/js/jquery.min.js 1,1,0,4096 predictor::https://www.shwehtaymin.com/js/bootstrap.min.js 1,1,0,4096 predictor::https://www.shwehtaymin.com/js/scripts.js 1,1,0,4096 predictor::https://www.shwehtaymin.com/js/map.js 1,1,0,4096 predictor::https://www.shwehtaymin.com/js/jquery.fancybox.js 1,1,0,4096 predictor::https://www.shwehtaymin.com/js/classie.js 1,1,0,4096 predictor::https://www.gstatic.com/recaptcha/releases/v1QHzzN92WdopzN_oD7bUO2P/recaptcha__en.js 1,1,0,4096 predictor::https://www.google-analytics.com/analytics.js 1,1,0,4096 predictor::https://www.shwehtaymin.com/images/banner.jpg 1,1,0,4096 predictor::https://www.google-analytics.com/collect?v=1&_v=j81&a=591586235&t=pageview&_s=1&dl=https%3A%2F%2Fwww.shwehtaymin.com%2Fabout%2F&ul=en-us&de=UTF-8&dt=About%20%7C%20Shwe%20Htay%20Min&sd=24-bit&sr=1366x768&vp=1354x639&je=0&_u=AACAAEAB~&jid=&gjid=&cid=200999656.1583325037&tid=UA-75010583-19&_gid=2007343115.1583684013&z=531676992 1,1,0,4096   (ê

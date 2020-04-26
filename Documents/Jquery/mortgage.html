@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home Loan Calculator</title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+	<table>
+		<tr>
+			<td><label for="principal">Principal</label></td>
+			<td><input type="number" name="principal" id="principal"></td>
+		</tr>
+		<tr>
+			<td><label for="interest">Interest</label></td>
+			<td><input type="number" name="interest" id="interest"></td>
+		</tr>
+		<tr>
+			<td><label for="year">Loan Years</label></td>
+			<td><input type="number" name="year" id="year"></td>
+		</tr>
+		<tr><td><button id="calculate">Calculate</button></td></tr>
+	</table>
+	<form id="myForm">
+		<table>
+			<tr><td><label for="ppm">Payment Per Month</label></td>
+				<td><input type="number" name="ppm" id="ppm"></td></tr>
+				<tr><td><label  for="t_interest">Total Interest</label></td></td>
+					<td><input type="number" name="t_interest" id="t_interest" disabled=""></td></tr>
+					<tr><td><label for="show_p">Principal</label></td>
+						<td><input type="number" name="show_p" id="show_p"></td></tr>
+						<tr><td><label for="show_interest">Interest</label></td>
+							<td><input type="number" name="show_interest" id="show_interest"></td></tr>
+							<tr><td><label for="show_loan">Loan Years</label></td>
+								<td><input type="number" name="show_loan" id="show_loan" disabled=""></td></tr><br>
+							</table><br>
+						</form>
+						<table border="1" cellspacing="0" cellpadding="30">
+							<thead>
+								<tr>
+									<th>Month No.</th>
+									<th>Principal</th>
+									<th>Interest</th>
+									<th>Payment</th>
+								</tr>
+							</thead>
+							<tbody id="tbody"></tbody>
+						</table>
+						<script type="text/javascript">
+							$(document).ready(function(){
+								$("#calculate").click(function(){
+									var p=parseInt($("#principal").val());
+									var interest=parseFloat($("#interest").val());
+									var year=parseInt($("#year").val());
+
+									var n=year*12;
+									var r=(interest/100)/12;
+									var m=(p*((r*(Math.pow((1+r),n))))/((Math.pow((1+r),n))-1)).toPrecision(7);
+
+									$("#show_p").val(p);
+									$("#show_interest").val(interest);
+									$("#show_loan").val(year);
+
+				//payment per month
+				$("#ppm").val(m);
+				var payment=$("#ppm").val();
+				//interate rate in table
+				
+				var i=1;
+				var total_interest=0;
+				if(p && interest && payment){
+					
+					do{
+						var ins=parseInt(((r*p).toPrecision(6)));
+						total_interest+=ins;
+						var html=`<tr>
+						<td>Month #${i}</td>
+						<td>${p}</td>
+						<td>${ins}</td>
+						<td>${payment}</td>
+						</tr>`;
+						$("#tbody").append(html);
+						p=(p-m)+ins;
+						i++;
+					}while(i<=n)
+
+				}else{
+					alert("Fill to input box");
+				}
+				$("#t_interest").val(total_interest);
+			})
+							})
+						</script>
+					</body>
+					</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<style type="text/css">
+		#click_slide{
+			max-width:200px;
+			background-color: #32a852;
+			color: white;
+			padding: 5px 0;
+			text-align: center;
+			margin-bottom: 0;
+			cursor: pointer;
+		}
+		#panel{
+			max-width: 200px;
+			background-color: #90d6a3;
+			color: white;
+			padding: 50px 0;
+			margin-top: 0;
+			text-align: center;
+			display: none;
+		}
+	</style>
+</head>
+<body>
+	<p id="click_slide">Slide</p>
+	<p id="panel">Hello Slide Effect</p>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#click_slide").click(function(){
+			$("#panel").slideUp();//not include display:none
+			$("#panel").slideDown();//include display:none
+			$("#panel").slideToggle(5000);
+		})
+	})
+</script>
+</body>
+</html>

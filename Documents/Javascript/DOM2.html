@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DOM Example</title>
+</head>
+<body>
+	<h1 id="lg">Language</h1>
+	<p class="lang">HTML</p>
+	<p class="lang">JavaScript</p>
+	<p class="lang">JQuery</p>
+
+	<button onclick="lanGuage()">Click</button>
+	<script type="text/javascript">
+		function lanGuage(){
+			var lang_data=document.getElementsByClassName('lang');
+			console.log(lang_data);
+			var q_lang=document.querySelector('#lg');//id selector
+			var c_lang=document.querySelector('.lang');// class selector
+			var e_lang=document.querySelector('p');//element selector
+			console.log(q_lang);
+			console.log(c_lang);
+			console.log(e_lang);
+		}
+	</script>
+</body>
+</html>

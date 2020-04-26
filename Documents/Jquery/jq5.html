@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+	<p class="para">This is Paragraph One</p>
+	<p class="para">This is Paragraph Two</p>
+	<p class="para">This is Paragraph Three</p>
+	<h1 class="para">This is heading</h1>
+	<button id="change">Change</button>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#change").click(function(){
+				$(".para").css({"background-color":"red","color":"white"});
+			})
+		})
+	</script>
+</body>
+</html>

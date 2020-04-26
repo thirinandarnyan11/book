@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gold Calculator</title>
+	<style type="text/css">
+		form{
+			margin-left: 300px;
+			margin-top: -92px;
+		}
+		/*card box*/
+		.card {
+			box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+			transition: 0.3s;
+			width: 38%;
+			height: 230px;
+			padding-top: 20px;
+			padding-left: 60px;
+			margin-left: 200px;
+			margin-top: 40px;
+			background-color:#eee;
+		}
+		.card:hover {
+			box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+		}
+		.container {
+			padding: 2px 16px;
+		}
+		label{
+			font-size: 16px;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	
+	<div class="card">
+		<img src="img1.jpg" width="50" height="45">
+		<i style="font-size: 19px;font-weight:bold;color: red;">Gold Price Calculator(Gram,Petha,Yway)</i><br><br>
+		<table cellspacing="0" cellpadding="5">
+			<tr>
+				<td><label for="gram" class="label">Grams</label></td>
+				<td><input type="number" name="gram" id="gram" style="width: 100px;"></td>
+			</tr>
+			<tr>
+				<td><label for="price" class="label">Price</label></td>
+				<td><input type="number" name="price" id="price" disabled="" style="width: 100px;"></td>
+			</tr>
+			<tr>
+				<td><button id="btn" style="font-size: 15px;" onclick="calculate()">Calculate</button></td>
+				<td><button id="reset" style="font-size: 15px;" onclick="reset()">Reset</button></td>
+			</tr>
+		</table>
+		<form name="myForm" id="form" style="display: none;">
+			<table cellspacing="0" cellpadding="5" style="margin-left: 220px;margin-top: -126px;">
+				<tr>
+					<td><label for="kyat" class="label">Kyat</label></td>
+					<td><input type="number" name="kyat" id="kyat" disabled="" style="width: 100px;"></td>
+				</tr>
+				<tr>
+					<td><label for="petha" class="label">Petha</label></td>
+					<td><input type="number" name="petha" id="petha" disabled="" style="width: 100px;"></td>
+				</tr>
+				<tr>
+					<td><label for="yway" class="label">Yway</label></td>
+					<td><input type="number" name="yway" id="yway" disabled="" style="width: 100px;"></td>
+				</tr>
+				<tr>
+					<td><label for="totalprice" class="label">Total Price</label></td>
+					<td><input type="number" name="totalprice" id="totalprice" disabled="" style="width: 100px;"></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+
+	
+	<script type="text/javascript">
+
+		var g=parseInt(prompt("Enter Grams"));
+		var gram=document.getElementById('gram');
+		gram.value=g;
+		document.getElementById('price').value=1215000;
+		function calculate(){
+			var form=document.getElementById('form');
+			form.style.display="inline";
+			//Math.floor  Math.round
+			var kyat=parseInt(g/16.6);
+			var kyat_val=document.getElementById('kyat');
+			kyat_val.value=kyat;
+			var pe=(g/16.6)-(kyat_val.value);
+			var petha=parseInt(pe*16);
+			var petha_val=document.getElementById('petha');
+			petha_val.value=petha;
+			var y=(pe*16)-(petha_val.value);
+			var yw=parseInt(y*8);
+			document.getElementById('yway').value=yw;
+			var price=((yw/128)+(petha/16)+kyat)*1215000;
+			document.getElementById('totalprice').value=price;	
+		}
+		function reset(){
+			document.getElementById('gram').value="";
+			document.getElementById('kyat').value="";
+			document.getElementById('petha').value="";
+			document.getElementById('yway').value="";
+			document.getElementById('totalprice').value="";
+		}
+	</script>
+</body>
+</html>

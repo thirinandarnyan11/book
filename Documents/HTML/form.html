@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+</head>
+<body>
+	<fieldset>
+		<legend>Student Registeration Form</legend>
+		<form action="student.php" method="post">
+			<label for="name">Name</label>
+			<input type="text" name="name" id="name" required=""> <br>
+			<label for="email">Email</label>
+			<input type="email" name="email" id="email" required=""><br>
+			<label>Hobbies</label><br>
+			<input type="checkbox" name="checkbox" id="travel">
+			<label for="travel">Travel</label>
+			<input type="checkbox" name="checkbox1" id="reading">
+			<label for="reading">Reading</label>
+			<input type="checkbox" name="checkbox2" id="eating">
+			<label for="eating">Eating</label><br>
+			<label>Gender</label><br>
+			<input type="radio" name="r1" id="male" >
+			<label for="male">Male</label>
+			<input type="radio" name="r1" id="female">
+			<label for="female">Female</label><br>
+			<label for="phone">Phone</label>
+			<input type="number" name="p" id="phone" required=""><br>
+			<label for="year">Year</label>
+			<select name="year" id="year">
+				<option value="first">First Year</option>
+				<option value="second">Second Year</option>
+				<option value="third">Third Year</option>
+			</select><br>
+			<label for="password">Password</label>
+			<input type="password" name="psw" id="password" required=""><br>
+			<label for="degree">Degree</label>
+			<input type="text" name="deg" id="degree" value="B.C.Sc" readonly="" disabled=""><br>
+			<label for="address">Address</label>
+			<textarea id="address" name="add"></textarea><br>
+			<input type="file" name=""><br>
+			<button type="submit">Save</button>
+		</form>
+	</fieldset>
+</body>
+</html>

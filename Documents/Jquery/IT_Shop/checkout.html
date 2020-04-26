@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="custom.js"></script>
+</head>
+<body>
+	<h1>IT Shop</h1>
+	<h2><a href="index.html">Shop</a> | <a href="checkout.html">Checkout(<span id="count"></span>)</a></h2>
+	<table border="1" cellpadding="15" cellspacing="0">
+		<caption><h3>Checkout Table</h3></caption>
+		<thead>
+			<tr>
+				<th>No</th>
+				<th>Name</th>
+				<th>Brand</th>
+				<th>Price</th>
+				<th>Qty</th>
+				<th>Sub Total</th>
+			</tr>
+		</thead>
+		<tbody id="tbody"></tbody>
+	</table><br>
+	<button id="order">Order</button>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			count();
+			getData();
+			function getData(){
+				var shop_str=localStorage.getItem("it_shop");
+				if(shop_str){
+					var shop_arr=JSON.parse(shop_str);
+					var html='';var total_price='';
+					var j=1;var total=0;
+					$.each(shop_arr,function(i,v){
+						var qty=v.qty;
+						var price=v.price;
+						var sub_total=qty*price;
+						html+=`<tr>
+						<td>${j++}</td>
+						<td>${v.name}</td>
+						<td>${v.brand}</td>
+						<td>${v.price}</td>
+						<td><button class="min" data-item_j=${i}>-</button> ${v.qty} <button class="max" data-item_i="${i}">+</button></td>
+						<td>${sub_total}</td>
+						</tr>`;	
+						total+=sub_total;				
+					})
+
+					html+=`<tr>
+					<td colspan="5">Total Price </td>
+					<td>${total}</td>
+					</tr>`;	
+					$("#tbody").html(html);
+
+				}else{
+					
+					$("#tbody").html('');
+				}
+
+			}
+			$("#tbody").on('click','.min',function(){
+				var item_j=$(this).data("item_j");
+				
+				var shop_str=localStorage.getItem("it_shop");
+				if(shop_str){
+					var shop_arr=JSON.parse(shop_str);
+					$.each(shop_arr,function(i,v){
+						if(item_j==i){
+							v.qty--;
+							if(v.qty==0){
+								shop_arr.splice(item_j,1);
+							}
+
+						}
+						var shopData=JSON.stringify(shop_arr);
+						localStorage.setItem("it_shop",shopData);
+						getData();
+					})
+				}
+			})
+			$("#tbody").on('click','.max',function(){
+				var item_i=$(this).data("item_i");
+				
+				var shop_str=localStorage.getItem("it_shop");
+				if(shop_str){
+					var shop_arr=JSON.parse(shop_str);
+					$.each(shop_arr,function(i,v){
+						if(item_i==i){
+							v.qty++;
+
+						}
+						var shopData=JSON.stringify(shop_arr);
+						localStorage.setItem("it_shop",shopData);
+						getData();
+					})
+				}
+			})
+			$("#order").click(function(){
+				localStorage.clear();
+				getData();
+			})
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Event</title>
+</head>
+<body>
+	<img src="img.jpg"  id="img" width="150" height="150" onmouseover="imgAction()" onmouseout="normalImg()"><br>
+	<h1 id="h1">Hello JS</h1>
+	<button onclick="move()">Click</button>
+	<script type="text/javascript">
+		function move(){
+			var img=document.getElementById('img');
+			var heading1=document.getElementById('h1');
+			heading1.style.backgroundColor="red";
+			img.style.width="150px";
+			img.style.height="150px";
+
+			}
+		//mouseover
+		function imgAction(){
+			var img=document.getElementById('img');
+			img.style.width="300px";
+			img.style.height="300px";
+		}
+		//mouseout
+		function normalImg(){
+			var img=document.getElementById('img');
+			img.style.width="150px";
+			img.style.height="150px";
+		}
+	</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+Name=>
+Price=>
+Qty=>
+Brand=>
+
+data Attribute  (html carry data to javascript )
+
+JSON  (JavaScript Object Notation)
+{name:"mg mg",email:"mgmg@gmail.com"}
+
+two types in Javascript
+
+JSON.parse()  stirng to JSON object
+JSON.stringify()  JSON object to string
+
+
+Localstorage
+--------------
+
+localStorage.getItem()  //get data from local storage
+localStorange.setItem() //insert data to local storage

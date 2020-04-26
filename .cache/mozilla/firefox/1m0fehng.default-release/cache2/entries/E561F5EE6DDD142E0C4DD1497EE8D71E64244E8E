@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="https://brewtoledo.com/blog3/xmlrpc.php">
+
+        <title>About Us &#8211; BREW coffee bar</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="BREW coffee bar &raquo; Feed" href="https://brewtoledo.com/blog3/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BREW coffee bar &raquo; Comments Feed" href="https://brewtoledo.com/blog3/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/brewtoledo.com\/blog3\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://brewtoledo.com/blog3/wp-includes/css/dist/block-library/style.min.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-style-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/style.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-bootstrap-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/bootstrap.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-bootstrap-theme-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/bootstrap-theme.min.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-fontawesome-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/font-awesome.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-main-style-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/style.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-camera-style-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/camera.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-animations-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/animate.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-slicknav-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/slicknav.min.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='athena-template-css'  href='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/temps/darkblue.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sedlex_styles-css'  href='https://brewtoledo.com/blog3/wp-content/sedlex/inline_styles/5056cb014da56f32a2b14b23c3e296a406893271.css?ver=20200305' type='text/css' media='all' />
+
+	<script type="text/javascript">
+	var appid = '';
+	</script>
+
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wapnsajax = {"ajaxurl":"https:\/\/brewtoledo.com\/blog3\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/plugins/wordapp-mobile-app/js/ajax.js?date=20200305184737&#038;ver=5.1.4'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/script.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/sedlex/inline_scripts/4139b9ad7b935834d8d31961702681728a5a530a.js?ver=20200305'></script>
+<link rel='https://api.w.org/' href='https://brewtoledo.com/blog3/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://brewtoledo.com/blog3/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://brewtoledo.com/blog3/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.4" />
+<link rel="canonical" href="https://brewtoledo.com/blog3/about-us/" />
+<link rel='shortlink' href='https://brewtoledo.com/blog3/?p=42' />
+<link rel="alternate" type="application/json+oembed" href="https://brewtoledo.com/blog3/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrewtoledo.com%2Fblog3%2Fabout-us%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://brewtoledo.com/blog3/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrewtoledo.com%2Fblog3%2Fabout-us%2F&#038;format=xml" />
+    <style type="text/css">
+
+
+        body{
+            font-size: 16px;
+            font-family: MS Sans Serif, Geneva, sans-serif;
+
+        }
+        h1,h2,h3,h4,h5,h6,.slide2-header,.slide1-header,.athena-title, .widget-title,.entry-title, .product_title{
+            font-family: Georgia, serif;
+        }
+        
+        ul.athena-nav > li.menu-item a{
+            font-size: 16px;
+        }
+        
+    </style>
+        <script type="text/javascript">
+    jQuery(document).ready( function($) {
+        $('.athena-blog-content').imagesLoaded(function () {
+            $('.athena-blog-content').masonry({
+                itemSelector: '.athena-blog-post',
+                gutter: 0,
+                transitionDuration: 0,
+            }).masonry('reloadItems');
+        });
+    });
+    </script>
+        </head>
+
+    <body class="page-template-default page page-id-42">
+        
+        <div id="athena-search" class="noshow">
+            
+            <div class="row">
+                
+                <span class="fa fa-search"></span>
+                
+                <form role="search" method="get" class="search-form" action="https://brewtoledo.com/blog3/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                
+                <span class="fa fa-close"></span>
+       
+                
+                
+            </div>
+            
+        </div>
+        
+        <div id="page" class="hfeed site">
+
+            <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+            <header id="masthead" class="site-header" role="banner">
+
+                <div id="athena-header" class="">
+
+                    <div class="header-inner">
+
+                        <div class="row">
+
+                            <div class="athena-branding">
+
+                                <div class="site-branding">
+                                    
+                                    <div id="athena-logo" class="show">
+                                        <a href="https://brewtoledo.com/blog3/" rel="home">
+                                            <img src="http://brewtoledo.com/blog3/wp-content/uploads/2018/02/brew-circle_no-background.png" title="BREW coffee bar" />
+                                        </a>
+                                    </div>
+                                        <h1 class="site-title hidden">
+                                            <a href="https://brewtoledo.com/blog3/" rel="home">BREW coffee bar</a>
+                                        </h1>
+
+                                        <p class="site-description hidden">
+                                            Where good things come together!                                        </p>
+                                        
+                                                                        
+                                </div><!-- .site-branding -->
+
+                            </div>
+
+                            <div class="athena-header-menu">
+
+                                                                
+                                
+                                <nav id="site-navigation" class="main-navigation" role="navigation">
+                                    
+                                    <div class="menu-2903-dorr-street-container"><ul id="primary-menu" class="athena-nav"><li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-55"><a href="https://brewtoledo.com/blog3/">Welcome</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-42 current_page_item menu-item-56"><a href="https://brewtoledo.com/blog3/about-us/" aria-current="page">About Us</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://brewtoledo.com/blog3/contact-us/">Contact Us</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://brewtoledo.com/blog3/brew-app/">Our App</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://brewtoledo.com/blog3/sign-up/">Sign-Up!</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://brewtoledo.com/blog3/gift-cards/">Gift Cards</a></li>
+</ul></div>
+
+                                </nav><!-- #site-navigation -->
+
+                                
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </header><!-- #masthead -->
+
+            <div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+    <main id="main" class="site-main athena-page" role="main">
+
+        
+            
+
+<div class="row">
+    
+        
+    <div class="col-sm-12">
+
+        <article id="post-42" class="post-42 page type-page status-publish hentry">
+
+
+
+            <div class="entry-content">
+
+                
+                    <header class="entry-header">
+                        <h1 class="entry-title">About Us</h1>                    </header><!-- .entry-header -->
+
+                
+
+                <p><em>Where good things come together</em>&#8230; BREW coffee bar is committed to offering the best coffee, tea, and pastries available to us to be enjoyed by you- our customer!</p>
+<p><strong>What we promise</strong>&#8211; to offer the best tasting and quality beverages and food items to you, our very appreciated customers!</p>
+<p><strong>Coffee</strong><br />
+Our coffee beans are roasted twice per week and we receive them the next day to ensure their freshness for both the beverages we make in house and the retail beans we offer for sale.<br />
+We have carefully selected Zingerman&#8217;s Coffee out of our neighboring city, Ann Arbor, MI as our exclusive roaster for many factors including the close relationships they have with their coffee farmers as well as the ethical means by which they purchase their products. Zingerman&#8217;s roasts small batches of coffee beans often and cups them continually to ensure they&#8217;re getting the best flavor possible. Our <strong>Cold Brew</strong>, also from Zingerman&#8217;s, is unlike any in the area. Only specific beans from South America and Indonesia are used for the preparation of Zingerman&#8217;s Cold Brew, they are coarsely ground and steep for 16 hours at 42 degrees. This concentrate is then either bottled for a quick refreshing beverage on the go or used in our iced coffee&#8217;s and frozen beverages! For more information on the Cold Brew we offer please visit <a href="http://www.zingermanscoffee.com/cold-brew/">www.zingermanscoffee.com/cold-brew/</a>.</p>
+<p><strong>Pastries</strong><br />
+We only offer pastries from locally owned bakers who use the freshest and best ingredients available and deliver them daily to us to serve fresh to you! Our pastries and bakery items have a very short shelf-life due to the fact that no preservatives are used so make sure to check our shelves often!</p>
+<p><strong>Tea</strong><br />
+We serve tea by rishi for all of our hot and ice tea options. Rishi is based in Milwaukee and offers direct trade, organic tea options in a delicious array of flavors!</p>
+<p><strong>Milk<br />
+</strong>Our milk comes from Hartzler Dairy Farm out of Wooster, OH. Many reasons for this but the most important ones include; the milk is non-homogenized leaving the flavor and nutrients you should expect from milk, there are no chemicals used from the soil that grows the grass the cows eat to the cows themselves to the milk making it more than organic. Most importantly to us is their cows are grass fed and pasture raised- their calves too! #happycows For more information about the benefits of Hartzler&#8217;s milk check out their website <a href="https://hartzlerfamilydairy.com/">www.hartzlerfamilydairy.com</a>.</p>
+<p><strong>What we <em>can&#8217;t</em> promise</strong>&#8211; as most of you know good things come at a cost, that being said we can&#8217;t promise to be the cheapest coffee shop in the area but we can still promise to offer the best quality based on flavor, ingredients and locality while still offering the best prices possible!</p>
+<p>We invite you to stop by today to see (and taste) for yourself! There are just some things that you don&#8217;t want to compromise quality on and we think you&#8217;ll be happy we don&#8217;t!</p>
+<p>Daily : 7am to 10pm</p>
+<p><img class="alignnone wp-image-52" src="http://brewtoledo.com/blog3/wp-content/uploads/2016/05/bakery-case-300x300.jpg" alt="bakery case" width="221" height="221" srcset="https://brewtoledo.com/blog3/wp-content/uploads/2016/05/bakery-case-300x300.jpg 300w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/bakery-case-150x150.jpg 150w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/bakery-case-768x768.jpg 768w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/bakery-case.jpg 960w" sizes="(max-width: 221px) 100vw, 221px" />     <img class="alignnone wp-image-73" src="http://brewtoledo.com/blog3/wp-content/uploads/2016/05/cold-brew-300x300.jpg" alt="cold-brew" width="220" height="220" srcset="https://brewtoledo.com/blog3/wp-content/uploads/2016/05/cold-brew-300x300.jpg 300w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/cold-brew-150x150.jpg 150w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/cold-brew-768x768.jpg 768w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/cold-brew-1024x1024.jpg 1024w" sizes="(max-width: 220px) 100vw, 220px" /> <img class="alignnone wp-image-74" src="http://brewtoledo.com/blog3/wp-content/uploads/2016/05/tea-300x300.jpg" alt="tea" width="219" height="219" srcset="https://brewtoledo.com/blog3/wp-content/uploads/2016/05/tea-300x300.jpg 300w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/tea-150x150.jpg 150w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/tea-768x768.jpg 768w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/tea.jpg 960w" sizes="(max-width: 219px) 100vw, 219px" />  <img class="alignnone wp-image-77" src="http://brewtoledo.com/blog3/wp-content/uploads/2016/05/pastry1-300x300.jpg" alt="pastry1" width="217" height="217" srcset="https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pastry1-300x300.jpg 300w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pastry1-150x150.jpg 150w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pastry1-768x768.jpg 768w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pastry1.jpg 960w" sizes="(max-width: 217px) 100vw, 217px" /> <img class="alignnone wp-image-78" src="http://brewtoledo.com/blog3/wp-content/uploads/2016/05/pumpkin-spice-300x300.jpg" alt="pumpkin-spice" width="217" height="217" srcset="https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pumpkin-spice-300x300.jpg 300w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pumpkin-spice-150x150.jpg 150w, https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pumpkin-spice.jpg 737w" sizes="(max-width: 217px) 100vw, 217px" /></p>
+                            </div><!-- .entry-content -->
+
+            <footer class="entry-footer">
+                            </footer><!-- .entry-footer -->
+
+
+
+        </article><!-- #post-## -->
+    </div>
+
+    
+</div>
+
+
+            
+        
+    </main><!-- #main -->
+
+
+    
+    
+</div><!-- #primary -->
+
+
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+    
+        
+    <div class="athena-footer" class="parallax-window" data-parallax="scroll" data-image-src="http://brewtoledo.com/blog3/wp-content/uploads/2016/04/BReW-Silver-Logo-WOODBkgrnd.jpg">
+        <div>
+            <div class="row">
+                            </div>            
+        </div>
+
+        
+    </div>
+    
+    <div class="clear"></div>
+    
+    <div class="site-info">
+        
+        <div class="row">
+            
+            <div class="athena-copyright">
+                Copyright BREW coffee bar 2016            </div>
+            
+            <div id="authica-social">
+                
+                                <a href="https://www.facebook.com/brewtoledo" target="_BLANK" class="athena-facebook">
+                    <span class="fa fa-facebook"></span>
+                </a>
+                                
+                
+                                
+                                <a href="https://www.instagram.com/brewtoledo/" target="_BLANK" class="athena-instagram">
+                    <span class="fa fa-instagram"></span>
+                </a>
+                                
+                                
+                
+                                
+                                <a href="https://twitter.com/brewtoledo" target="_BLANK" class="athena-twitter">
+                    <span class="fa fa-twitter"></span>
+                </a>
+                                
+            </div>
+
+            <div id="footer-menu" class="athena-footer-nav"><ul>
+<li class="page_item page-item-42 current_page_item"><a href="https://brewtoledo.com/blog3/about-us/" aria-current="page">About Us</a></li>
+<li class="page_item page-item-22"><a href="https://brewtoledo.com/blog3/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-117"><a href="https://brewtoledo.com/blog3/gift-cards/">Gift Cards</a></li>
+<li class="page_item page-item-61"><a href="https://brewtoledo.com/blog3/brew-app/">Our App</a></li>
+<li class="page_item page-item-99"><a href="https://brewtoledo.com/blog3/sign-up/">Sign-Up!</a></li>
+<li class="page_item page-item-12"><a href="https://brewtoledo.com/blog3/">Welcome</a></li>
+</ul></div>
+            <br>
+
+            <a href="https://smartcatdesign.net" rel="designer" style="display: block !important" class="rel">
+                Design by Smartcat                <img src="https://brewtoledo.com/blog3/wp-content/themes/athena/inc/images/cat_logo_mini.png"/>
+            </a>
+            
+            
+        </div>
+        
+        <div class="scroll-top alignright">
+            <span class="fa fa-chevron-up"></span>
+        </div>
+        
+
+        
+    </div><!-- .site-info -->
+    
+    
+    
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/sticky.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/easing.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/camera.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/parallax.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/owl.carousel.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/slicknav.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/wow.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://brewtoledo.com/blog3/wp-includes/js/wp-embed.min.js?ver=5.1.4'></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: brewtoledo.com @ 2020-03-05 13:37:47 by W3 Total Cache
+--><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/8715f33bbbfa5f2dc1e155ca830f5132?id=780935147c65";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>�{e�      ^aF�^aG	AkR8^aF�   '    :https://brewtoledo.com/blog3/about-us/ necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Thu, 05 Mar 2020 18:37:44 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Link: <https://brewtoledo.com/blog3/wp-json/>; rel="https://api.w.org/", <https://brewtoledo.com/blog3/?p=42>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+Age: 6
+Server: ATS/7.1.2
+ original-response-headers Date: Thu, 05 Mar 2020 18:37:44 GMT
+Set-Cookie: BX=fsru9jpf62hno&b=3&s=0t; expires=Sun, 06-Mar-2022 18:37:47 GMT; path=/; domain=.brewtoledo.com
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Link: <https://brewtoledo.com/blog3/wp-json/>; rel="https://api.w.org/"
+Link: <https://brewtoledo.com/blog3/?p=42>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+Age: 6
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: ATS/7.1.2
+ ctid 1 eTLD1Access 1;0;1517748388, uncompressed-len 0 predictor::resource-count 42 predictor::https://brewtoledo.com/blog3/wp-includes/css/dist/block-library/style.min.css?ver=5.1.4 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/style.css?ver=5.1.4 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/bootstrap.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/bootstrap-theme.min.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/font-awesome.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/wp-emoji-release.min.js?ver=5.1.4 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/style.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/camera.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/animate.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/slicknav.min.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/css/temps/darkblue.css?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/sedlex/inline_styles/5056cb014da56f32a2b14b23c3e296a406893271.css?ver=20200305 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/jquery/jquery.js?ver=1.12.4 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/plugins/wordapp-mobile-app/js/ajax.js?date=20200305184737&ver=5.1.4 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/imagesloaded.min.js?ver=3.2.0 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/masonry.min.js?ver=3.3.2 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/script.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/sedlex/inline_scripts/4139b9ad7b935834d8d31961702681728a5a530a.js?ver=20200305 1,1,1583433463,4096 predictor::http://brewtoledo.com/blog3/wp-content/uploads/2018/02/brew-circle_no-background.png 1,1,1583433463,4096 net-response-time-onstart 5166 net-response-time-onstop 5842 predictor::https://brewtoledo.com/blog3/wp-content/uploads/2016/05/bakery-case-300x300.jpg 1,1,1583433463,4097 predictor::https://brewtoledo.com/blog3/wp-content/uploads/2016/05/cold-brew-300x300.jpg 1,1,1583433463,4097 predictor::https://brewtoledo.com/blog3/wp-content/uploads/2016/05/tea-300x300.jpg 1,1,1583433463,4097 predictor::https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pastry1-300x300.jpg 1,1,1583433463,4097 predictor::https://brewtoledo.com/blog3/wp-content/uploads/2016/05/pumpkin-spice-300x300.jpg 1,1,1583433463,4097 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/images/cat_logo_mini.png 1,1,1583433463,4097 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/js/navigation.js?ver=20120206 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/js/skip-link-focus-fix.js?ver=20130115 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/sticky.min.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/easing.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/camera.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/parallax.min.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/owl.carousel.min.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/slicknav.min.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/js/wow.js?ver=1.2.3 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-includes/js/wp-embed.min.js?ver=5.1.4 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/wp-content/themes/athena/inc/fonts/fontawesome-webfont.woff2?v=4.4.0 1,1,1583433463,4096 predictor::https://brewtoledo.com/blog3/about-us/undefined?1583433474270 1,1,1583433463,4096 predictor::http://brewtoledo.com/blog3/wp-content/uploads/2016/04/BReW-Silver-Logo-WOODBkgrnd.jpg 1,1,1583433463,4096 predictor::https://np.lexity.com/embed/YW/8715f33bbbfa5f2dc1e155ca830f5132?id=780935147c65 1,1,1583433463,4096   ^

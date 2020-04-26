@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+	<img src="bg1.jpg" width="400" height="250"><br>
+	<h1 id="text"></h1>
+	<button id="show">Show</button>
+	<button id="hide">Hide</button>
+	<button id="toggle">Toggle</button>
+	<button id="fadeto">FadeTo</button>
+	<button id="showtext">Show Text</button>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#hide").click(function(){
+				// $("img").hide(3000,function(){ //$("img").hide(speed,callback);
+				// 	alert("Hide Success");
+				// }); 
+				$("img").fadeOut("slow");
+			});
+
+			$("#show").click(function(){
+				// $("img").show(3000,function(){
+				// 	alert("Show Success");
+				// });
+				$("img").fadeIn("slow");
+			});
+
+			$("#toggle").click(function(){
+				// $("img").toggle(2000);
+				$("img").fadeToggle(2000);
+			});
+
+			$("#fadeto").click(function(){
+				$("img").fadeTo(1000,0.3); //fadeTo(speed,opacity,callback)
+			});
+			$("#showtext").click(function(){
+				$("h1").html("Hello Jquery");
+			});
+		})
+	</script>
+</body>
+</html>

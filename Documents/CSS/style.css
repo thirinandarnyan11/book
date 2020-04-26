@@ -1,0 +1,83 @@
+*{
+	color: brown;
+	line-height: 35px;
+}
+#testingone{
+	background-color: #eee;
+}
+.smallcaps{
+	font-variant: small-caps;
+}
+.transform{
+	background-color: lightblue;
+	transform: rotate(20deg);
+}
+a[title="Google"],a[title="Facebook"]{
+	color: white;
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+}
+p a{
+	color: orange;
+	text-decoration: none;
+}
+p>a{
+	color: blue;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: black;
+}
+#hovertransition{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	transition: width 2s;
+}
+#hovertransition:hover{
+	width: 400px;
+}
+a[title='Google']:visited{
+	color: white;
+	background-color:black;
+}
+a[title='Facebook']:active{
+	color: pink;
+	font-size: 12px;
+}
+input[type='text']:focus{
+	background-color: darkblue;
+	color: white;
+}
+ul li:first-child{
+	color: blue;
+	list-style-image: url('coffeebean1.png');
+}
+ul li:last-child{
+	color: pink;
+}
+.boxmodel{
+	border: 2px solid black;
+	/*4 Slides*/
+	padding:10px;
+	/*top-bottom / left-right
+	padding: 10px 15px;
+	top right bottom left
+	padding: 10px 20px 30px 40px;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;*/
+
+	margin: 0px 20px;
+}
+.nav{
+	margin-top: 40px;
+	border: 1px solid gold;
+	width: 200px;
+	float: left;
+}
+.clear{
+	clear: both;
+}

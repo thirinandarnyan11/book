@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form name="myForm">
+		<label for="turboc">Turbo C</label>
+		<input type="number" name="turboc" id="turboc"><br>
+		<label for="java">Java</label>
+		<input type="number" name="java" id="java"><br>
+		<label for="js">JavaScript</label>
+		<input type="number" name="js" id="javascript"><br>
+		<button type="button" onclick="exam_mark()">Calculate</button>
+	</form>
+	<script type="text/javascript">
+		function exam_mark(){
+			var turboC=document.myForm.turboc.value;//name
+			var java=document.myForm.java.value;
+			var js=document.myForm.js.value;
+
+			if (turboC>=50 && java>=50 && js>=50) {
+				document.write("<h1>This student is pass.</h1>");
+				if (turboC>80 || java>80 || js>80 ) {
+					document.write("<h1>This student is pass with distinction!</h1>");
+				}else{
+					document.writeln("<h1>This student is pass.</h1>");
+				}
+			}else{
+				document.write("<h1>This student is fail!</h1>");
+			}
+
+			// console.log(turboC);
+			// console.log(java);
+			// console.log(js);
+		}
+	</script>
+</body>
+</html>

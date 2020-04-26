@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head">
+<!--*********************************************-->
+<!-- DNN Platform - http://www.dnnsoftware.com   -->
+<!-- Copyright (c) 2002-2018, by DNN Corporation -->
+<!--*********************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta name="REVISIT-AFTER" content="1 DAYS" />
+<meta name="RATING" content="GENERAL" />
+<meta name="RESOURCE-TYPE" content="DOCUMENT" />
+<meta content="text/javascript" http-equiv="Content-Script-Type" />
+<meta content="text/css" http-equiv="Content-Style-Type" />
+
+<link rel="icon" href="/Portals/56/nca-logo.ico" type="image/x-icon"/>
+
+<script>
+//-------------------------------------------------------
+var z_account = "7C732698-203A-4115-85F8-6682120462FF";
+var z_collector = "ncausa.informz.net";
+var z_cookieDomain = ".ncausa.org";
+//-------------------------------------------------------
+(function (e, o, n, r, t, a, s) { e[t] || (e.GlobalSnowplowNamespace = e.GlobalSnowplowNamespace || [], e.GlobalSnowplowNamespace.push(t), e[t] = function () { (e[t].q = e[t].q || []).push(arguments) }, e[t].q = e[t].q || [], a = o.createElement(n), s = o.getElementsByTagName(n)[0], a.async = 1, a.src = r, s.parentNode.insertBefore(a, s)) }(window, document, "script", "https://"+z_collector+"/web_trk/sp.js", "informz_trk")), informz_trk("newTracker", "infz", z_collector + "/web_trk/collector/", { appId: z_account, cookieDomain: z_cookieDomain }), informz_trk("setUserIdFromLocation", "_zs"), informz_trk("enableActivityTracking", 30, 15); informz_trk("trackPageView", null);
+</script>
+
+<script type="text/javascript"> _linkedin_partner_id = "1637866"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1637866&fmt=gif" /> </noscript><title>
+	The History of Coffee
+</title><meta id="MetaDescription" name="DESCRIPTION" content="No one knows exactly how or when coffee was discovered, though there are many legends about its origin." /><meta id="MetaKeywords" name="KEYWORDS" content="coffee, history, Kaldi, goats, Ethiopia, coffee houses, trade, about coffee, the National Coffee Association, cafe,DotNetNuke,DNN" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/Skins/NCA/css/bootstrap.min.css?cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/Skins/NCA/css/owl.carousel.css?cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/Skins/NCA/css/owl.theme.css?cdv=866" type="text/css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;cdv=866" type="text/css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Domine:400,700&amp;cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/Skins/NCA/font-awesome/css/font-awesome.min.css?cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/Skins/NCA/skin.css?cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/Containers/NCA/container.css?cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/portal.css?cdv=866" type="text/css" rel="stylesheet"/><link href="/Portals/56/Skins/NCA/NOAH/ToolTip.NOAH.css?cdv=866" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=866" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=866" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=866" type="text/javascript"></script>
+    <!-- ADDED SCRIPTS REQUIRED FOR NOAH -->
+    <script src="/DesktopModules/NOAH_Common/js/NOAH.js"></script>
+<link rel='SHORTCUT ICON' href='/Portals/56/nca-logo.ico?ver=2015-10-15-123605-960' type='image/x-icon' />
+
+          <script type="text/javascript">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-20700953-2', 'auto', {'legacyCookieDomain': 'none'});
+            
+			var dimensionName = localStorage.getItem('Analytics.Page.PageVariantDimension');
+
+			if (dimensionName != undefined && dimensionName != '') { ga('set', dimensionName, 'Default'); }
+
+            ga('send', 'pageview');	
+          </script>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1" /><link href="/WebResource.axd?d=QKX1AO1vX8eJ06IveR_1Khxcla5TdksWwszAF-1ZEIZDE4GJKC4SJo1vOUpdsDpmox4Lpbmz66CdnrJkMaPWvZn8E_1SRnfgz2V9JQ2&amp;t=636748105904432246" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="Body">
+    
+    <form name="Form" method="post" action="/about-coffee/history-of-coffee" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="RadStyleSheetManager_TSSM" id="RadStyleSheetManager_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="79TsqIp3ySS5eDHixJsQ7Hz1kH+35wZWfwzbvn/8nXZCCH06rpetUIysNPnLPBVet6mEzOuX/CDKvHulwlsXKsF3jtdE+in0ATEMntCylfh4rB/6BEybQBmPUKJUhx12Smxsb3m1g8UDcXsBPpcP2b2LydNdnFfDztaA8kb3sK7uz+OBfx/Ab6Yw4s6SgVIVCa8yg7OXyePJqgFhssMChmQudftle+WdHZWUXK1rXJAmTDaJ6vDWc5bNSCu7SaqJm3Opm4SOp9s2EWKraiPzX8JmFHpmZOabokiBxU8ZCcV4ETyL7VJbAfLP6t/jQ7R3ZN2NfAd1fYfA7ynDJAd/gckDP9EpCReI1r52y9oaIwernp4fXuQ+xCOODThK4afakwz8xU0w7trYHB5XFDJ093ZNmlBUq9cxkqDW9ZnNnbEYdZ3JWLUhjOvDOzVYFM0jwXPS+AoriQshBangT0+zxFsI5hyLr5boixZVVXiCIFBarQ3s6+0hfNNHxf1g+C5HX+GFLcWeQIulKdniYba4MP/nws/ESt9MotIppCQlg6QRyj0j+IzaVcZKC3y1EDUn1XF0gSAUmtDhaRsQJ3UfJs3LnGw3gC7sZCXmu56tTUkJXwfc45jzzSi6NeLXahlNSEdfMSjOzc8AwP9GFHjAYu+02QLGeCZBc3dZpoqZ9ErSFDAL2nVFhYuOdCwXZEz1HbRPi83x/4BZeGwVWGzmdTfNaAvcJjlc4HhXucN07BFWoEuXGFeEWHJE2NNv7ebjnWWJw3d6zXx4lf0k" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV0bpU3BPUZYHntuW8rC2yuOo0LGxPnl331iN-Xqzxnq0frr-Ts1&amp;t=637100573640000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3Iqt8-V4_ewJhOOXK3HX-rfcvooD9bbnClxlBxo-sWTIlFeaM2RW2ST6Nub-qw7LW_n0DhlpyPeNWidC1vbE4j6BzhGwmylEnyeFsFTm_K2tzLYiHPQ9hU_sJSNtPg2&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoLJcCR8Q-SiB4Ozq5BeMF5GfeBOqODP0eE3zXMEK_8yK_J0bQ1wZDGewP0DRykS_Jzkp2PMYJU39ZpmZJUNheZ1ZgHQbnpjPkVpDRdtniV3fLGsu4QnMeNTGLse1NbIFV4QBqdP0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TDVjdgRbdvOKz2FPoEhKiK-tzL-D8OQJmkxpG6yO49NluOJP_6RggW5caCZ9t1kA2srUaAm2orMm2q184WnZTPeNgyh9786bCLlrPw2&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=sF8Y0c2qLAdLYhZzJRhLjvz05xHjI-FIGNWfCYK8USQKmj2s5ccNYzXOiFSrAxCy_IBo7yHGCOx7B7ohV7s7jIzlFV37V2fO16nFYQ2&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=A22-SyJgKhIMlwH7qebr8Qrb7qkWvnCS6G9Mj-tam4k6dK2UyltodKzvQHjW432-YWIW2VSKYHCeFXplkCXNfOStv7pmAwrXjFeBVB65n334XZss73Pc3Weinsw1&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mbGZm65DzNDxXKFNihbnsSVTCCtORkqwYp3JDzwWRcY9lS8VDR-ngJPSpleZuI2W4zc9q1Yfa4bl--bDrHmHwWvKZf8L43A2E_iaY1Esx6cO_zDq0&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cmIcXiVJ__e4u4SZslwuSOtuSigmH_-k8gBEfqgVVP1JsybeZ5Ajl-Hrox7y1XrClf22iRGNDbBFANzNpoRPnWBpjLgyqkeUFWaAD-pZo6iBrHgK0&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=aoSSiMnLNTBICekRrlutd1Q3O-SbObsibxAx9OtMMmyxo-2U6VMtD054ouTkEIvJ1TRm9HyCVvKEYZK1_lhqVguWLJ__Xxto6VRCjj-Jf5X4SdYAj5yTunJS4EGqKW6fHiZJEBx-D1ejV_gi0&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=GUyLPMOEFhcoSsVZ2d_du44dJUwWzhedOI67NvgTnFWc-ELHh3M5Vw_2zOJ7xNw1-Uj3hlmCMNqFHNHOmGMZq32MwMoGm1vKw6WZ4J_AgaCC9GPI6zjiDloRaW0cUoevlDmgCg2&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mxxObI9nroQ9m8Dk_-5dlRlOydIJdgPJjrIt3sa1vl8JWqaU7uIwxiIfBmNrOxipPJrZ3o-zUUolNlnETsRmQr_wNy_0zb6zGeqbhKQK3EqHJe-ROxe2z90hbm2wBh-Rcs3nKg2&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ei_BvuPu_kc37yRxi72EZuZksHLx77wwaI-loV3m0KZVRn0dk8n7N-sxFjPe64X_z9OYoQWVkQa0SjWVPYKW294JlCRxoZ_u0prbHo4iDbPV_dvBUtwAeNjZk9k1&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qsRpKh5Y3Y05CF1GFuyXA4TgJSpJy183MFZDUnxWTowX1rBVl47irahnFXMZASg-6V0X1BN8_1ZMuEvt3IzmSRvyjntHSRtF5ugSP9umMrxhJ23ILr7EIm8WcOs1&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LxjRs3XOu8BpyhvbVmXSRB2_2-qJXwB5AoKdZTtuDfOug2snGo-AEKtF4MWn7RUUmG4CI3qpmLc7orinYiichu8eWrv_zjKz3nZj1odcrRt16FEFELlOFltysK00q9nVsF2kGPw2rD2prbqPwT7qsO4y9Dw1&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=86EhAqQjfuMR2jzBs2C2tDmCtrpiS3oxeF7oNV-t-nmNd_8XKrt1TT99xHDABNddZRz-4i-_kzr9WHz-RJxcGSf86gy0MGEUuLwvR-6F-skToZR9-IJvDhtkrVse1k0K6F5GJsOWjaKb4Bq30&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=utaAJrK4ErqNpGHwL0iBQ0_eOEaCXxZmrPh0c4Iyi1O7dGqL9VjA9AQYcq2NtEz_dRuJViF1lljhEbIxYMeprRgm9iN9hst0ylFA1F_zYJusyRSq8aERk2dU5rM1&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wl5RKBCXTWDyUkQkuQQenDFBGavMHPuBF2oJrU9dibgprG6KbI-_4aTkLQF7iXM8XhwXgn5le62_kZGB_zJAtnXZ4sUpYsYpMLDKJ1A4mSE9NzXFMob8MGpM4CQ1&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OhiQVM8i2ffto1BUwO8Gx-v_wiki8oOA0dGhtAcRdzpoDFYv5SX1mzqAen1C41Q8mByGwlakfGwxgGueshc3PynrGqNjghZPMXb1H6kSgxh5iwwf-CMtD_H45oc1&amp;t=fffffffff298d47a" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div><script src="/js/dnn.js?cdv=866" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=866" type="text/javascript"></script><script src="/Portals/56/Skins/NCA/../../../../NOAH/scripts/Includes/NOAH.Include.Config.js?cdv=866" type="text/javascript"></script><script src="/Portals/56/Skins/NCA/../../../../NOAH/scripts/Includes/NOAH.Include.js?cdv=866" type="text/javascript"></script><script src="/js/dnncore.js?cdv=866" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=866" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$noahCart$upnlShoppingCart','dnn_noahCart_upnlShoppingCart','tRadAjaxManagerSU','RadAjaxManagerSU'], [], [], 600, '');
+//]]>
+</script>
+
+        
+        
+        
+
+<div class="hidden">
+     <!--CDF(Javascript|/Portals/56/Skins/NCA/../../../../NOAH/scripts/Includes/NOAH.Include.Config.js?cdv=866|DnnBodyProvider|90)-->
+        <script>
+            try {
+                // PLACE CONFIG OPTIONS HERE
+                // EXAMPLE:
+                performIncludeFiles = false; // IF FALSE; STOPS THE AUTO LOAD, SO THAT WE CAN START IT MANUALLY
+                performIncludeBootstrapFiles = true;
+                performIncludeDFBCSSFiles = true;
+                performIncludeDFBJSFiles = true;
+            }
+            catch (ex) {
+                console.log(ex.message);
+            }
+        </script>
+    
+    <!--CDF(Javascript|/Portals/56/Skins/NCA/../../../../NOAH/scripts/Includes/NOAH.Include.js?cdv=866|DnnBodyProvider|100)-->
+        <script>
+            // MANUALLY CALL THE LOAD
+            // EXAMPLE:
+            performIncludeFiles = true;
+
+            loadFiles();
+            
+        </script>
+    
+
+    <script src="../../../NOAH/plugins/NOAH-Toggle/NOAH-Toggle.js"></script>
+    <link href="../../../NOAH/plugins/NOAH-Toggle/css/NOAH-Toggle.css" rel="stylesheet" />
+    <script src="/NOAH/scripts/ClientValidation.js"></script>
+    <script src="/NOAH/scripts/NOAHUtilities.js"></script>
+
+
+
+<!-- Bootstrap Core CSS -->
+<!--CDF(Css|/Portals/56/Skins/NCA/css/bootstrap.min.css?cdv=866|DnnPageHeaderProvider|13)-->
+
+<!-- Owl Carousel Assets -->
+<!--CDF(Css|/Portals/56/Skins/NCA/css/owl.carousel.css?cdv=866|DnnPageHeaderProvider|13)-->
+<!--CDF(Css|/Portals/56/Skins/NCA/css/owl.theme.css?cdv=866|DnnPageHeaderProvider|13)-->
+
+<!-- Custom Fonts -->
+<!--CDF(Css|https://fonts.googleapis.com/css?family=Montserrat:400,700&cdv=866|DnnPageHeaderProvider|14)-->
+<!--CDF(Css|https://fonts.googleapis.com/css?family=Domine:400,700&cdv=866|DnnPageHeaderProvider|14)-->
+<!--CDF(Css|/Portals/56/Skins/NCA/font-awesome/css/font-awesome.min.css?cdv=866|DnnPageHeaderProvider|14)-->
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</div>
+
+
+<!-- BAR AT THE VERY TOP OF THE PAGE, MEMBER AND LOGIN STUFF -->
+<section class="" id="top-bar">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-8 primary">
+                <p><a href="/About-NCA" title="About NCA">About NCA</a>|<a href="/Newsroom" title="Newsroom">Newsroom</a>|<a href="/Partner-with-NCA" title="Partner with NCA">Partner with NCA</a>|<a href="/Blog" title="Blog">Blog</a>|<a href="/Career-Center" title="Career Center">Career Center</a></p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 secondary">
+                <p>
+                    
+
+<style>
+    [id*=NOAHSignInUser] {
+        display: inline-block;
+        position: relative;
+    }
+
+    [id*=SignInUserInfoBox] {
+        display: none;
+        background-color: #FFF;
+        -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.35);
+        -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.35);
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.35);
+        font-size: .75em;
+        padding: 5px;
+        opacity: .95;
+        position: fixed;
+        right: 0;
+        text-align: left;
+        width: 100%;
+        z-index: 10;
+    }
+
+    [id*=SignInUserPhoto] {
+        display: block;
+        float: left;
+        margin-right: 2px;
+        width: 25%;
+    }
+
+    [id*=SignInUserPhoto] .user-photo {
+        width: 48px;
+    }
+
+    [id*=SignInUserInfo] {
+        display: block;
+        float: left;
+        width: 73%;
+    }
+
+    [id*=SignInUserInfo] .user-name {
+        font-weight: bold;
+        margin: 0;
+        text-transform: uppercase;
+    }
+
+    [id*=SignInUserInfo] a.manage-account {
+        background-color: #555;
+        color: #FFF;
+        padding: 4px 6px;
+        text-decoration: none;
+    }
+
+    [id*=SignInUserInfo] a.manage-account:hover {
+        background-color: #727272;
+        text-decoration: none;
+    }
+
+    [id*=SignInUserInfoSignOut] {
+        display: block;
+        text-align: center;
+    }
+
+    /* Desktop Layout: 769px and up. */
+
+    @media only screen and (min-width: 769px) {
+        [id*=SignInUserInfoBox] {
+            position: absolute;
+            width: 250px;
+        }
+    
+    }
+</style>
+
+<script>
+    function toggleMyAccount(sender, e)
+    {
+        var result = false;
+        try
+        {
+            toggleUserInfo(sender, e);
+        }
+        catch (ex)
+        {
+            console.log(ex.message);
+        }
+        return result;
+    }
+
+    //function makeMobileFriendlySignIn() {
+    //    try {
+    //        if (isMobileTouchDevice) {
+    //            $('[onclick]').each(function () {
+    //                try {
+    //                    var element = $(this);
+    //                    var val = element.attr('onclick');
+
+    //                    if (isMobileTouchDevice) {
+    //                        element.removeAttr('onclick');
+    //                        element.bind('ontouchstart', function () { eval(val); });
+    //                    }
+    //                }
+    //                catch (ex) {
+    //                    console.log("makeMobileFriendly() " + ex.message);
+    //                }
+    //            });
+    //        }
+    //    }
+    //    catch (ex) {
+    //        console.log(ex.message);
+    //    }
+    //}
+
+    //function pageLoad() { try { makeMobileFriendlySignIn(); } catch (ex) { console.log(ex.message); } }
+
+    //$(document).ready(function () { try { makeMobileFriendlySignIn(); } catch (ex) { console.log(ex.message); } });
+</script>
+
+<div id="NOAHSignInUser">
+    <a id="dnn_noahSignIn_hlSignIn" rel="nofollow" href="https://www.ncausa.org/Sign-In?returnurl=%2fabout-coffee%2fhistory-of-coffee">User Login</a>
+    <div id="SignInUserInfoBox" style="display:none;">
+        <div id="SignInUserPhoto">
+            <img id="dnn_noahSignIn_imgPhoto" class="user-photo" src="" align="top" style="border-width:0px;" />
+        </div>
+        <div id="SignInUserInfo">
+            
+        </div>
+        <hr />
+        <div id="SignInUserInfoSignOut">
+            <a id="dnn_noahSignIn_hlUserInfoSignOut" class="user-sign-out"></a>
+        </div>
+    </div>
+</div>
+
+<script>
+    function toggleUserInfo(sender, e) {
+        try {
+            // toggle user info box
+            $(sender).parent().find("[id*=SignInUserInfoBox]").slideToggle("fast");
+        } catch (ex) {
+            // alert(ex);
+        }
+    }
+    
+    $(document).ready(function (e) {
+        try {
+            // check for userInfoCssClass property and set the class if found
+            var userInfoCssClass = "";
+            if (userInfoCssClass != null && userInfoCssClass != "") {
+                $("[id*=SignInUserInfoBox]").addClass(userInfoCssClass);
+            }
+        } catch (ex) {
+            // alert(ex);
+        }
+    });
+    
+    $(document).mouseup(function (e) {
+        try {
+            // hide user info box if the target of the click isn't the container nor a descendant of the container
+            var container = $("[id*=NOAHSignInUser]");
+            if (!container.is(e.target) && container.has(e.target).length == 0) {
+                $("[id*=SignInUserInfoBox]").slideUp("fast");
+            }
+        } catch (ex) {
+            // alert(ex);
+        }
+    });
+</script>
+
+                    |<div id="dnn_noahCart_upnlShoppingCart">
+	
+        <a id="dnn_noahCart_lbShoppingCart" class="FormLabel" href="javascript:__doPostBack(&#39;dnn$noahCart$lbShoppingCart&#39;,&#39;&#39;)">Cart</a>
+    
+</div>
+                    |<a href="/About-NCA/Membership"><strong>Join NCA!</strong></a><a href="#" title="Search" class="icon-search search-desktop"></a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /.top-bar -->
+
+<!-- HEADER, LOGO AND MAIN NAV -->
+<section id="header">
+    <!-- Navigation -->
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container header-wrapper">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" title="Menu" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                </button>
+                <a href="#" title="Search" class="icon-search search-mobile"></a>
+                <a class="navbar-brand" href="/" title="NCA - National Coffee Association USA - Est. 1911"></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                
+<ul class="nav navbar-nav navbar-right">
+	
+	<li>
+		
+			<a href="http://www.ncausa.org/Members" target="" title="Members">Members</a>
+		
+			<div class="subnav-panel">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul class="subnav-menu">
+                            
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Quarterly-Market-Sizing" target="" title="Quarterly Market Sizing">Quarterly Market Sizing</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/On-Demand-Webinars" target="" title="On-Demand Webinars">On-Demand Webinars</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Coffee-Reporter-Weekly" target="" title="Coffee Reporter Weekly">Coffee Reporter Weekly</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Member-Directory" target="" title="Member Directory">Member Directory</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Savings-For-Members" target="" title="NCA Member Discounts">NCA Member Discounts</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Government-Affairs" target="" title="Government Affairs">Government Affairs</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Member-Alerts" target="" title="Member Alerts">Member Alerts</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/How-to-Get-Involved" target="" title="How to Get Involved">How to Get Involved</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/NCA-Next-Generation" target="" title="NCA Next Generation">NCA Next Generation</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Partner-Publications" target="" title="Partner Publications">Partner Publications</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Learn-About-Membership" target="" title="Learn About Membership">Learn About Membership</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Members/Scientific-Leadership-Council" target="" title="Scientific Leadership Council">Scientific Leadership Council</a>
+		
+	</li>
+
+                        </ul>
+                    </div>
+                    <!-- /col -->
+                    
+                    <!-- /col -->
+                </div>
+                <!-- /row -->
+            </div>
+            <!-- /subnav menu -->
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee" target="" title="About Coffee">About Coffee</a>
+		
+			<div class="subnav-panel">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul class="subnav-menu">
+                            
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/What-is-Coffee" target="" title="What is Coffee?">What is Coffee?</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/History-of-Coffee" target="" title="History of Coffee">History of Coffee</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/10-Steps-from-Seed-to-Cup" target="" title="10 Steps from Seed to Cup">10 Steps from Seed to Cup</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/How-to-Store-Coffee" target="" title="How to Store Coffee">How to Store Coffee</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide" target="" title="Coffee Roasts Guide">Coffee Roasts Guide</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/Coffee-Around-the-World" target="" title="Coffee Around the World">Coffee Around the World</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="https://www.ncausa.org/About-Coffee/How-to-Brew-Coffee" target="" title="How to Brew Coffee">How to Brew Coffee</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/Illustrated-Coffee-Education" target="" title="Illustrated Coffee Education">Illustrated Coffee Education</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/External-Resources" target="" title="External Resources">External Resources</a>
+		
+	</li>
+
+                        </ul>
+                    </div>
+                    <!-- /col -->
+                    
+                    <!-- /col -->
+                </div>
+                <!-- /row -->
+            </div>
+            <!-- /subnav menu -->
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Health-Caffeine" target="" title="Caffeine &amp; Health">Caffeine &amp; Health</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Sustainability" target="" title="Sustainability">Sustainability</a>
+		
+			<div class="subnav-panel">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul class="subnav-menu">
+                            
+	<li>
+		
+			<a href="http://www.ncausa.org/Sustainability-Showcase" target="" title="Sustainability Showcase">Sustainability Showcase</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Sustainability/Labor-at-Origin" target="" title="Labor at Origin">Labor at Origin</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Sustainability/Coffee-Gives-Back-Showcase" target="" title="Coffee Gives Back Showcase">Coffee Gives Back Showcase</a>
+		
+	</li>
+
+                        </ul>
+                    </div>
+                    <!-- /col -->
+                    
+                    <!-- /col -->
+                </div>
+                <!-- /row -->
+            </div>
+            <!-- /subnav menu -->
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources" target="" title="Industry Resources">Industry Resources</a>
+		
+			<div class="subnav-panel">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul class="subnav-menu">
+                            
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/2020-NCA-Convention" target="" title="2020 NCA Convention">2020 NCA Convention</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Events-Education-Networking/Webinars" target="" title="Webinars">Webinars</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Business-Directory" target="" title="Business Directory">Business Directory</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Economic-Impact" target="" title="Economic Impact">Economic Impact</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Market-Research" target="" title="Market Research">Market Research</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/IARC-FAQ" target="" title="IARC FAQ">IARC FAQ</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/About-Coffee/External-Resources" target="" title="Additional Resources">Additional Resources</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Cold-Brew" target="" title="Cold Brew">Cold Brew</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Insurance" target="" title="Insurance">Insurance</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Food-Safety-Plan-Templates" target="" title="Food Safety Plan Templates">Food Safety Plan Templates</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Coffee-and-Prop-65" target="" title="Coffee and Prop 65">Coffee and Prop 65</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/PCQI-Training" target="" title="PCQI Training">PCQI Training</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Coffee-and-Cannabis" target="" title="Coffee and Cannabis">Coffee and Cannabis</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Coffee-Roasting-Emissions-Guide" target="" title="Roasting Emissions: Environmental">Roasting Emissions: Environmental</a>
+		
+	</li>
+
+	<li>
+		
+			<a href="http://www.ncausa.org/Industry-Resources/Workplace-Safety-Diacetyl" target="" title="Workplace Safety &amp; Diacetyl">Workplace Safety &amp; Diacetyl</a>
+		
+	</li>
+
+                        </ul>
+                    </div>
+                    <!-- /col -->
+                    
+                    <!-- /col -->
+                </div>
+                <!-- /row -->
+            </div>
+            <!-- /subnav menu -->
+		
+	</li>
+
+</ul>
+
+
+
+
+
+
+                <ul class="nav navbar-nav navbar-right secondary-nav">
+                    <li><a href="/About-NCA" title="About NCA">About NCA</a></li>
+                    <li><a href="/Newsroom" title="Newsroom">Newsroom</a></li>
+                    <li><a href="/Partner-with-NCA" title="Partner with NCA">Partner with NCA</a></li>
+                    <li><a href="/Blog" title="Blog">Blog</a></li>
+                    <li><a href="/Career-Center" title="Career Center">Career Center</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+
+            <div id="search-panel">
+                <div class="input-group">
+                    <input id="siteSearchInput" type="text" class="form-control">
+                    <span class="input-group-btn">
+                        <button id="siteSearchButton" class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+                    </span>
+                </div>
+            </div>
+            <!-- /search panel -->
+
+        </div>
+        <!-- /.container -->
+    </nav>
+</section>
+<!-- /.header -->
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- +++++++++++++++++ / END GLOBAL HEADER INCLUDE ++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+
+<!-- BEGIN PRIMARY PAGE WRAPPER AREA -->
+<section id="main">
+    <div class="container">
+
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-6 breadcrumb">
+                <span id="dnn_dnnBreadcrumbs_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://www.ncausa.org/" class="SkinObject" itemprop="item" ><span itemprop="name">National Coffee Association</span></a><meta itemprop="position" content="1" /></span>/<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://www.ncausa.org/About-Coffee" class="SkinObject" itemprop="item"><span itemprop="name">About Coffee</span></a><meta itemprop="position" content="2" /></span>/<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://www.ncausa.org/About-Coffee/History-of-Coffee" class="SkinObject" itemprop="item"><span itemprop="name">History of Coffee</span></a><meta itemprop="position" content="3" /></span></span></span>
+            </div>
+            <div class="col-lg-6">
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="addthis_sharing_toolbox"></div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Default DNN Content Pane -->
+        <div class="row">
+            <div id="dnn_ContentPane" class="col-sm-12 DNNEmptyPane"></div>
+        </div>
+
+        <!-- Feature callouts row -->
+        <div class="row">
+            <div id="dnn_FeatureCallout1Pane" class="col-md-4 col-sm-6 DNNEmptyPane"></div>
+            <div id="dnn_FeatureCallout2Pane" class="col-md-4 col-sm-6 DNNEmptyPane"></div>
+            <div id="dnn_FeatureCallout3Pane" class="col-md-4 col-sm-6 DNNEmptyPane"></div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Content Row -->
+        <div class="row">
+
+            <!-- Content Column -->
+            <div id="dnn_MainContentPane" class="col-lg-8 col-md-8 content-main"><div class="DnnModule DnnModule-DNN_HTML DnnModule-4857 DnnVersionableControl"><a name="4857"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr4857_ContentPane"><!-- Start_Module_4857 --><div id="dnn_ctr4857_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr4857_HtmlModule_lblContent"><p><img src="/portals/56/Images/AboutCoffee/NCA_Web_Large_coffee-beans-history.png?ver=2018-02-28-115401-897" alt="NCA History of Coffee" class="img-responsive" /></p>
+<h1 class="p1">The History of Coffee</h1>
+<p class="p1"><span class="lead">No one knows exactly how or when coffee was discovered, though there are many legends about its origin.</span></p>
+<h2 class="p1">An Ethiopian Legend</h2>
+<p class="p1"><img class="floatleft" alt="Goats" src="/portals/56/Images/PageImages/goats_giphy.gif" />Coffee grown worldwide can trace its heritage back centuries to the ancient coffee forests on the Ethiopian plateau. There, legend says the goat herder Kaldi first discovered the potential of these beloved beans.&nbsp;</p>
+<p class="p1">The story goes that that Kaldi discovered coffee after he noticed that after eating the berries from a certain tree, his goats became so energetic that they did not want to sleep at night<span class="s1">.</span>&nbsp;</p>
+<p class="p1">Kaldi reported his findings to the abbot of the local monastery, who made a drink with the berries and found that it kept him alert through the long hours of evening prayer. The abbot shared his discovery with the other monks at the monastery, and knowledge of the energizing berries began to spread.</p>
+<p class="p1">As word moved east and coffee reached the Arabian peninsula, it began a journey which would bring these beans across the globe.</p>
+<h2 class="p1">The Arabian Peninsula</h2>
+<p class="p1">Coffee cultivation and trade began on the Arabian Peninsula.&nbsp; By the 15th century, coffee was being grown in the Yemeni district of Arabia and by the 16th century it was known in Persia, Egypt, Syria, and Turkey.</p>
+<p class="p1">Coffee was not only enjoyed in homes, but also in the many public coffee houses &mdash; called <em>qahveh khaneh</em> &mdash; which began to appear in cities across the Near East. The popularity of the coffee houses was unequaled and people frequented them for all kinds of social activity.&nbsp;</p>
+<p class="p2">Not only did the patrons drink coffee and engage in conversation, but they also listened to music, watched performers, played chess and kept current on the news.&nbsp; Coffee houses quickly became such an important center for the exchange of information that they were often referred to as &ldquo;Schools of the Wise.&rdquo;</p>
+<p class="p1">With thousands of pilgrims visiting the holy city of Mecca each year from all over the world, knowledge of this &ldquo;wine of Araby&rdquo; began to spread.&nbsp;</p>
+<h2 class="p1">Coffee Comes to Europe</h2>
+<p class="p1">European travelers to the Near East brought back stories of an unusual dark black beverage. By the 17th century, coffee had made its way to Europe and was becoming popular across the continent.&nbsp;</p>
+<p class="p2">Some people reacted to this new beverage with suspicion or fear, calling it the &ldquo;bitter invention of Satan.&rdquo; The local clergy condemned coffee when it came to Venice in 1615. The controversy was so great that Pope Clement VIII was asked to intervene. He decided to taste the beverage for himself before making a decision, and found the drink so satisfying that he gave it papal approval.</p>
+<p class="p2">Despite such controversy, coffee houses were quickly becoming centers of social activity and communication in the major cities of England, Austria, France, Germany and Holland. In England &ldquo;penny universities&rdquo; sprang up, so called because for the price of a penny one could purchase a cup of coffee and engage in stimulating conversation. &nbsp;</p>
+<p class="p2">Coffee began to replace the common breakfast drink beverages of the time &mdash;&nbsp;beer and wine. Those who drank coffee instead of alcohol began the day alert and energized, and not surprisingly, the quality of their work was greatly improved. (We like to think of this a precursor to the modern office coffee service.)</p>
+<p class="p2">By the mid-17th century, there were over 300 coffee houses in London, many of which attracted like-minded patrons, including merchants, shippers, brokers and artists.</p>
+<p class="p2">Many businesses grew out of these specialized coffee houses. Lloyd's of London, for example, came into existence at the Edward Lloyd's Coffee House.</p>
+<h3>
+</h3>
+<h2>The New World</h2>
+<p class="p2">In the mid-1600's, coffee was brought to New Amsterdam, later called New York by the British.</p>
+<p class="p2">Though coffee houses rapidly began to appear, tea continued to be the favored drink in the New World until 1773, when the colonists revolted against a heavy tax on tea imposed by King George III. The revolt, known as the Boston Tea Party, would forever change the American drinking preference to coffee.&nbsp;</p>
+<blockquote class="p2">"Coffee - the favorite drink of the civilized world." - Thomas Jefferson</blockquote>
+<h2 class="p2">Plantations Around the World</h2>
+<p class="p1">As demand for the beverage continued to spread, there was fierce competition to cultivate coffee outside of Arabia.&nbsp;</p>
+<p class="p2">The Dutch finally got seedlings in the latter half of the 17th century. Their first attempts to plant them in India failed, but they were successful with their efforts in Batavia, on the island of Java in what is now Indonesia. &nbsp;</p>
+<p class="p1">The plants thrived and soon the Dutch had a productive and growing trade in coffee. They then expanded the cultivation of coffee trees to the islands of Sumatra and Celebes.</p>
+<h2 class="p2">Coming to the Americas</h2>
+<p class="p1">In 1714, the Mayor of Amsterdam presented a gift of a young coffee plant to King Louis XIV of France. The King ordered it to be planted in the Royal Botanical Garden in Paris. In 1723, a young naval officer, Gabriel de Clieu obtained a seedling from the King's plant. Despite a challenging voyage &mdash; complete with horrendous weather, a saboteur who tried to destroy the seedling, and a pirate attack &mdash; he managed to transport it safely to Martinique. &nbsp;</p>
+<p class="p2">Once planted, the seedling not only thrived, but it&rsquo;s credited with the spread of over 18 million coffee trees on the island of Martinique in the next 50 years. Even more incredible is that this seedling was the parent of all coffee trees throughout the Caribbean, South and Central America.</p>
+<p class="p2">The famed Brazilian coffee owes its existence to Francisco de Mello Palheta, who was sent by the emperor to French Guiana to get coffee seedlings. The French were not willing to share, but the French Governor's wife, captivated by his good looks, gave him a large bouquet of flowers before he left&mdash; buried inside were enough coffee seeds to begin what is today a billion-dollar industry.</p>
+<p class="p2">Missionaries and travelers, traders and colonists continued to carry coffee seeds to new lands, and coffee trees were planted worldwide. Plantations were established in magnificent tropical forests and on rugged mountain highlands. Some crops flourished, while others were short-lived. New nations were established on coffee economies. Fortunes were made and lost. By the end of the 18th century, coffee had become one of the world's most profitable export crops. After crude oil, coffee is the most sought commodity in the world<span class="s1" style="font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: inherit; line-height: inherit; font-stretch: inherit; font-family: inherit;">.</span></p>
+<p class="p1">&nbsp;</p></div>
+
+
+
+
+</div><!-- End_Module_4857 --></div>
+</section>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-6681 DnnVersionableControl"><a name="6681"></a>
+
+<div class="well">
+    <h4>
+        <span id="dnn_ctr6681_dnnTitle_titleLabel" class="container-title">Related Reading</span>
+
+
+
+    </h4>
+    <div id="dnn_ctr6681_ContentPane"><!-- Start_Module_6681 --><div id="dnn_ctr6681_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr6681_HtmlModule_lblContent"><h4><a href="http://nationalcoffeeblog.org/2015/12/15/5-attempts-to-ban-coffee-in-history/" target="_blank">5 Historical Attempts to Ban Coffee</a></h4></div>
+
+
+
+
+</div><!-- End_Module_6681 --></div>
+</div>
+</div></div>
+
+            <!-- Sidebar Widgets Column -->
+            <div class="col-lg-4 col-md-4 col-sm-12">
+
+                <div class="row">
+                    <div id="dnn_Widget1Pane" class="col-lg-12 col-md-12 col-sm-6"><div class="DnnModule DnnModule-DNN_HTML DnnModule-6184 DnnVersionableControl"><a name="6184"></a>
+
+<div class="well">
+    <h4>
+        <span id="dnn_ctr6184_dnnTitle_titleLabel" class="container-title">ALL ABOUT COFFEE</span>
+
+
+
+    </h4>
+    <div id="dnn_ctr6184_ContentPane"><!-- Start_Module_6184 --><div id="dnn_ctr6184_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr6184_HtmlModule_lblContent"><h4><a href="http://www.ncausa.org/About-Coffee/What-is-Coffee">What is Coffee?</a></h4>
+<h4><a href="http://www.ncausa.org/About-Coffee/History-of-Coffee">History of Coffee</a></h4>
+<h4><a href="http://www.ncausa.org/About-Coffee/10-Steps-from-Seed-to-Cup">10 Steps from Seed to Cup</a></h4>
+<h4><a href="http://www.ncausa.org/About-Coffee/How-to-Store-Coffee">How to Store Coffee</a></h4>
+<h4><a href="http://www.ncausa.org/About-Coffee/How-to-Brew-Coffee">How to Brew Coffee</a></h4>
+<h4><a href="http://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide">Coffee RoastÂ Guide</a></h4>
+<h4><a href="http://www.ncausa.org/About-Coffee/Coffee-Around-the-World">Coffee Around the World</a></h4>
+<h4><a href="http://www.ncausa.org/Health-Caffeine">Coffee, Caffeine, and Health</a></h4>
+<h4><a href="http://www.ncausa.org/About-Coffee/Additional-Resources">Additional Resources</a></h4></div>
+
+
+
+
+</div><!-- End_Module_6184 --></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-17917 DnnVersionableControl"><a name="17917"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr17917_ContentPane"><!-- Start_Module_17917 --><!--Place this code in the header of the website if possible, or near the top of the page-->
+<script type="text/javascript">
+  var protocol = document.location.protocol == "https:" ? "https" : "http";
+  var z = document.createElement("script");
+  z.type = "text/javascript";
+  z.src = protocol + "://s.zkcdn.net/ados.js";
+  z.async = true;
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(z,s);
+</script>
+<script type="text/javascript">
+  var ados = ados || {};
+  ados.run = ados.run || [];
+  ados.run.push(function() {
+    /* load placement for account: Multiview, site: NCAUSAweb - National Coffee Association - MultiWeb, size: 300x250 - Medium Rectangle, zone: NCAUSAweb Box ad (300x250) */
+    ados_add_placement(4466, 775316, "mvBoxAd", 5).setZone(171418);
+    ados_setDomain("engine.multiview.com");
+    ados_load();
+  });
+</script><div id="dnn_ctr17917_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr17917_HtmlModule_lblContent"><!--Place this div where the ad is to be displayed-->
+<div id="mvBoxAd"><br>
+</div><br></div>
+
+
+
+
+</div><!-- End_Module_17917 --></div>
+</section>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-6132 DnnVersionableControl"><a name="6132"></a>
+
+<div class="well">
+    <h4>
+        <span id="dnn_ctr6132_dnnTitle_titleLabel" class="container-title">From the Blog</span>
+
+
+
+    </h4>
+    <div id="dnn_ctr6132_ContentPane"><!-- Start_Module_6132 --><div id="dnn_ctr6132_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr6132_HtmlModule_lblContent"><p><a href="https://nationalcoffeeblog.org/2018/09/19/nca-cold-brew-toolkit-faqs/" target="_blank"><img alt="NCA Cold Brew Coffee FAQ" class="img-responsive" src="/portals/56/Images/ColdBrew/NCA_Web_Med_coldbrew_faq_toolkit.png" title="NCA Cold Brew Coffee FAQ" /></a></p>
+
+<h4><a href="https://nationalcoffeeblog.org/2018/09/19/nca-cold-brew-toolkit-faqs/" target="_blank">FAQs: Cold Brew</a></h4>
+</div>
+
+
+
+
+</div><!-- End_Module_6132 --></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-11273 DnnVersionableControl"><a name="11273"></a>
+
+<div class="well">
+    <h4>
+        <span id="dnn_ctr11273_dnnTitle_titleLabel" class="container-title">HEALTH NEWS</span>
+
+
+
+    </h4>
+    <div id="dnn_ctr11273_ContentPane"><!-- Start_Module_11273 --><div id="dnn_ctr11273_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr11273_HtmlModule_lblContent"><p style="text-align: center;"><a href="http://www.coffeeandme.org/" target="_blank"><img src="/portals/56/Images/CoffeeHealth/coffeandme.png" alt="coffee-and-me" class="img-responsive" width="80%" style="text-align: center;" /></a>
+</p></div>
+
+
+
+
+</div><!-- End_Module_11273 --></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-8860 DnnVersionableControl"><a name="8860"></a>
+
+<div class="well">
+    <h4>
+        <span id="dnn_ctr8860_dnnTitle_titleLabel" class="container-title">Coffee 101</span>
+
+
+
+    </h4>
+    <div id="dnn_ctr8860_ContentPane"><!-- Start_Module_8860 --><div id="dnn_ctr8860_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr8860_HtmlModule_lblContent"><p><a href="http://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide"><img src="/portals/56/Images/Industry/NCA_Web_Medium_52.jpg?ver=2016-05-24-135651-820" alt="NCA_Web_Medium_52" title="NCA_Web_Medium_52" class="img-responsive"></a>
+</p>
+<h4><a href="http://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide">COFFEE ROASTS GUIDE</a></h4></div>
+
+
+
+
+</div><!-- End_Module_8860 --></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-9321 DnnVersionableControl"><a name="9321"></a>
+
+<div class="well">
+    <h4>
+        <span id="dnn_ctr9321_dnnTitle_titleLabel" class="container-title">Follow Us On Social</span>
+
+
+
+    </h4>
+    <div id="dnn_ctr9321_ContentPane"><!-- Start_Module_9321 --><div id="dnn_ctr9321_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr9321_HtmlModule_lblContent"><p><a href="/About-NCA/NCA-Social-Media-Connect"><img alt="" src="/portals/56/Images/Industry/NCA_Web_Medium_coffee-online-2.png?ver=2016-05-24-135101-303" class="img-responsive" /></a>
+</p>
+<h4><a href="/About-NCA/NCA-Social-Media-Connect">The NCA On Social Media</a></h4></div>
+
+
+
+
+</div><!-- End_Module_9321 --></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-16126 DnnVersionableControl"><a name="16126"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr16126_ContentPane"><!-- Start_Module_16126 --><div id="dnn_ctr16126_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr16126_HtmlModule_lblContent"><br></div>
+
+
+
+
+</div><!-- End_Module_16126 --></div>
+</section>
+</div></div>
+                    <div id="dnn_Widget2Pane" class="col-lg-12 col-md-12 col-sm-6"><div class="DnnModule DnnModule-DNN_HTML DnnModule-6010 DnnVersionableControl"><a name="6010"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr6010_ContentPane"><!-- Start_Module_6010 --><div id="dnn_ctr6010_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr6010_HtmlModule_lblContent"><br />
+<!-- BECOME A MEMBER BUTTON Widget Well -->
+<a class="button wide large" href="/About-NCA/Membership">Become a Member!</a>
+<!-- NEWSLETTER SIGNUP Widget Well -->
+<iframe src="/DesktopModules/NOAH_Clients/NCA/ConstantContactSignUp.html" width="100%" scrolling="no"></iframe></div>
+
+
+
+
+</div><!-- End_Module_6010 --></div>
+</section>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-18057 DnnVersionableControl"><a name="18057"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr18057_ContentPane"><!-- Start_Module_18057 --><div id="dnn_ctr18057_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr18057_HtmlModule_lblContent"><div>Get the latest updates on our organization and the coffee industry. By providing your email and clicking "sign up" you are consenting to receive further communications from us.
+</div></div>
+
+
+
+
+</div><!-- End_Module_18057 --></div>
+</section>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-17834 DnnVersionableControl"><a name="17834"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr17834_ContentPane"><!-- Start_Module_17834 --><script src="//assets.adobedtm.com/c876840ac68fc41c08a580a3fb1869c51ca83380/satelliteLib-356d7f5b1b67575d97395102465e0fea4b075bd1.js"></script><div id="dnn_ctr17834_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr17834_HtmlModule_lblContent"></div>
+
+
+
+
+</div><!-- End_Module_17834 --></div>
+</section>
+</div></div>
+                </div>
+                <!-- /row -->
+
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+</section>
+
+
+
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- +++++++++++++++++ BEGIN GLOBAL FOOTER INCLUDE ++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+<footer>
+    <div class="container">
+        <div id="dnn_FooterPane" class="col-lg-8 col-md-8 col-sm-6 primary"><div class="DnnModule DnnModule-DNN_HTML DnnModule-5803 DnnVersionableControl"><a name="5803"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr5803_ContentPane"><!-- Start_Module_5803 --><div id="dnn_ctr5803_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr5803_HtmlModule_lblContent"><p>
+&copy; National Coffee Association of U.S.A., Inc.
+<br>
+45 Broadway, Suite 1140, New York, NY 10006
+<br>
+Phone: 212 766-4007   Fax: 212 766-5815
+</p></div>
+
+
+
+
+</div><!-- End_Module_5803 --></div>
+</section>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10723 DnnVersionableControl"><a name="10723"></a>
+
+<section class="container-wrapper clearfix">
+    <div id="dnn_ctr10723_ContentPane"><!-- Start_Module_10723 --><div id="dnn_ctr10723_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10723_HtmlModule_lblContent"></div>
+
+
+
+
+</div><!-- End_Module_10723 --></div>
+</section>
+</div></div>
+        <div class="col-lg-4 col-md-4 col-sm-6 secondary">
+            <div class="row">
+                <div class="col-lg-6 col-xs-6"><a href="/Contact-Us" class="button wide" title="Contact Us">Contact Us</a></div>
+                <div class="col-lg-6 col-xs-6"><a href="/Website-Map" class="button wide" title="Sitemap">Sitemap</a></div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12"><a href="/Partner-with-NCA" class="button wide" title="Partner with NCA">Partner with NCA</a></div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 social">
+                    <h5>Follow Us!&nbsp;&nbsp;</h5>
+                    <a target="_blank" href="https://www.facebook.com/nationalcoffeeassociation">
+                        <img src="/Portals/56/Skins/NCA/img/social-fb.png" width="35" height="35" alt="Follow us on Facebook" title="Follow us on Facebook" /></a>
+                    <a target="_blank" href="https://twitter.com/nationalcoffee">
+                        <img src="/Portals/56/Skins/NCA/img/social-tw.png" width="35" height="35" alt="Follow us on Twitter" title="Follow us on Twitter" /></a>
+                    <a target="_blank" href="https://www.linkedin.com/grp/home?gid=3633455">
+                        <img src="/Portals/56/Skins/NCA/img/social-in.png" width="35" height="35" alt="Follow us on Linkedin" title="Follow us on Linkedin" /></a>
+                    <a target="_blank" href="https://plus.google.com/u/0/+NCAUSAorg">
+                        <img src="/Portals/56/Skins/NCA/img/social-go.png" width="35" height="35" alt="Follow us on Google+" title="Follow us on  Google+" /></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/Portals/56/Skins/NCA/js/bootstrap.min.js"></script>
+
+<!-- Owl Carousel Script -->
+<script src="/Portals/56/Skins/NCA/js/owl.carousel.js"></script>
+
+<!-- Load Custom Scripts -->
+<script src="/Portals/56/Skins/NCA/js/scripts.js"></script>
+
+
+<script>
+    try { addLoadEvent(loadSkinScripts); } catch (ex) { console.log(ex.message); } // LOCATED NOAH.js
+</script>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`trackLinks`:`false`,`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`3073`,`evoq_TabId`:`3073`,`evoq_PageLanguage`:`en-US`,`evoq_ContentItemId`:`-1`,`evoq_UrlReferrer`:`https://www.google.com/`,`evoq_UrlPath`:`http%3a%2f%2fwww.ncausa.org%2fabout-coffee%2fhistory-of-coffee`,`evoq_UrlQuery`:`%3fTabId%3d3073%26language%3den-US`,`evoq_ContentItemReferrer`:`-1`,`evoq_PersonalizedUrlReferrer`:`-1`,`evoq_DisableAnalytics`:`False`}" />
+        <input name="__RequestVerificationToken" type="hidden" value="p5BA5DooZOxOkKHu0dHxHHEMj0ZdobI-5fgyOKuS3p3Au2KV80cw-OHehrCHZ_MtXnyHqA2" />
+    <!-- 2018.2.710.45 --><div id="RadAjaxManagerSU">
+	<span id="RadAjaxManager" style="display:none;"></span>
+</div><div id="RadWindowManager" style="display:none;">
+	<div id="RadWindowManager_alerttemplate" style="display:none;">
+		<div class="rwDialogPopup radalert">			
+			<div class="rwDialogText">
+			{1}				
+			</div>
+			
+			<div>
+				<a  onclick="$find('{0}').close(true);"
+				class="rwPopupButton" href="javascript:void(0);">
+					<span class="rwOuterSpan">
+						<span class="rwInnerSpan">##LOC[OK]##</span>
+					</span>
+				</a>				
+			</div>
+		</div>
+		</div><div id="RadWindowManager_prompttemplate" style="display:none;">
+		 <div class="rwDialogPopup radprompt">			
+			    <div class="rwDialogText">
+			    {1}				
+			    </div>		
+			    <div>
+				    <script type="text/javascript">
+				    function RadWindowprompt_detectenter(id, ev, input)
+				    {							
+					    if (!ev) ev = window.event;                
+					    if (ev.keyCode == 13)
+					    {															        
+					        var but = input.parentNode.parentNode.getElementsByTagName("A")[0];					        
+					        if (but)
+						    {							
+							    if (but.click) but.click();
+							    else if (but.onclick)
+							    {
+							        but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);							 
+							    }
+						    }
+					       return false;
+					    } 
+					    else return true;
+				    }	 
+				    </script>
+				    <input title="Enter Value" onkeydown="return RadWindowprompt_detectenter('{0}', event, this);" type="text"  class="rwDialogInput" value="{2}" />
+			    </div>
+			    <div>
+				    <a onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value);"				
+					    class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				    <a onclick="$find('{0}').close(null);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			    </div>
+		    </div>				       
+		</div><div id="RadWindowManager_confirmtemplate" style="display:none;">
+		<div class="rwDialogPopup radconfirm">			
+			<div class="rwDialogText">
+			{1}				
+			</div>						
+			<div>
+				<a onclick="$find('{0}').close(true);"  class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				<a onclick="$find('{0}').close(false);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			</div>
+		</div>		
+		</div><input id="RadWindowManager_ClientState" name="RadWindowManager_ClientState" type="hidden" />
+</div><a id="bAjax" href="javascript:__doPostBack(&#39;bAjax&#39;,&#39;&#39;)" style="display:inline-block;color:White;background-color:White;border-color:White;border-style:None;height:0px;display:none;"></a>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[],"clientEvents":{OnRequestStart:"OnRequestStart",OnResponseEnd:"onResponseEnd"},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"RadAjaxManager","updatePanelsRenderMode":1}, null, null, $get("RadAjaxManager"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"clientStateFieldID":"RadWindowManager_ClientState","formID":"Form","iconUrl":"","minimizeIconUrl":"","name":"RadWindowManager","reloadOnShow":true,"skin":"Default","windowControls":"[]"}, null, null, $get("RadWindowManager"));
+});
+//]]>
+</script>
+</form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=866|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=866|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=866|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/56/Skins/NCA/skin.css?cdv=866|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/Containers/NCA/container.css?cdv=866|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/56/portal.css?cdv=866|DnnPageHeaderProvider|35)--><!--CDF(Css|/Portals/56/Skins/NCA/NOAH/ToolTip.NOAH.css?cdv=866|DnnPageHeaderProvider|100)--><!--CDF(Css|/Portals/56/Skins/NCA/NOAH/ToolTip.NOAH.css?cdv=866|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/js/dnn.js?cdv=866|DnnBodyProvider|12)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=866|DnnBodyProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=866|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=866|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=866|DnnPageHeaderProvider|6)-->
+    
+</body>
+</html>
+N3      ^aB^aB[AkNÙ       5    :http://www.ncausa.org/about-coffee/history-of-coffee necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+X-UA-Compatible: IE=edge
+X-AspNet-Version: 4.0.30319
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type
+Date: Thu, 05 Mar 2020 18:16:58 GMT
+Content-Length: 61315
+ original-response-headers Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Set-Cookie: dnn_IsMobile=False; path=/; HttpOnly
+Set-Cookie: language=en-US; path=/; HttpOnly
+Set-Cookie: .ASPXANONYMOUS=KpBFor94Sj9HVQQEBPpfo_8_2Z9K5dp4sS5oHjRA8ODxv3U64D5arrGKtdvRujF1AQZh4--SM5WiXhbfVFamYc8Y3uxRS_DzpiCYTgzLDQ1XUcnm0; expires=Thu, 14-May-2020 04:56:58 GMT; path=/; HttpOnly
+Set-Cookie: Analytics_VisitorId=801f2e51-c7af-4a3c-969b-293f095cc2c5; expires=Sat, 04-Apr-2020 17:16:58 GMT; path=/; HttpOnly
+Set-Cookie: Analytics=SessionId=3304a694-f9c9-4d7c-b16a-18148f6d9e15&TabId=3073&ContentItemId=-1; expires=Thu, 05-Mar-2020 19:16:58 GMT; path=/; HttpOnly
+Set-Cookie: DotNetNukeAnonymous=ee7e031d-45b1-4cc3-9113-e99ee7877c58; expires=Thu, 05-Mar-2020 18:36:58 GMT; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=jdwoo55eo5jp4htfivedyxg4; path=/; HttpOnly; SameSite=Lax
+X-Frame-Options: SAMEORIGIN
+X-UA-Compatible: IE=edge
+X-AspNet-Version: 4.0.30319
+Set-Cookie: dnn_IsMobile=False; path=/; HttpOnly
+Set-Cookie: language=en-US; path=/; HttpOnly
+Set-Cookie: .ASPXANONYMOUS=KpBFor94Sj9HVQQEBPpfo_8_2Z9K5dp4sS5oHjRA8ODxv3U64D5arrGKtdvRujF1AQZh4--SM5WiXhbfVFamYc8Y3uxRS_DzpiCYTgzLDQ1XUcnm0; expires=Thu, 14-May-2020 04:56:58 GMT; path=/; HttpOnly
+Set-Cookie: Analytics_VisitorId=801f2e51-c7af-4a3c-969b-293f095cc2c5; expires=Sat, 04-Apr-2020 17:16:58 GMT; path=/; HttpOnly
+Set-Cookie: Analytics=SessionId=3304a694-f9c9-4d7c-b16a-18148f6d9e15&TabId=3073&ContentItemId=-1; expires=Thu, 05-Mar-2020 19:16:58 GMT; path=/; HttpOnly
+Set-Cookie: DotNetNukeAnonymous=ee7e031d-45b1-4cc3-9113-e99ee7877c58; expires=Thu, 05-Mar-2020 18:36:58 GMT; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=jdwoo55eo5jp4htfivedyxg4; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: __RequestVerificationToken=79z-fLeDM3OOY1cFDpLzJcwDY8B0R8PhoX80XyW1K6l-0RrBKCeSIav3kV-rUDW9OxwVJw2; path=/; HttpOnly
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type
+Date: Thu, 05 Mar 2020 18:16:58 GMT
+Content-Length: 61315
+ ctid 1 eTLD1Access 1;0;1517748388, uncompressed-len 0 predictor::resource-count 100 predictor::http://www.ncausa.org/portals/56/Images/ColdBrew/NCA_Web_Med_coldbrew_faq_toolkit.png 1,1,1583432217,4097 predictor::http://www.ncausa.org/portals/56/Images/CoffeeHealth/coffeandme.png 1,1,1583432217,4097 predictor::http://www.ncausa.org/portals/56/Images/Industry/NCA_Web_Medium_52.jpg?ver=2016-05-24-135651-820 1,1,1583432217,4096 predictor::http://www.ncausa.org/portals/56/Images/Industry/NCA_Web_Medium_coffee-online-2.png?ver=2016-05-24-135101-303 1,1,1583432217,4096 predictor::http://assets.adobedtm.com/c876840ac68fc41c08a580a3fb1869c51ca83380/satelliteLib-356d7f5b1b67575d97395102465e0fea4b075bd1.js 1,1,1583432217,4096 net-response-time-onstart 1027 net-response-time-onstop 2246 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/social-fb.png 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/social-tw.png 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/social-in.png 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/social-go.png 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/js/bootstrap.min.js 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/js/owl.carousel.js 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/js/scripts.js 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/NOAH/ComboBox.NOAH.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/NOAH/Input.NOAH.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/NOAH/ToolTip.NOAH.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/NOAH/DropDownList.NOAH.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/NOAH/Grid.NOAH.css 1,1,1583432217,4096 predictor::https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1637866&url=http%3A%2F%2Fwww.ncausa.org%2Fabout-coffee%2Fhistory-of-coffee&time=1583432233220 1,1,1583432217,4096 predictor::http://ncausa.informz.net/web_trk/collector/?e=pv&url=http%3A%2F%2Fwww.ncausa.org%2Fabout-coffee%2Fhistory-of-coffee&page=The%20History%20of%20Coffee&refr=https%3A%2F%2Fwww.google.com%2F&tv=js-2.5.3&tna=infz&aid=7C732698-203A-4115-85F8-6682120462FF&p=web&tz=America%2FNew_York&lang=en-US&cs=UTF-8&res=1366x768&cd=24&cookie=1&eid=90bbc652-fe0c-45e2-9dc9-1dda848cbb42&dtm=1583432238556&vp=1366x639&ds=1366x639&vid=1&sid=d7a7bd51-30c1-47f1-b764-94ea7a4ea74a&duid=2389dd283b43ff31&fp=4222837175 1,1,1583432217,4096 predictor::https://www.google-analytics.com/analytics.js 1,1,1583432217,4096 predictor::https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qn.woff2 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/css/font-awesome.min.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/ImageSlider/jquery.bxslider.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/upload/dist/basic.css 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/plugins/upload/dist/dropzone.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/Tabify/Tabify.css 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/plugins/bootstrap-table-master/src/bootstrap-table.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Standard/NOAHPlugins/css/NOAH-Plugins.css 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/plugins/unitegallery-master/dist/css/unite-gallery.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/contextmenu/css/jquery.contextMenu.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/add-to-calendar/src/AddCalEvent.css 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/plugins/hc-offcanvas/hc-offcanvas-nav.css 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/plugins/apex-charts/dist/apexcharts.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/css/DictionaryFormBuilder.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/timepicker/jquery.timepicker.css 1,1,1583432217,4097 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/roundslider/roundslider.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/chosen/chosen.css 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/facescroll/facescroll.css 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Bootstrap/bootstrap-2.3.2/js/bootstrap.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Bootstrap/bootstrap-3.2.0/js/popover.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/ImageSlider/jquery.bxslider.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/upload/dist/dropzone.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Bootstrap/plugins/JSONTables.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Bootstrap/plugins/confirmation/bootstrap-confirmation.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Standard/NOAHPlugins/mvc-plugin.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/bootstrap-table-master/src/bootstrap-table.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/Tabify/Tabify.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/maps/googleMaps.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Standard/NOAHPlugins/NOAH-Plugins.js 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/scripts/jquery.attributechange.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/tree/tree.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/facescroll/facescroll.jquery.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/chosen/chosen.jquery.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/roundslider/roundslider.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/timepicker/jquery.timepicker.js 1,1,1583432217,4097 predictor::http://www.ncausa.org/NOAH/plugins/unitegallery-master/dist/js/unitegallery.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/contextmenu/js/jquery.ui.position.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/contextmenu/js/jquery.contextMenu.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/add-to-calendar/src/AddCalEvent.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/add-to-calendar/src/AddCalEventZones.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/hc-offcanvas/hc-offcanvas-nav.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/apex-charts/dist/apexcharts.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/plugins/gridstack/src/gridstack.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Standard/NOAHPlugins/attribute-plugin-manager.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Standard/default.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/Includes/Standard/Display.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/NOAH/scripts/NOAHUtilities.min.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Globals.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Thread.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Overlay.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Support.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Support-UI.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Validation.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Debug.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Canvas.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Worker.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Layout.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/Events.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/WebSupport/js/DFB-HTML5.js 1,1,1583432217,4096 predictor::http://www.ncausa.org/DesktopModules/NOAH_Common/WebControls/DictionaryFormBuilderHTML5/Bases/js/WebControlBase_Loader.js 1,1,1583432217,4096 predictor::https://www.google-analytics.com/r/collect?v=1&_v=j81&a=1181094169&t=pageview&_s=1&dl=http%3A%2F%2Fwww.ncausa.org%2Fabout-coffee%2Fhistory-of-coffee&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=The%20History%20of%20Coffee&sd=24-bit&sr=1366x768&vp=1366x639&je=0&_u=IEBAAEAB~&jid=1217596289&gjid=364898226&cid=1762882282.1583432259&tid=UA-20700953-2&_gid=965028723.1583432259&_r=1&z=1943393690 1,1,1583432217,4096 predictor::http://s.zkcdn.net/ados.js 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/icon-search.png 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/background-header.jpg 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/nca-logo.png 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/nav01.png 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/nav02.png 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/nav03.png 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/nav04.png 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/nav05.png 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/background-button-green.jpg 1,1,1583432217,4096 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/background-footer.jpg 1,1,1583432217,4096 predictor::https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2 1,1,1583432217,4096 predictor::https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2 1,1,1583432217,4096 predictor::http://assets.adobedtm.com/c876840ac68fc41c08a580a3fb1869c51ca83380/s-code-contents-4a73e19708c516597b3c3c99b5ab29759b33f267.js 1,1,1583432217,4096 predictor::http://engine.multiview.com/ados?t=1583432264655&request={%22Placements%22:[{%22A%22:4466,%22S%22:775316,%22D%22:%22mvBoxAd%22,%22AT%22:5,%22Z%22:[171418]}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.com%2F%22,%22IsAsync%22:true} 1,1,1583432217,4096 predictor::http://multiview.122.2o7.net/b/ss/mviewwebncausa/1/H.27.5-D7QN/s4742849796282?AQB=1&ndh=1&t=5%2F2%2F2020%2013%3A17%3A44%204%20300&D=D%3D&fid=3F07A6C319AF8808-200DBFD9D29333ED&ce=UTF-8&ns=multiview&g=http%3A%2F%2Fwww.ncausa.org%2Fabout-coffee%2Fhistory-of-coffee&r=https%3A%2F%2Fwww.google.com%2F&cc=USD&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1366&bh=639&AQE=1 1,1,1583432217,4096 predictor::https://www.google-analytics.com/collect?v=1&_v=j81&a=1181094169&t=timing&_s=2&dl=http%3A%2F%2Fwww.ncausa.org%2Fabout-coffee%2Fhistory-of-coffee&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=The%20History%20of%20Coffee&sd=24-bit&sr=1366x768&vp=1366x639&je=0&plt=50642&pdt=1213&dns=114&rrt=6&srt=568&tcp=342&dit=46653&clt=46654&_gst=27141&_gbt=41830&_u=IEBAAEAB~&jid=&gjid=&cid=1762882282.1583432259&tid=UA-20700953-2&_gid=965028723.1583432259&z=364347017 1,1,1583432217,4096 predictor::https://s.zkcdn.net/Advertisers/c6ccf749b12c4f94ae6c2fbe0ac605cc.gif 1,1,1583432217,4097 predictor::http://www.ncausa.org/Portals/56/Skins/NCA/img/background-submenu.png 1,1,1583432217,4096   ïƒ

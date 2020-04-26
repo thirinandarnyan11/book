@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HTML Templates</title>
+<meta name="Description" content="Create your own website using these free HTML templates. Easy to use, easy to edit, and 100% free of charge.">
+<meta name="KeyWords" content="html templates">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="SHORTCUT ICON" href="http://www.htmltemplates.net/favicon.ico">
+</head>
+
+<body>
+
+<div class="page-out">
+
+<div class="page-in">
+
+<div class="page">
+
+<div class="main">
+
+<div class="header">
+
+<div class="header-top">
+
+<div class="topmenu">
+
+<ul>
+
+  <li><a href="http://www.htmltemplates.net/"><span>Home</span></a></li>
+
+  <li><a href="http://www.htmltemplates.net/htmltemplates.html"><span>HTML&nbsp;Templates&nbsp;(20)</span></a></li>
+
+  <li><a href="http://www.htmltemplates.net/licence.html"><span>Licence</span></a></li>
+
+  <li><a href="http://www.htmltemplates.net/help.html"><span>Help</span></a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="header-mid"><img src="images/header.jpg" alt="" height="178" width="933"></div>
+
+<div class="header-bottom"></div>
+
+</div>
+
+<div class="content">
+
+<div class="left-panel">
+
+<div class="left-panel-in">
+
+<h2 class="left-head">Latest free html templates</h2>
+
+<div class="template-area">
+
+<br><br>
+
+<div style="padding: 0px 10px 0px;"><p>Create your own website using these free HTML templates. Easy to use, easy to edit, and 100% free of charge.</p></div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/featured1.jpg"><img alt="" src="images/templates/new1.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Featured 1</p>
+
+<p class="template-date">Guest Template<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/featured1.jpg" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/featured1.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/featured2.jpg"><img alt="" src="images/templates/new2.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Featured 2</p>
+
+<p class="template-date">Guest Template<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/featured2.jpg" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/featured2.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/featured3.jpg"><img alt="" src="images/templates/new3.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Featured 3</p>
+
+<p class="template-date">Guest Template<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/featured3.jpg" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/featured3.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a href="http://www.htmltemplates.net/preview/featured4.jpg" target="_blank"><img alt="" style="border: 0px solid ; width: 150px; height: 112px;" src="images/templates/new4.jpg"></a></p>
+
+<p class="template-name">Featured 4</p>
+
+<p class="template-date">Guest Template<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/featured4.jpg" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/featured4.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_1/index.html"><img alt="" src="images/templates/1.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 1</p>
+
+<p class="template-date">Green Company</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_1/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_1.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_2/index.html"><img alt="" src="images/templates/2.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 2</p>
+
+<p class="template-date">Blue Company</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_2/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_2.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_3/index.html"><img alt="" src="images/templates/3.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 3</p>
+
+<p class="template-date">Blue Corporate</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_3/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_3.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_4/index.html"><img alt="" src="images/templates/4.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 4</p>
+
+<p class="template-date">Red Corporate</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_4/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_4.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_5/index.html"><img alt="" src="images/templates/5.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 5</p>
+
+<p class="template-date">Orange Corporate</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_5/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_5.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_6/index.html"><img alt="" src="images/templates/6.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 6</p>
+
+<p class="template-date">Green Corporate</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_6/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_6.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_7/index.html"><img alt="" src="images/templates/7.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 7</p>
+
+<p class="template-date">Blue Abstract</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_7/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_7.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_8/index.html"><img alt="" src="images/templates/8.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 8</p>
+
+<p class="template-date">Green Abstract</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_8/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_8.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_9/index.html"><img alt="" src="images/templates/9.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 9</p>
+
+<p class="template-date">Blue Windows</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_9/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_9.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_10/index.html"><img alt="" src="images/templates/10.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 10</p>
+
+<p class="template-date">Green Windows</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_10/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_10.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_11/index.html"><img alt="" src="images/templates/11.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 11</p>
+
+<p class="template-date">Simple Orange</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_11/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_11.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_12/index.html"><img alt="" src="images/templates/12.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 12</p>
+
+<p class="template-date">Black Futuristic</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_12/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_12.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_13/index.html"><img alt="" src="images/templates/13.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 13</p>
+
+<p class="template-date">Black Business<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_13/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_13.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_14/index.html"><img alt="" src="images/templates/14.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 14</p>
+
+<p class="template-date">Flower Girl<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_14/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_14.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_15/index.html"><img alt="" src="images/templates/15.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 15</p>
+
+<p class="template-date">Purple Corporate<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_15/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_15.zip" class="download">Download</a></div>
+
+</div>
+
+<div class="template-block">
+
+<p><a target="_blank" href="http://www.htmltemplates.net/preview/template_16/index.html"><img alt="" src="images/templates/16.jpg" style="border: 0px solid ; width: 150px; height: 112px;"></a></p>
+
+<p class="template-name">Template 16</p>
+
+<p class="template-date">Red Swirls<br>
+</p>
+
+<p>HTML/CSS | Fixed width</p>
+
+<p>Images: Yes</p>
+
+<div style="padding: 5px 10px 0px;"><a target="_blank" href="http://www.htmltemplates.net/preview/template_16/index.html" class="preview">Preview</a><a href="http://www.htmltemplates.net/download/template_16.zip" class="download">Download</a></div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="right-panel">
+
+<div class="right-panel-in">
+
+<h2 class="right-head1">Main Menu</h2>
+
+<div class="section">
+
+<ul>
+
+  <li style="border-top: medium none;"><a href="http://www.htmltemplates.net/">Home</a></li>
+
+  <li><a href="http://www.htmltemplates.net/htmltemplates.html">HTML
+
+Templates (20)</a></li>
+
+  <li><a href="http://www.htmltemplates.net/licence.html">Licence</a></li>
+
+  <li><a href="http://www.htmltemplates.net/help.html">Help</a></li>
+
+  <li><a href="http://www.htmltemplates.net/contactus.html">Contact Us</a></li>
+
+  <li><br>
+</li>
+  
+</ul>
+
+</div>
+
+<br>
+
+<h2 class="right-head2">Resources</h2>
+
+<div class="right-panel">
+
+<div class="right-panel-in">
+
+<div class="section2">
+
+<div align="center"><br>
+<ul>
+  <li><a target="_blank" href="http://www.casinotemplates.net/" rel="nofollow">Casino Templates</a></li>
+  <br>
+</ul></div>
+</div>
+</div>
+</div>
+
+<br>
+
+<br>
+
+</div>
+
+</div>
+
+</div>
+
+<div align="left">&nbsp;<br>
+
+</div>
+
+<br>
+
+<div class="footer">
+
+<ul>
+
+  <li style="border-left: medium none;"><a href="http://www.htmltemplates.net/">Home</a></li>
+
+  <li><a href="http://www.htmltemplates.net/htmltemplates.html">HTML
+
+Templates (20)</a></li>
+
+  <li><a href="http://www.htmltemplates.net/licence.html">Licence</a></li>
+
+  <li><a href="http://www.htmltemplates.net/help.html">Help</a></li>
+
+</ul>
+
+<p class="copyright">Copyright Â© 2010 htmltemplates.net. All
+
+Rights Reserved.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</body></html>2®`•uÞ      ^_Ÿ^_ŸAj,[^hÙ‚       :http://www.htmltemplates.net/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 04 Mar 2020 12:28:51 GMT
+Server: Apache/2.2.34 (Unix) mod_ssl/2.2.34 OpenSSL/1.0.1e-fips mod_bwlimited/1.4
+Last-Modified: Fri, 06 May 2016 08:14:42 GMT
+ETag: "103bd9-3be2-532280d040080"
+Accept-Ranges: bytes
+Content-Length: 15330
+Content-Type: text/html
+ original-response-headers Date: Wed, 04 Mar 2020 12:28:51 GMT
+Server: Apache/2.2.34 (Unix) mod_ssl/2.2.34 OpenSSL/1.0.1e-fips mod_bwlimited/1.4
+Last-Modified: Fri, 06 May 2016 08:14:42 GMT
+ETag: "103bd9-3be2-532280d040080"
+Accept-Ranges: bytes
+Content-Length: 15330
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+ ctid 1 eTLD1Access 1;0;1517748388, uncompressed-len 0 predictor::resource-count 40 predictor::http://www.htmltemplates.net/css/style.css 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/header.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/new1.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/new2.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/new3.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/new4.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/1.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/2.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/3.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/4.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/5.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/6.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/7.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/8.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/9.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/10.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/11.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/12.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/13.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/14.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/15.jpg 1,1,1583324930,4097 predictor::http://www.htmltemplates.net/images/templates/16.jpg 1,1,1583324930,4097 net-response-time-onstart 1053 net-response-time-onstop 1350 predictor::http://www.htmltemplates.net/images/main-rept.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/top-rept.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/bottom-rept.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/shadow-rept.png 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/header-top.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/left-rept.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/left-bottom.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/left-head.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/line-bg.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/block-bg.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/btn1.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/btn2.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/right-rept.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/right-bottom.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/right-head1.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/bullet.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/right-head2.jpg 1,1,1583324930,4096 predictor::http://www.htmltemplates.net/images/footer.jpg 1,1,1583324930,4096   ;â

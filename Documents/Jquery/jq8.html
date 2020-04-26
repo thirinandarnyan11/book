@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+	<img src="bg1.jpg" width="400" height="300" id="img">
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#img").dblclick(function(){
+				$(this).css({"height":100,"width":150});
+			});
+			$("#img").mouseover(function(){
+				$(this).css({"height":500,"width":600});
+			})
+			$("#img").mouseout(function(){
+				$(this).css({"height":300,"width":400});
+			})
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<button id="btn">Click</button><br>
+	<input type="text" name="name" id="name">
+	<script type="text/javascript">
+		var btn=document.getElementById('btn');
+		btn.addEventListener('click',function(){
+			var inp_data=document.getElementById('name');
+			// inp_data.setAttribute("disabled","disabled");  //inp_data.setAttribute("att name","att value");
+			var dis=inp_data.getAttribute("disabled","disabled");
+			if (dis) {
+				inp_data.removeAttribute("disabled");
+			}else{
+				inp_data.setAttribute("disabled","disabled");
+			}
+		})
+	</script>
+</body>
+</html>
+
+<!-- -getAttribute();
+-setAttribute();
+removeAttriute() -->

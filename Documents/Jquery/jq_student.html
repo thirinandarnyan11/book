@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+	<label for="name">Name</label>
+	<input type="text" name="name" id="name" ><br>
+	<label for="email">Email</label>
+	<input type="email" name="email" id="email"><br>
+	<label for="phone">Phone</label>
+	<input type="number" name="phone" id="phone"><br>
+	<label for="address">Address</label>
+	<textarea id="address"></textarea><br>
+	<button id="save">Save</button><br><br>
+	<table border="1" cellspacing="0" cellpadding="15">
+		<thead>
+			<tr>
+				<th>No</th>
+				<th>Name</th>
+				<th>Email</th>
+				<th>Phone</th>
+				<th>Address</th>
+			</tr>
+		</thead>
+		<tbody id="tbody"></tbody>
+	</table>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			var i=1;
+			$("#save").click(function(){
+				var names=$("#name").val();
+				var email=$("#email").val();
+				var phone=$("#phone").val();
+				var address=$("#address").val();
+				if(names && email && phone && address){// return true  names==true&&email==true;
+					var html=`<tr>
+							<td>${i++}</td>
+							<td>${names}</td>
+							<td>${email}</td>
+							<td>${phone}</td>
+							<td>${address}</td>
+						 </tr>`;
+						 $("#tbody").append(html);
+						}else{
+							alert("Fill to input box");
+						}
+				
+			})
+		})
+	</script>
+</body>
+</html>

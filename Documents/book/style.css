@@ -1,0 +1,202 @@
+#img{
+	height: 600px;
+}
+#i_star{
+	font-size:5px;
+}
+/*menu navbar*/
+#navbarSupportedContent{
+	margin-right: 200px;
+}
+a.nav-link:hover,a.nav-link:active{
+	background-color: #c73a30;
+	color: white;
+}
+.nav-item{
+	padding-left: 20px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 13px 10px;
+  text-decoration: none;
+  display: block;
+  font-size: 12px;
+}
+.dropdown-content a:hover {background-color: #ddd;color: red;}
+
+.dropdown:hover .dropdown-content {display: block;}
+/*card slider*/
+#slider_img{
+	height: 200px;
+}
+.card{
+	width: 80%;
+	height: 330px;
+}
+.card-title{
+	font-size: 15px;
+}
+.card-footer{
+	background-color: white;
+}
+.name{
+	font-size: 10px;
+	color: red;
+}
+.hr1{
+	width: 100%;
+}
+/*end of card slider*/
+hr{
+	width: 75px;
+}
+.link ul{
+	text-decoration: none;
+	list-style-type: none;
+}
+.footer{
+	background-color: #eeeeee70;
+}
+h6{
+	text-transform:uppercase;
+	color: red;
+}
+p{
+	font-size: 14px;
+}
+i{
+	font-size:16px;
+}
+a{
+	color:white;
+	font-size: 14px;
+}
+a:hover{
+	text-decoration:none;
+	color: white;
+}
+/*best_seller css*/
+.hr1{
+	width: 100%;
+}
+ @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+}
+html {
+
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+body {
+	margin: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+	display: block;
+}
+audio, canvas, progress, video {
+	display: inline-block;
+	vertical-align: baseline;
+}
+audio:not([controls]) {
+	display: none;
+	height: 0;
+}
+
+a {
+	background-color: transparent;
+	text-decoration: none;
+}
+a:active, a:hover {
+	outline: 0;
+}
+
+h1,h2,h3,h4,h5,h6,p,ul,ol{ margin:0px; padding:0px;}
+
+.card-img{
+	width: 100%;
+	height: 230px;
+}
+
+.navbar-hide {
+    pointer-events: none;
+    opacity: 0;
+}
+.footer_link{
+	color: black;
+}
+/*english_book css*/
+.breadcrumb{
+	background-color: white;
+}
+.breadcrumb-item{
+	color: blue;
+}
+#banner2{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/ebook1.jpg);
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  background-color: white;
+  color: #dc5f75;
+  width: 260px;
+  height: 25px;
+  margin-left: 24px;
+}
+a.page-link:hover,a.page-link:active{
+	background-color: #c73a30;
+	color: white;
+}
+/*image css for english book*/
+#image{
+	width: 170px;
+	height: 250px;
+}
+a.book_link{
+	color: black;
+	text-decoration-line: underline;
+}
+/*book detail page css*/
+#image_detail{
+	width: 250px;
+	height: 350px;
+}
+/*star rating*/
+.checked {
+  color: orange;
+}
+hr{
+	width: 50%;
+	margin-left: 50px;
+	margin-top: 1px;
+}
+.star{
+	font-size: 10px;
+}
+/*show more css*/
+#more {display: none;}
+/*footer*/
+.ul_list li{
+	list-style-type: none;
+}

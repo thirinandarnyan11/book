@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Our Coffee Shop</title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="custom.js"></script>
+	
+	<style type="text/css">
+		.p_img{
+			text-align: center;
+			font-size:13px;
+		}
+		a{
+			text-decoration: none;
+			padding-left: 40px;
+			text-align: center;
+			color: #fff;
+		}
+		.a{
+			margin-left: 800px;
+			margin-top: -40px;
+			font-weight: bold;
+			text-transform: capitalize;
+			margin-top: -31px;
+		}
+	</style>
+</head>
+<body style="background-color: #eee;"> 
+	<div style="background-color: black;margin-bottom: -10px;height: 48px;">
+		<div style="font-size: 13px;padding-top: 10px;">
+			<a href="../index.html">Home</a>
+			<a href="items.html">Items</a>
+			<a href="about.html">About</a>
+			<a href="contact.html">Contact</a>
+		</div>
+	</div>
+	<img src="../images/bg3.jpg" width="100%" height="450px">
+	<h4 style="text-align: center;font-size: 22px;font-weight: bold;">Products</h4><hr style="width: 30px;">
+	<a href="checkout.html"><img src="../images/cart.png" width="30" height="30"><span id="count" style="color: black;"></span></a>
+	<center>
+		<table cellspacing="0" cellpadding="40" style="margin-left: 66px;">
+			<tr>
+				<td><img src="../images/espresso.jpg" style="width:100%; height: 210px;"><br><p class="p_img"><i>Espresso<br>Price:10000</i><center><button class="addtocart" data-id="1" data-name="Espresso" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/cappuccino.jpg" style="width:100%; height: 210px;"><br><p class="p_img"><i>Cappuccino<br>Price:10000</i><center><button class="addtocart" data-id="2" data-name="Cappuccino" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/americano.jpg" style="width:100%; height: 210px;"><br><p class="p_img"><i>Americano<br>Price:9000</i><center><button class="addtocart" data-id="3" data-name="Americano" data-price="9000">Add to Cart</button></center></p></td></td>
+				<td><img src="../images/frappe.jpeg" style="width:80%; height:210px;"><br><p class="p_img"><i>Frappe<br>Price:10000</i><center><button class="addtocart" data-id="4" data-name="Frappe" data-price="10000">Add to Cart</button></center></p></td></td>
+			</tr>
+			<tr>
+				<td><img src="../images/mocha.jpg" style="width:100%" height="210px;"><br><p class="p_img"><i>Mocha<br>Price:10000</i><center><button class="addtocart" data-id="5" data-name="Mocha" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/macchiato.jpg" style="width:100%" height="210px;"><br><p class="p_img"><i>Macchiato<br>Price:10000</i><center><button class="addtocart" data-id="6" data-name="Mmacchiato" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/glace.jpg" style="width:100%" height="220px;"><br><p class="p_img"><i>Glace<br>Price:9000</i><center><button class="addtocart" data-id="7" data-name="Glace" data-price="9000">Add to Cart</button></center></p></td></td>
+				<td><img src="../images/irish.jpg" style="width:80%" height="220px;"><br><p class="p_img"><i>Irish<br>Price:10000</i><center><button class="addtocart" data-id="8" data-name="Irish" data-price="10000">Add to Cart</button></center></p></td></td>
+			</tr>
+			<tr>
+				<td><img src="../images/cocoa.jpg" style="width:100%" height="220px;"><br><p class="p_img"><i>Cocoa<br>Price:10000</i><center><button class="addtocart" data-id="9" data-name="Cocoa" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/chococoffee.jpg" style="width:100%" height="220px;"><br><p class="p_img"><i>Choco coffee<br>Price:10000</i><center><button class="addtocart" data-id="10" data-name="Choco coffee" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/icecoffee.jpeg" style="width:100%" height="220px;"><br><p class="p_img"><i>Ice Coffee<br>Price:7000</i><center><button class="addtocart" data-id="11" data-name="Ice Coffee" data-price="7000">Add to Cart</button></center></p></td></td>
+				<td><img src="../images/hotcoffee.jpg" style="width:80%" height="220px;"><br><p class="p_img"><i>Hot Coffee<br>Price:3000</i><center><button class="addtocart" data-id="12" data-name="Hot Voffee" data-price="3000">Add to Cart</button></center></p></td></td>
+			</tr>
+			<tr>
+				<td><img src="../images/latte.jpg" style="width:100%" height="210px;"><br><p class="p_img"><i>Latte<br>Price:10000</i><center><button class="addtocart" data-id="13" data-name="Latte" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/caramelvanillalatte.png" style="width:100%" height="220px;"><br><p class="p_img"><i>Caramel Vanilla Latte Coffee<br>Price:10000</i><center><button class="addtocart" data-id="14" data-name="Caramel Vanilla Latte Coffee" data-price="10000">Add to Cart</button></center></p></td>
+				<td><img src="../images/creamycoffee.jpg" style="width:100%" height="220px;"><br><p class="p_img"><i>Creamy Coffee<br>Price:7000</i><center><button class="addtocart" data-id="15" data-name="Creamy Coffee" data-price="7000">Add to Cart</button></center></p></td></td>
+				<td><img src="../images/flatwhite.jpg" style="width:80%" height="220px;"><br><p class="p_img"><i>Flat White<br>Price:3000</i><center><button class="addtocart" data-id="16" data-name="Flat White" data-price="3000">Add to Cart</button></center></p></td></td>
+			</tr>
+		</table>
+	</center>
+	<p align="center">All Right Reserved By<span>  Shop</span></p>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			count();
+			$(".addtocart").click(function(){
+				var id=$(this).data('id');
+				var name=$(this).data('name');
+				var price=$(this).data('price');
+
+				var coffee_item={
+					id:id,
+					name:name,
+					price:price,
+					qty:1
+				}
+				var coffeeshop_str=localStorage.getItem("coffee_shop");
+				var coffeeshop_arr;
+				if(coffeeshop_str==null){
+					coffeeshop_arr=Array();
+				}else{
+					coffeeshop_arr=JSON.parse(coffeeshop_str);
+				}
+				var status=false;
+				$.each(coffeeshop_arr,function(i,v){
+					if(id==v.id){
+						status=true;
+						v.qty++;	
+					}
+				})
+				if(status==false){
+					coffeeshop_arr.push(coffee_item);
+				}
+		
+					localStorage.setItem("coffee_shop",JSON.stringify(coffeeshop_arr));
+					count();
+			})
+		})
+	</script>
+</body>
+</html>

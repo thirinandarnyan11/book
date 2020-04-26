@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+	<p></p>
+	<div></div>
+	<span></span>
+	<button id="add">Add</button>
+	<button id="get">Get</button>
+</body>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#add").click(function(){
+				$("p").text("Hello Bootcamper");
+				$("div").html("<h1>Hello Bootcamper</h1>");
+			})
+			$("#get").click(function(){
+				var p_text=$("p").text();
+				var div_text=$("div").html();
+				console.log(p_text);
+				console.log(div_text);
+			})
+		})
+	</script>
+</html>

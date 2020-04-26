@@ -1,0 +1,700 @@
+ï»¿
+// VERSION IS MAJOR.MINOR.REVISION.DEVELOPERSVERSION (Revision.DevelopersVersion.iteration = MONTH.DAY of the year)          
+try { 
+    versioning.reportVersion({
+        major: 1,
+        minor: 0,
+        revision: 7,
+        system: 1,
+        iteration: 1,
+        year: 2019,
+        name: 'NOAH-Plugins.js',
+        requires: ['NOAH.Include.Config.js', 'NOAH.Include.js']
+    });
+} catch (ex) { console.log(ex.message); }
+
+
+var lastDataContainerPlugin = null;
+var dataContainerPlugin = function (sender, e) {
+    result = {};
+    try {
+        result.obj = $(sender); // ('.Section-Background-Wrapper');
+        result.background = result.obj.find('.Section-Background');
+        result.backgroundImage = result.obj.find('.Section-Background-Image');
+        result.dataElements = result.obj.find('.Section-Data-Elements');
+        result.overlay = result.obj.find('.Section-Data-Overlay');
+        result.data = result.obj.find('.Section-Data');
+
+        result.setDisplay = function (options) {
+            var result = '';
+            try {
+                var dataToUse = options.data;
+
+                // SET THE INTERNAL TEMPLATE
+                this.dataElements.html(dataToUse.template);
+                // console.log(dataToUse.template);
+                // SET THE VALUES PASSED INTO THE NEW TEMPLATE
+                for (var key in dataToUse) {
+                    this.dataElements.find('[data-id*=' + key + ']').text(dataToUse[key]);
+                }
+
+                this.background.css('background-color', dataToUse.backgroundColor);
+                this.backgroundImage.html('<i class="' + dataToUse.icon + '"></i>');
+            }
+            catch (ex) {
+                console.log("dataContainerPlugin() " + ex.message);
+            }
+            lastDataContainerPlugin = this;
+            return result;
+        };
+    }
+    catch (ex) {
+        console.log(ex.message);
+    }
+    return result;
+}
+
+// -------------
+// DOCUMENT SIZE
+// -------------
+// 10,000,000 rows of data = 1.79328 gb
+//  1,000,000 rows of data = 179.328 mb
+//    100,000 rows of data = 17.9328 mb
+//     10,000 rows of data = 1.79328 mb
+//      1,000 rows of data = 179,328 kb
+//        100 rows of data = 17932 kb
+//         10 rows of data = 1793 kb
+//          1 rows of data = 179 kb
+
+//			Time to download 10mb
+// 1.024 Mbps 								1:18
+// 1.544 Mbps (DS1, T1) 			0:51
+// 2.048 Mbps (E1, ISDN-32) 	0:39
+// 10 Mbps (10Base-T) 				0:08
+// 25.6 Mbps (ATM25) 					0:03
+// 34 Mbps (E3) 							0:02
+// 45 Mbps (DS3, T3) 					0:01
+// 51 Mbps (OC1) 							0:01
+// 100 Mbps (100Base-T)				0:00
+
+var localStorageFeature = {
+    feature: window.localStorage || null,
+    featureName: 'localStorage',
+    featureDetectionTest: function () {
+        var result = (typeof this.feature == 'object');
+        return result;
+    },
+    featureEnabledTest: function () {
+        var result = false;
+        try {
+            var featureKey = 'featureTest_LOCALSTORAGE';
+            var featureValue = 'localStorage found.'
+            this.feature.setItem(featureKey, featureValue);
+            this.feature.removeItem(featureKey);
+            return true;
+        } catch (ex) {
+        }
+        return result;
+    }
+}
+
+function detectBrowserFeature(options) {
+    var result = false;
+    try {
+        var _defaults = {
+            featureToTest: null,
+            featureName: '[Unknown]',
+            featureDetectionTest: function () {
+                return false;
+            },
+            featureEnabledTest: function () {
+                return false;
+            }
+        };
+        var settings = $.extend({}, _defaults, options);
+        var featureDetectionMessage = 'Browser (Agent) does not allow FEATURE "' + settings.featureName + '"';
+
+        if (settings.feature) {
+            featureDetectionMessage = 'Browser (Agent) FEATURE "' + settings.featureName + '"';
+            if (typeof settings.featureDetectionTest == 'function') {
+
+                if (settings.featureDetectionTest()) {
+                    featureDetectionMessage += ' is [AVAILABLE], ';
+                    if (typeof settings.featureEnabledTest) {
+                        featureDetectionMessage += 'and is [ENABLED]';
+                    } else {
+                        featureDetectionMessage += 'and is [DISABLED]';
+                    }
+                } else {
+                    featureDetectionMessage += ' is [NOT AVAILABLE].';
+                }
+            } else {
+                featureDetectionMessage += ' uncertain, no featureDetectionTest provided.';
+            }
+        }
+
+        console.log('%c' + featureDetectionMessage, 'color: #ccc;');
+    } catch (ex) {
+        console.log(ex.message);
+    }
+    return result;
+}
+
+//(function ($) {
+//    $.QueryString = (function (paramsArray) {
+//        let params = {};
+
+//        for (let i = 0; i < paramsArray.length; ++i) {
+//            let param = paramsArray[i]
+//                .split('=', 2);
+
+//            if (param.length !== 2)
+//                continue;
+
+//            params[param[0]] = decodeURIComponent(param[1].replace(/\+/g, " "));
+//        }
+
+//        return params;
+//    })(window.location.search.substr(1).split('&'))
+//})(jQuery);
+
+function convertJSONToCSV(objArray) {
+    var result = '';
+    try {
+        var array = typeof objArray != 'object' ? JSON.parse(objArray) : objArray;
+        for (var i = 0; i < array.length; i++) {
+            var line = '';
+            for (var index in array[i]) {
+                if (line != '') line += ','
+                
+                line += '"' + $('<div>' + array[i][index] + '</div>').text() + '"';
+            }
+            result += line + '\r\n';
+        }
+    } catch (ex) { console.log(ex.message); }
+    return result;
+}
+
+function downloadText(filename, text) {
+    try {
+        var element = document.createElement('a');
+        var metaType = 'data:text/plain;charset=utf-8';
+        try { if (filename.split('.')[1] == 'csv') { metaType = 'data:text/csv;charset=utf-8'; } } catch (ex) { console.error(ex.message); }
+        element.setAttribute('href', metaType + ',' + encodeURIComponent(text));
+        element.setAttribute('download', filename);
+
+        element.style.display = 'none';
+        document.body.appendChild(element);
+
+        element.click();
+
+        document.body.removeChild(element);
+    } catch (ex) { console.log(ex.message); }
+}
+
+RegExp.escape = function (string) {
+    return string.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')
+};
+
+$.fn.setMobileIcon = function () {
+    try {
+        var ele = $(this);
+        if (!ele.hasClass('nav-icon')) {
+            ele = ele.closest('.nav-icon');
+        }
+
+        var isSelected = ele.hasClass('selected');
+
+        if (!isSelected) {
+            ele.addClass('selected');
+            try { if (typeof setMobileIcon_onActive == 'function') { setMobileIcon_onActive(ele, null); } } catch (ex) { console.log(ex.message); }
+        } else {
+            ele.removeClass('selected');
+            try { if (typeof setMobileIcon_onInactive == 'function') { setMobileIcon_onInactive(ele, null); } } catch (ex) { console.log(ex.message); }
+        }
+    } catch (ex) {
+        console.log(ex.message);
+    }
+}
+
+try {
+    var _JSONDatabaseRequest = { dba: {}, data: {}, options: {} };
+    var _JSONRequestForPage = { "items": [{ "userinput": $.extend({}, _JSONDatabaseRequest, { "options": {} }) }] };
+    var userInputData = _JSONRequestForPage;
+    var userInputSections = { "userInput": "USERINPUT", "dba": "DBA", "data": "DATA", "predictive": "PREDICITIVE", "options": "OPTIONS", "item": "ITEM", "all": "ALL" };
+} catch (ex) { console.log(ex.message); }
+
+
+$.fn.getJSONData = function (options) {
+    var result = {};
+    try {
+        var _defaults = _JSONRequestForPage;
+        var settings = $.extend({}, _defaults, options)
+
+        var elementsSelected = this
+        var index = 0;
+
+        if (settings && settings.index) { index = settings.index; }
+ 
+        $(elementsSelected).each(function () {
+            try {
+                //console.log(JSON.parse($(this).val()).items[index]);
+                settings["items"][index] = JSON.parse($(this).val()).items[index];
+            } catch (ex) { console.log(ex.message); }
+        });
+
+        result = settings;
+    } catch (ex) { console.log(ex.message); }
+    return result;
+}
+
+
+
+function getUserInputItem(index, options) {
+    var result = $.extend({}, _JSONRequestForPage, options);
+    try {
+        index = index || -1;
+        if (index > -1) { result = userInputData.items[index] } else {
+            if (index == -1) {
+                result = $.extend(result, userInputData).items[0];
+            } else { result = userInputData; }
+        };
+    } catch (ex) { console.log('getUserInputItem() ' + ex.message); }
+    return result;
+}
+
+function getInputSection(dataSection, index, options) {
+    var result = {};
+    try {
+        result = getUserInputItem(index, options)
+        switch (dataSection) {
+            case userInputSections.dba:
+                result = result.userinput.dba;
+                break;
+            case userInputSections.data:
+                result = result.userinput.data
+                break;
+            case userInputSections.predictive:
+                result = result.userinput.predictive
+                break;
+            case userInputSections.options:
+                result = result.userinput.options;
+                break;
+            case userInputSections.userInput:
+                result = result.userinput;
+                break;
+            case userInputSections.all:
+                result = getUserInputItem(-2, options);
+                break;
+        }
+    } catch (ex) { console.log('getInputSection() ' + ex.message); }
+    return result;
+}
+
+function setUserInput(dataSection, data, index, options) {
+    var result = {};
+    try {
+        // debugger;
+        index = index || 0;
+        switch (dataSection) {
+            case userInputSections.dba:
+                userInputData.items[index].userinput.dba = $.extend(userInputData.items[index].userinput.dba, data);
+                result = userInputData.items[index].userinput.dba;
+                break;
+            case userInputSections.data:
+                userInputData.items[index].userinput.data = $.extend(userInputData.items[index].userinput.data, data);
+                result = userInputData.items[index].userinput.data;
+                break;
+            case userInputSections.predictive:
+                userInputData.items[index].userinput.predictive = $.extend(userInputData.items[index].userinput.predictive, data);
+                result = userInputData.items[index].userinput.predictive;
+                break;
+            case userInputSections.options:
+                userInputData.items[index].userinput.options = $.extend(userInputData.items[index].userinput.options, data);
+                result = userInputData.items[index].userinput.options;
+                break;
+            case userInputSections.userInput:
+                userInputData.items[index].userinput = $.extend(userInputData.items[index].userinput, data);
+                result = userInputData.items[index].userinput;
+                break;
+            case userInputSections.item:
+                userInputData.items[index] = $.extend(userInputData.items[index], data);
+                result = userInputData.items[index];
+                break;
+            case userInputSections.all:
+                userInputData = $.extend(userInputData, data);
+                result = userInputData;
+                break;
+        }
+    } catch (ex) {
+        // debugger;
+        console.log('setUserInput() ' + ex.message);
+    }
+
+    // console.log('AFTER setUserInput FOR ', dataSection, result);
+    return result;
+}
+
+$.fn.changeElementType = function (newType) {
+    var result = this;
+    try {
+        var attrs = {};
+
+        $.each(this[0].attributes, function (idx, attr) {
+            try {
+                attrs[attr.nodeName] = attr.nodeValue;
+            } catch (ex) { console.log(ex.message); }
+        });
+
+        var newelement = $("<" + newType + "/>", attrs).append($(this).contents());
+        this.replaceWith(newelement);
+        result = newelement
+    } catch (ex) { console.log(ex.message); }
+    return result;
+};
+
+$.fn.bindTemplate = function (options) {
+    var result = '';
+    try {
+        // data must have properties identical to map when data is to be displayed.
+        var _defaults = {
+            map: defaultMap,
+            data: defaultData,
+            template: defaultTemplate
+        }
+        var _settings = $.extend({}, _defaults, options);
+
+        result = $(_settings.template.toString().trim()).wrap('<div></div>').parent().html().toString().trim();
+        // console.log(result);
+        var mapReplace = '';
+        var replaceWithData = '';
+        for (var prop in _settings.map) {
+            mapReplace = _settings.map[prop];
+            replaceWithData = '!?!'
+            if (_settings.data.hasOwnProperty(prop)) {
+                replaceWithData = _settings.data[prop];
+            }
+
+            var regExValue = RegExp.escape(mapReplace);
+            var regEx = new RegExp(regExValue, 'g'); // ALL OCCURANCES
+            result = result.replace(regEx, replaceWithData);
+        }
+
+        $(this).append(result).fadeIn();
+    }
+    catch (ex) {
+        console.log(ex.message);
+    }
+
+    // console.log(result);
+    return result;
+}
+
+var defaultTemplate = '';
+var defaultConvertor = {};
+var defaultMap = {};
+var defaultSize = 15;
+var defaultData = [];
+
+$.fn.bindItemTemplates = function (options) {
+    var result = '';
+    try {
+        // data must have properties identical to map when data is to be displayed.
+        var _defaults = {
+            map: defaultMap,
+            template: defaultTemplate,
+            size: defaultSize,
+            data: defaultData,
+            bindTo: this,
+            dataConvertor: defaultConvertor,
+            events: { onBefore: null, onAfter: null }
+        }
+        var _settings = $.extend({}, _defaults, options);
+
+        if (_settings.events.onBefore) {
+            try {
+                _settings.events.onBefore(options);
+            } catch (ex) { console.log('User-Defined Event [onBefore]: ' + ex.message); }
+        }
+
+        if (_settings.bindTo) {
+            $(_settings.bindTo).each(function () {
+                var bindingTo = $(this);
+
+                $(_settings.data).each(function () {
+                    var item = this;
+
+                    if (typeof _settings.dataConvertor == 'function') {
+                        item = _settings.dataConvertor().convert(item);
+                    }
+                    //setTimeout(
+                    //  function () {
+                    try {
+                        bindingTo.bindTemplate({
+                            map: _settings.map,
+                            template: _settings.template.clone().html().toString(),
+                            data: item
+                        });
+                    } catch (ex) { console.log(ex.message); }
+                    //  }                            
+                    //, 1);
+                });
+            });
+        }
+
+        if (_settings.events.onAfter) {
+            try {
+                _settings.events.onAfter(options);
+            } catch (ex) { console.log('User-Defined Event [onBefore]: ' + ex.message); }
+        }
+
+    }
+    catch (ex) {
+        console.log(ex.message);
+    }
+    return result;
+}
+
+$.fn.getChosenValues = function (options) {
+    var results = [];
+    try {
+        var element = this;
+        var elementChosen = this.next();
+        var elementParent = this.parent();
+        var selectedChosenIndices = elementChosen.find('.search-choice .search-choice-close').map(function () { return $(this).attr('data-option-array-index') }).toArray();
+
+        $.each(selectedChosenIndices, function () {
+            try {
+                var selectedObj = {};
+                var opt = element.find('option')[parseInt(this)];
+                selectedObj = $(opt).attrs();
+
+                results.push(selectedObj);
+            } catch (ex) { console.log(ex.message); }
+        });
+
+    } catch (ex) { console.log(ex.message); }
+    return results;
+}
+
+
+
+function createIframe(options) {
+    var result = null;
+    try {
+        var _defaults = {
+              url: ''
+            , callback: function () { console.log('iFrame callback (doNothing)'); }
+            , cssClass: 'created-iframe'
+            , id: 'myIframe'
+        }
+        var settings = $.extend(true, {}, _defaults, options);
+
+        $(document.body).append('<div class="hidden iframe" style:"display:none;"><iframe id="' + settings.id + '" class="' + settings.cssClass + '"></iframe></div>');
+
+        var appendedIframe = $('iframe[id*="' + settings.id + '"]');
+
+        appendedIframe.attr('src', url);
+        appendedIframe.attr('target', '_blank');
+        appendedIframe.load(function () {
+            try {
+                if (settings.callback && typeof settings.callback == 'function') { settings.callback(); }
+            } catch (ex) { console.log(ex.message); }
+        });
+
+        
+    } catch (ex) { console.log(ex.message); }
+    return result;
+}
+
+function fixSignInUserInfoDropDown() {
+    try {
+        console.log('       -> FIXING UserInfo DropDown');
+        var element = $($('[id*=NOAHSignInUser]').find("[id=SignInUserInfoBox]")[0]);
+        var position = element.css('opacity', .001).show().offset();
+        element.css('opacity', '').hide();
+        console.log(JSON.stringify(position))
+
+        element.css('top', position.top);
+        element.css('left', position.left);
+        element.css('z-index', 9999);
+        var movingElement = element.detach();
+
+        $('section.Header').append(movingElement);
+    } catch (ex) {
+        console.log(ex.message);
+    }
+}
+
+
+
+
+function getBrowserData() {
+    var result = { name: 'unknown', version: 0 };
+    try {
+        var ua = navigator.userAgent, tem, M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+        if (/trident/i.test(M[1])) {
+            tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+            return { name: 'IE ', version: (tem[1] || '') };
+        }
+        if (M[1] === 'Chrome') {
+            tem = ua.match(/\bOPR\/(\d+)/)
+            if (tem != null) { return { name: 'Opera', version: tem[1] }; }
+        }
+        M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+        if ((tem = ua.match(/version\/(\d+)/i)) != null) { M.splice(1, 1, tem[1]); }
+        result = {
+            name: M[0],
+            version: M[1]
+        };
+    } catch (ex) { console.log(ex.message); }
+    return result;
+}
+
+
+
+
+
+
+
+
+
+
+/**
+ * Cookie plugin
+ *
+ * Copyright (c) 2006 Klaus Hartl (stilbuero.de)
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ */
+
+/**
+ * Create a cookie with the given name and value and other optional parameters.
+ *
+ * @example $.cookie('the_cookie', 'the_value');
+ * @desc Set the value of a cookie.
+ * @example $.cookie('the_cookie', 'the_value', { expires: 7, path: '/', domain: 'jquery.com', secure: true });
+ * @desc Create a cookie with all available options.
+ * @example $.cookie('the_cookie', 'the_value');
+ * @desc Create a session cookie.
+ * @example $.cookie('the_cookie', null);
+ * @desc Delete a cookie by passing null as value. Keep in mind that you have to use the same path and domain
+ *       used when the cookie was set.
+ *
+ * @param String name The name of the cookie.
+ * @param String value The value of the cookie.
+ * @param Object options An object literal containing key/value pairs to provide optional cookie attributes.
+ * @option Number|Date expires Either an integer specifying the expiration date from now on in days or a Date object.
+ *                             If a negative value is specified (e.g. a date in the past), the cookie will be deleted.
+ *                             If set to null or omitted, the cookie will be a session cookie and will not be retained
+ *                             when the the browser exits.
+ * @option String path The value of the path atribute of the cookie (default: path of page that created the cookie).
+ * @option String domain The value of the domain attribute of the cookie (default: domain of page that created the cookie).
+ * @option Boolean secure If true, the secure attribute of the cookie will be set and the cookie transmission will
+ *                        require a secure protocol (like HTTPS).
+ * @type undefined
+ *
+ * @name $.cookie
+ * @cat Plugins/Cookie
+ * @author Klaus Hartl/klaus.hartl@stilbuero.de
+ */
+
+/**
+ * Get the value of a cookie with the given name.
+ *
+ * @example $.cookie('the_cookie');
+ * @desc Get the value of a cookie.
+ *
+ * @param String name The name of the cookie.
+ * @return The value of the cookie.
+ * @type String
+ *
+ * @name $.cookie
+ * @cat Plugins/Cookie
+ * @author Klaus Hartl/klaus.hartl@stilbuero.de
+ */
+jQuery.cookie = function (name, value, options) {
+    try {
+        // return null;
+        name += '_' + getBrowserData().name;
+        // console.log('cookie data', name, value, options);
+        if (value) { // name and value given, set cookie
+            options = options || {};
+            if (value === null || value === 'delete') {
+                value = '';
+                options.expires = -2;
+                console.log('cookie [' + name + '] requested to be removed.');
+            }
+            var expires = '';
+            if (options && options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+                var date;
+                if (typeof options.expires == 'number') {
+                    date = new Date();
+                    date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+                } else {
+                    date = options.expires;
+                }
+                expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+                console.log('cookie [' + name + '] Will expire: ' + expires);
+            }
+            // CAUTION: Needed to parenthesize options.path and options.domain
+            // in the following expressions, otherwise they evaluate to undefined
+            // in the packed version for some reason...
+            var path = "; path=/";
+
+            //options ? options.path ? '; path=' + (options.path) : '' : '';
+            //path += '###';
+            //path = path.replace('//###', '').replace('/###', '').replace(/\/\//g, /\//);
+            //path = "; path=/";
+
+            var domain = options ? options.domain ? '; domain=' + (options.domain) : '' : '';
+            var secure = options ? options.secure ? '; secure' : '' : '';
+            // console.log('----->', name, '=', encodeURIComponent(value), expires, path, domain, secure);
+            document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+            // console.log('cookie [' + name + '] Will expire: ' + expires + ' ---> ' + document.cookie.toString());
+        } else { // only name given, get cookie
+            var cookieValue = null;
+            if (document.cookie && document.cookie != '') {
+                var cookies = document.cookie.split(';');
+                for (var i = 0; i < cookies.length; i++) {
+                    var cookie = jQuery.trim(cookies[i]);
+                    // Does this cookie string begin with the name we want?
+                    if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        }
+    } catch (ex) { console.log(ex.message); }
+};FðTc;›      ^aB4^aBDAkNë       Q    :http://www.ncausa.org/NOAH/scripts/Includes/Standard/NOAHPlugins/NOAH-Plugins.js necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: no-cache,max-age=604800
+Content-Type: application/x-javascript
+Last-Modified: Wed, 05 Feb 2020 16:17:08 GMT
+Accept-Ranges: bytes
+ETag: "74739cb63fdcd51:0"
+Server: Microsoft-IIS/7.5
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type
+Date: Thu, 05 Mar 2020 18:17:40 GMT
+Content-Length: 24647
+ original-response-headers Cache-Control: no-cache,max-age=604800
+Content-Type: application/x-javascript
+Last-Modified: Wed, 05 Feb 2020 16:17:08 GMT
+Accept-Ranges: bytes
+ETag: "74739cb63fdcd51:0"
+Server: Microsoft-IIS/7.5
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type
+Date: Thu, 05 Mar 2020 18:17:40 GMT
+Content-Length: 24647
+ ctid 2 eTLD1Access 1;0;99153600, uncompressed-len 0 net-response-time-onstart 15714 net-response-time-onstop 15763   `G

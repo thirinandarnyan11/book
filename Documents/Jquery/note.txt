@@ -1,0 +1,9 @@
+jQuery(selector).action(callback function)
+           OR
+  $(selector).action(callback function)
+
+  CSS selector
+  id selector=> $("#hel") //unique id
+  class selector=> $(".hi")
+  element selector=> $("p")
+  group selector=> $("h1,h2,h3")

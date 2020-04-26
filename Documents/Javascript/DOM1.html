@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- manipulate fot html and css -->
+	<title>Document Object Model</title>
+</head>
+<body>
+	<p id="hello">Hello</p>
+	<h2>Welcome</h2>
+	<h2>To</h2>
+	<h2>Bootcamp</h2>
+	<input type="radio" name="rate" value="Poor">Poor<br>
+	<input type="radio" name="rate" value="Good">Good<br>
+	<input type="radio" name="rate" value="Very Good">Very Good<br>
+	<button onclick="getData()">Click</button>
+	<script type="text/javascript">
+		function getData(){
+			var hello=document.getElementById('hello');
+			//alert(hello);
+			console.log(hello);
+
+			var welcome=document.getElementsByTagName('h2');
+			console.log(typeof(welcome));// array collection
+			// for (var i=0; i<wel.length; i++) {
+			// 	console.log(wel[i].innerHTML);
+			// }
+
+			//array collection change to array
+			var wel_arr=Array.from(welcome);
+			wel_arr.forEach(function(wel){
+				console.log(wel.innerHTML);
+			})
+			var rates=document.getElementsByName('rate');
+			console.log(rates);
+
+			//Foreach loop
+			rates.forEach(function(rate){
+				if(rate.checked){
+					alert("Your rate is "+rate.value);
+				}
+			})
+			
+			// console.log(wel[2].innerHTML);  output:Bootcamp
+		}
+	</script>
+</body>
+</html>
+
+<!-- Selector element
+-getElementById()
+-getElementsByClassName()
+-getElementsByTagName()
+-getElelmentsByName()
+-querySelector() 
+  -id,class,element
+-->

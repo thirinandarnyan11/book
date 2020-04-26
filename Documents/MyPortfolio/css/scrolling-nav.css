@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+ /*Only stick if you can fit */
+@media (min-height: 300px) {
+  nav ul {
+    top: 0;
+  }
+}
+nav ul li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+  word-spacing: 90px;
+}
+main {
+  padding-bottom: 40rem;
+}
+section {
+  padding: 5rem;
+  margin: 0 0 2rem 0;
+}
+

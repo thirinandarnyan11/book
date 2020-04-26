@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<style type="text/css">
+	.para{
+		background-color: green;
+		color: white;
+		padding: 30px;
+		text-align: center;
+	}
+</style>
+<body>
+	<p class="para">This is paragraph One</p>
+	<p class="para">This is paragraph Two</p>
+	<button id="add">Add</button>
+	<button id="remove">Remove</button>
+	<button id="toggle">Toggle</button>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#remove").click(function(){
+				$("p").removeClass("para");
+			})
+			$("#add").click(function(){
+				$("p").addClass("para");
+			})
+			$("#toggle").click(function(){
+				$("p").toggleClass("para");
+			})
+		})
+	</script>
+</body>
+</html>

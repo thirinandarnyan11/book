@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<form name="myForm">
+		<label for="name">Name</label>
+		<input type="text" name="name" id="name"><br>
+		<label for="price">Price</label>
+		<input type="number" name="price" id="price"><br>
+		<button type="button" onclick="getData()">Save</button>
+	</form><br>
+
+	<table border="1" cellspacing="0" cellpadding="15">
+		<thead>
+			<tr>
+				<th>No.</th>
+				<th>Name</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody id="tbody">
+			
+		</tbody>
+	</table>
+	<script type="text/javascript">
+		var i=1;
+		function getData(){
+			var name=document.myForm.name.value;
+			var price=document.myForm.price.value;
+			document.getElementById("tbody").innerHTML+="<tr><td>"+ i++ +"</td><td>"+name+"</td><td>"+price+"</td></tr>";
+		}
+	</script>
+</body>
+</html>
