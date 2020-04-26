@@ -84,3 +84,7 @@ git add --ignore-errors
 yes
 git add --ignore-errors 
 git add --a
+git add .
+git help submodule
+git add --a
+git commit -m 'modelagency bootstrap project by tnn'

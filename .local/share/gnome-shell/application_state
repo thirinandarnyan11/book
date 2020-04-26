@@ -2,10 +2,10 @@
 <application-state>
   <context id="">
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="7" last-seen="1587906067"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="10612.5" last-seen="1587906296"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="10658.5" last-seen="1587907645"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="215" last-seen="1587906093"/>
-    <application id="sublime_text.desktop" open-window-count="2" score="14852.923385620117" last-seen="1587906298"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="232" last-seen="1587906655"/>
+    <application id="sublime_text.desktop" open-window-count="2" score="14936.923385620117" last-seen="1587907644"/>
     <application id="firefox.desktop" open-window-count="0" score="10843.481430053711" last-seen="1584483374"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1587754165"/>
   </context>
