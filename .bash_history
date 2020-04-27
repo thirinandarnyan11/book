@@ -112,3 +112,17 @@ git push --force
 git push origin master
 git fetch origin
 git merge origin master
+git add --a
+git commit -m 'modelagency bootstrap project by tnn'
+git config --global user.name "thirinandarnyan11"
+git config --global user.email kittykittypinky@gmail.com
+git commit -m 'modelagency bootstrap project by tnn'
+git push origin master
+git push --help
+git pull
+git merge
+git remote add origin https://github.com/thirinandarnyan11/modelagency.git
+git merge
+git push origin master
+git pull
+git push origin master

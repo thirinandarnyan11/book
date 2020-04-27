@@ -1,9 +1,24 @@
-2020/04/26-00:01:04.867 9e1 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/04/26-00:01:04.868 9e1 Recovering log #190
-2020/04/26-00:01:04.979 9e1 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000190.log 
-2020/04/26-00:03:14.774 b21 Level-0 table #195: started
-2020/04/26-00:03:15.068 b21 Level-0 table #195: 16100 bytes OK
-2020/04/26-00:03:16.388 b21 Delete type=0 #190
-2020/04/26-00:04:09.748 b21 Level-0 table #197: started
-2020/04/26-00:04:10.264 b21 Level-0 table #197: 29125 bytes OK
-2020/04/26-00:04:10.656 b21 Delete type=0 #194
+2020/04/27-13:58:56.382 7c6 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/27-13:58:56.383 7c6 Recovering log #213
+2020/04/27-13:58:56.430 7c6 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000213.log 
+2020/04/27-14:46:41.814 82b Level-0 table #217: started
+2020/04/27-14:46:42.203 82b Level-0 table #217: 18427 bytes OK
+2020/04/27-14:46:42.661 82b Delete type=0 #213
+2020/04/27-15:02:28.760 82b Level-0 table #219: started
+2020/04/27-15:02:28.803 82b Level-0 table #219: 20790 bytes OK
+2020/04/27-15:02:28.888 82b Delete type=0 #216
+2020/04/27-15:28:43.216 82b Level-0 table #221: started
+2020/04/27-15:28:43.256 82b Level-0 table #221: 18640 bytes OK
+2020/04/27-15:28:43.306 82b Delete type=0 #218
+2020/04/27-15:28:43.306 82b Compacting 4@0 + 1@1 files
+2020/04/27-15:28:43.824 82b Generated table #222@0: 4287 keys, 1719416 bytes
+2020/04/27-15:28:43.824 82b Compacted 4@0 + 1@1 files => 1719416 bytes
+2020/04/27-15:28:43.875 82b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/27-15:28:43.875 82b Delete type=2 #217
+2020/04/27-15:28:43.875 82b Delete type=2 #219
+2020/04/27-15:28:43.875 82b Delete type=2 #214
+2020/04/27-15:28:43.875 82b Delete type=2 #221
+2020/04/27-15:28:43.876 82b Delete type=2 #212
+2020/04/27-16:02:38.905 82b Level-0 table #224: started
+2020/04/27-16:02:39.855 82b Level-0 table #224: 22882 bytes OK
+2020/04/27-16:02:40.356 82b Delete type=0 #220

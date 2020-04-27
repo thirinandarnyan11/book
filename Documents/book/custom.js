@@ -15,7 +15,7 @@ $(window).scroll(function(e) {
     }
 
 });
-
+ // show more/show less
 function myFunction() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
@@ -23,7 +23,7 @@ function myFunction() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "show more"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";

@@ -1,18 +1,6 @@
-2020/04/26-14:32:22.649 89e Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/04/26-14:32:22.650 89e Recovering log #196
-2020/04/26-14:32:23.437 89e Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000196.log 
-2020/04/26-14:58:24.912 ae8 Level-0 table #200: started
-2020/04/26-14:58:25.676 ae8 Level-0 table #200: 17736 bytes OK
-2020/04/26-14:58:26.454 ae8 Delete type=0 #196
-2020/04/26-15:56:31.651 ae8 Level-0 table #202: started
-2020/04/26-15:56:31.982 ae8 Level-0 table #202: 17516 bytes OK
-2020/04/26-15:56:32.210 ae8 Delete type=0 #199
-2020/04/26-15:56:32.210 ae8 Compacting 4@0 + 1@1 files
-2020/04/26-15:56:32.332 ae8 Generated table #203@0: 3924 keys, 1700129 bytes
-2020/04/26-15:56:32.332 ae8 Compacted 4@0 + 1@1 files => 1700129 bytes
-2020/04/26-15:56:32.382 ae8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/04/26-15:56:32.382 ae8 Delete type=2 #197
-2020/04/26-15:56:32.382 ae8 Delete type=2 #192
-2020/04/26-15:56:32.382 ae8 Delete type=2 #200
-2020/04/26-15:56:32.382 ae8 Delete type=2 #202
-2020/04/26-15:56:32.382 ae8 Delete type=2 #195
+2020/04/27-19:33:41.414 774 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/27-19:33:41.415 774 Recovering log #223
+2020/04/27-19:33:41.689 774 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000223.log 
+2020/04/27-19:33:51.107 874 Level-0 table #227: started
+2020/04/27-19:33:51.249 874 Level-0 table #227: 20139 bytes OK
+2020/04/27-19:33:51.444 874 Delete type=0 #223

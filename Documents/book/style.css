@@ -53,15 +53,20 @@ a.nav-link:hover,a.nav-link:active{
 	background-color: white;
 }
 .name{
-	font-size: 10px;
+	font-size: 12px;
 	color: red;
+	text-decoration: underline;
+}
+a.name:hover,a.name:active{
+	color: #dc3545d6;
 }
 .hr1{
 	width: 100%;
+	margin-left: auto;
 }
 /*end of card slider*/
 hr{
-	width: 75px;
+	width: 100%;
 }
 .link ul{
 	text-decoration: none;
@@ -78,13 +83,15 @@ p{
 	font-size: 14px;
 }
 i{
-	font-size:16px;
+	font-size:12px;
 }
-a{
+.nav_link{
 	color:white;
-	font-size: 14px;
 }
-a:hover{
+.nav-item{
+	font-size: 16px;
+}
+a.nav_link:hover{
 	text-decoration:none;
 	color: white;
 }
@@ -133,7 +140,23 @@ h1,h2,h3,h4,h5,h6,p,ul,ol{ margin:0px; padding:0px;}
 	width: 100%;
 	height: 230px;
 }
+/*see more button*/
+#btn{
+	color: white;
+}
+a#btn:hover,a#btn:active{
+text-decoration: none;
 
+}
+/*book link for index page*/
+.bname{
+	text-decoration: underline;
+	color: black;
+}
+a.bname:hover,a.bname:active{
+	color: black;
+}
+/*end of book link css*/
 .navbar-hide {
     pointer-events: none;
     opacity: 0;
@@ -148,9 +171,10 @@ h1,h2,h3,h4,h5,h6,p,ul,ol{ margin:0px; padding:0px;}
 .breadcrumb-item{
 	color: blue;
 }
-#banner2{
+#banner1{
 	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/ebook1.jpg);
 	width: 100%;
+	height: 230px;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -176,6 +200,7 @@ a.page-link:hover,a.page-link:active{
 a.book_link{
 	color: black;
 	text-decoration-line: underline;
+	font-size: 15px;
 }
 /*book detail page css*/
 #image_detail{
@@ -195,8 +220,48 @@ hr{
 	font-size: 10px;
 }
 /*show more css*/
-#more {display: none;}
+#more {
+	display: none;
+}
+#myBtn{
+	color: #0d9bca;
+	text-decoration-line: underline;
+	font-weight: bold;
+	font-size: 15px;
+}
+a#myBtn:hover,a#myBtn:active{
+	color: black;
+}
+/*end*/
+/*product detail*/
+.hor{
+	margin-left: 8px;
+	width: 98%;
+}
 /*footer*/
 .ul_list li{
 	list-style-type: none;
+	font-size: 15px;
 }
+.footer_text{
+	background-color: #eeeeeecf;
+	line-height: 25px;
+}
+.ul_list li .footer_link{
+	color: black;text-decoration: underline;
+}
+a.footer_link:hover,a.footer_link:active{
+	color: red;
+}
+/*end of english book page*/
+/*myanmar book page css*/
+#banner2{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/mbook1.jpg);
+	width: 100%;
+	height: 230px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*star rating card*/
+
+/*end of star rating card*/
