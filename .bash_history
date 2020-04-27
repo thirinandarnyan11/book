@@ -133,3 +133,12 @@ git add --a
 git commit -m 'modelagency bootstrap project by tnn'
 git remote add origin https://github.com/thirinandarnyan11/modelagency.git
 git push origin master
+git add --a
+git init
+git status
+git add --a
+git commit -m 'modelagency bootstrap project tnn'
+git remote add origin https://github.com/thirinandarnyan11/modelagencyproject.git
+git push origin master
+git remote add origin https://github.com/thirinandarnyan11/modelagencyproject.git
+git push origin master
