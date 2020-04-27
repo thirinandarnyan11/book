@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Book index html</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/fontawesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="font.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="custom.js"></script>
+</head>
+<body>
+	<h4 style="font-weight: bold;" class="ml-3 mt-5">Your Basket</h4>
+	<caption><h5 class="mt-4 mb-2 ml-3">Shopping basket details</h5></caption>
+	<table border="1" cellpadding="15" cellspacing="0" class="ml-3">
+		<thead>
+			<tr>
+				<th>No</th>
+				<th>Title</th>
+				<th>Author</th>
+				<th>Genre</th>
+				<th>Price</th>
+				<th>Qty</th>
+				<th>Sub Total</th>
+			</tr>
+		</thead>
+		<tbody id="tbody"></tbody>
+	</table><br>
+	
+	<div class="row">
+		<div class="col-lg-12 col-md-6 col-sm-12">
+			<a class="btn btn-info ml-5" href="english_book.html">Continue Shopping</a>
+			<button class="btn btn-info ml-5" onclick="exit()">Checkout</button>
+		</div>
+	</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			count();
+			getData();
+			function getData(){
+				var book_str=localStorage.getItem("book_shop");
+				if(book_str){
+					var book_arr=JSON.parse(book_str);
+					var html='';var total_price='';
+					var j=1;var total=0;
+					$.each(book_arr,function(i,v){
+						var qty=v.qty;
+						var price=v.price;
+						var sub_total=qty*(price*1500);
+						html+=`<tr>
+						<td>${j++}</td>
+						<td>${v.title}</td>
+						<td>${v.author}</td>
+						<td>${v.genre}</td>
+						<td>${v.price}</td>
+						<td><button class="min" data-item_j=${i}>-</button> ${v.qty} <button class="max" data-item_i="${i}">+</button></td>
+						<td>${sub_total}</td>
+						</tr>`;	
+						total+=sub_total;				
+					})
+
+					html+=`<tr>
+					<td colspan="6">Total Price </td>
+					<td>${total}</td>
+					</tr>`;	
+					$("#tbody").html(html);
+
+				}else{
+					
+					$("#tbody").html('');
+				}
+
+			}
+			$("#tbody").on('click','.min',function(){
+				var item_j=$(this).data("item_j");
+				
+				var book_str=localStorage.getItem("book_shop");
+				if(book_str){
+					var book_arr=JSON.parse(book_str);
+					$.each(book_arr,function(i,v){
+						if(item_j==i){
+							v.qty--;
+							if(v.qty==0){
+								book_arr.splice(item_j,1);
+							}
+
+						}
+						var bookData=JSON.stringify(book_arr);
+						localStorage.setItem("book_shop",bookData);
+						getData();
+					})
+				}
+			})
+			$("#tbody").on('click','.max',function(){
+				var item_i=$(this).data("item_i");
+				
+				var book_str=localStorage.getItem("book_shop");
+				if(book_str){
+					var book_arr=JSON.parse(book_str);
+					$.each(book_arr,function(i,v){
+						if(item_i==i){
+							v.qty++;
+
+						}
+						var bookData=JSON.stringify(book_arr);
+						localStorage.setItem("book_shop",bookData);
+						getData();
+					})
+				}
+			})
+			$("#order").click(function(){
+				localStorage.clear();
+				getData();
+			})
+		})
+	</script>
+</body>
+</html>

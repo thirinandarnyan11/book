@@ -2,12 +2,13 @@
 <application-state>
   <context id="">
     <application id="firefox.desktop" open-window-count="0" score="10843.481430053711" last-seen="1584483374"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="8" last-seen="1587923359"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="9" last-seen="1588009795"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1587754165"/>
     <application id="eog.desktop" open-window-count="0" score="0" last-seen="1587912141"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="12313.5" last-seen="1587997724"/>
-    <application id="sublime_text.desktop" open-window-count="2" score="16292.923385620117" last-seen="1587997726"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="445" last-seen="1587909954"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="12834.5" last-seen="1588018471"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="sublime_text.desktop" open-window-count="3" score="16911.923385620117" last-seen="1588018485"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="502" last-seen="1588015078"/>
     <application id="gkbd-keyboard-display.desktop" open-window-count="0" score="7" last-seen="1587926073"/>
   </context>
 </application-state>

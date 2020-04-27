@@ -6,14 +6,16 @@
 }
 /*menu navbar*/
 #navbarSupportedContent{
-	margin-right: 200px;
+	margin-right: 150px;
 }
 a.nav-link:hover,a.nav-link:active{
 	background-color: #c73a30;
 	color: white;
 }
 .nav-item{
-	padding-left: 20px;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 16px;
 }
 .dropdown {
   position: relative;
@@ -87,9 +89,6 @@ i{
 }
 .nav_link{
 	color:white;
-}
-.nav-item{
-	font-size: 16px;
 }
 a.nav_link:hover{
 	text-decoration:none;
