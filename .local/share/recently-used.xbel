@@ -323,12 +323,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/Shop" added="2020-03-05T05:25:34Z" modified="2020-04-27T19:45:59Z" visited="2020-03-05T05:25:35Z">
+  <bookmark href="file:///home/user/Documents/Shop" added="2020-03-05T05:25:34Z" modified="2020-04-28T16:52:26Z" visited="2020-03-05T05:25:35Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-27T19:45:59Z" count="14"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T16:52:26Z" count="15"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2839,17 +2839,17 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency" added="2020-03-18T09:53:56Z" modified="2020-04-02T19:02:24Z" visited="2020-03-18T09:53:56Z">
+  <bookmark href="file:///home/user/Documents/modelagency" added="2020-03-18T09:53:56Z" modified="2020-04-28T18:56:17Z" visited="2020-03-18T09:53:56Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-02T19:02:24Z" count="4"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T18:56:17Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/index.html" added="2020-03-18T09:56:23Z" modified="2020-03-18T09:56:23Z" visited="2020-03-18T09:56:24Z">
+  <bookmark href="file:///home/user/Documents/modelagency/index.html" added="2020-03-18T09:56:23Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T09:56:24Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -2859,7 +2859,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/font.css" added="2020-03-18T09:58:49Z" modified="2020-03-18T09:58:49Z" visited="2020-03-18T09:58:49Z">
+  <bookmark href="file:///home/user/Documents/modelagency/font.css" added="2020-03-18T09:58:49Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T09:58:49Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/css"/>
@@ -2869,7 +2869,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/style.css" added="2020-03-18T09:59:40Z" modified="2020-03-18T09:59:40Z" visited="2020-03-18T09:59:40Z">
+  <bookmark href="file:///home/user/Documents/modelagency/style.css" added="2020-03-18T09:59:40Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T09:59:40Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/css"/>
@@ -2879,7 +2879,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/custom.js" added="2020-03-18T09:59:52Z" modified="2020-03-18T09:59:52Z" visited="2020-03-18T09:59:53Z">
+  <bookmark href="file:///home/user/Documents/modelagency/custom.js" added="2020-03-18T09:59:52Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T09:59:53Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/javascript"/>
@@ -2889,7 +2889,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model1.webp" added="2020-03-18T10:07:01Z" modified="2020-03-18T10:07:01Z" visited="2020-03-18T10:07:02Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model1.webp" added="2020-03-18T10:07:01Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:07:02Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2899,7 +2899,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model2.webp" added="2020-03-18T10:07:09Z" modified="2020-03-18T10:07:09Z" visited="2020-03-18T10:07:10Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model2.webp" added="2020-03-18T10:07:09Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:07:10Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2909,7 +2909,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model3.webp" added="2020-03-18T10:07:17Z" modified="2020-03-18T10:07:17Z" visited="2020-03-18T10:07:17Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model3.webp" added="2020-03-18T10:07:17Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:07:17Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2919,7 +2919,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model4.webp" added="2020-03-18T10:07:29Z" modified="2020-03-18T10:07:29Z" visited="2020-03-18T10:07:29Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model4.webp" added="2020-03-18T10:07:29Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:07:29Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2929,7 +2929,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model5.webp" added="2020-03-18T10:07:37Z" modified="2020-03-18T10:07:37Z" visited="2020-03-18T10:07:37Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model5.webp" added="2020-03-18T10:07:37Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:07:37Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2939,7 +2939,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model6.webp" added="2020-03-18T10:08:01Z" modified="2020-03-18T10:08:01Z" visited="2020-03-18T10:08:01Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model6.webp" added="2020-03-18T10:08:01Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:08:01Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2949,7 +2949,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model7.webp" added="2020-03-18T10:08:16Z" modified="2020-03-18T10:08:16Z" visited="2020-03-18T10:08:16Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model7.webp" added="2020-03-18T10:08:16Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:08:16Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2959,7 +2959,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model8.webp" added="2020-03-18T10:08:30Z" modified="2020-03-18T10:08:30Z" visited="2020-03-18T10:08:30Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model8.webp" added="2020-03-18T10:08:30Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:08:30Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2969,7 +2969,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model9.webp" added="2020-03-18T10:08:47Z" modified="2020-03-18T10:08:47Z" visited="2020-03-18T10:08:47Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model9.webp" added="2020-03-18T10:08:47Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:08:47Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2979,7 +2979,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model10.webp" added="2020-03-18T10:09:43Z" modified="2020-03-18T10:09:43Z" visited="2020-03-18T10:09:43Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model10.webp" added="2020-03-18T10:09:43Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:09:43Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2989,7 +2989,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model11.webp" added="2020-03-18T10:10:07Z" modified="2020-03-18T10:10:07Z" visited="2020-03-18T10:10:08Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model11.webp" added="2020-03-18T10:10:07Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:10:08Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -2999,7 +2999,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model12.webp" added="2020-03-18T10:10:19Z" modified="2020-03-18T10:10:19Z" visited="2020-03-18T10:10:19Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model12.webp" added="2020-03-18T10:10:19Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:10:19Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3009,7 +3009,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model13.webp" added="2020-03-18T10:10:28Z" modified="2020-03-18T10:10:28Z" visited="2020-03-18T10:10:28Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model13.webp" added="2020-03-18T10:10:28Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:10:28Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3019,7 +3019,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model14.webp" added="2020-03-18T10:10:40Z" modified="2020-03-18T10:10:40Z" visited="2020-03-18T10:10:40Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model14.webp" added="2020-03-18T10:10:40Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:10:40Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3029,7 +3029,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model15.webp" added="2020-03-18T10:10:55Z" modified="2020-03-18T10:10:55Z" visited="2020-03-18T10:10:55Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model15.webp" added="2020-03-18T10:10:55Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:10:55Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3039,7 +3039,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model16.webp" added="2020-03-18T10:11:27Z" modified="2020-03-18T10:11:27Z" visited="2020-03-18T10:11:27Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model16.webp" added="2020-03-18T10:11:27Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:11:27Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3049,7 +3049,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model17.webp" added="2020-03-18T10:11:39Z" modified="2020-03-18T10:11:39Z" visited="2020-03-18T10:11:39Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model17.webp" added="2020-03-18T10:11:39Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:11:39Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3059,7 +3059,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model18.webp" added="2020-03-18T10:11:51Z" modified="2020-03-18T10:11:51Z" visited="2020-03-18T10:11:52Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model18.webp" added="2020-03-18T10:11:51Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:11:52Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3069,7 +3069,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/man1.webp" added="2020-03-18T10:11:59Z" modified="2020-03-18T10:11:59Z" visited="2020-03-18T10:11:59Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/man1.webp" added="2020-03-18T10:11:59Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:11:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3079,7 +3079,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model19.webp" added="2020-03-18T10:12:53Z" modified="2020-03-18T10:12:53Z" visited="2020-03-18T10:12:54Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model19.webp" added="2020-03-18T10:12:53Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:12:54Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3089,7 +3089,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model20.webp" added="2020-03-18T10:13:16Z" modified="2020-03-18T10:13:16Z" visited="2020-03-18T10:13:17Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model20.webp" added="2020-03-18T10:13:16Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:13:17Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3099,7 +3099,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m1.webp" added="2020-03-18T10:14:26Z" modified="2020-03-18T10:14:26Z" visited="2020-03-18T10:14:27Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m1.webp" added="2020-03-18T10:14:26Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:14:27Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3109,7 +3109,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m2.webp" added="2020-03-18T10:14:42Z" modified="2020-03-18T10:14:42Z" visited="2020-03-18T10:14:42Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m2.webp" added="2020-03-18T10:14:42Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:14:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3119,7 +3119,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m3.webp" added="2020-03-18T10:14:47Z" modified="2020-03-18T10:14:47Z" visited="2020-03-18T10:14:48Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m3.webp" added="2020-03-18T10:14:47Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:14:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3129,7 +3129,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m4.webp" added="2020-03-18T10:14:53Z" modified="2020-03-18T10:14:53Z" visited="2020-03-18T10:14:53Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m4.webp" added="2020-03-18T10:14:53Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:14:53Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3139,7 +3139,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m5.webp" added="2020-03-18T10:15:00Z" modified="2020-03-18T10:15:00Z" visited="2020-03-18T10:15:01Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m5.webp" added="2020-03-18T10:15:00Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:15:01Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3149,7 +3149,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m6.webp" added="2020-03-18T10:15:16Z" modified="2020-03-18T10:15:16Z" visited="2020-03-18T10:15:16Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m6.webp" added="2020-03-18T10:15:16Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:15:16Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3159,7 +3159,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m7.webp" added="2020-03-18T10:15:21Z" modified="2020-03-18T10:15:21Z" visited="2020-03-18T10:15:21Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m7.webp" added="2020-03-18T10:15:21Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:15:21Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3169,7 +3169,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m8.webp" added="2020-03-18T10:15:37Z" modified="2020-03-18T10:15:37Z" visited="2020-03-18T10:15:37Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m8.webp" added="2020-03-18T10:15:37Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:15:37Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3179,7 +3179,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m9.webp" added="2020-03-18T10:16:01Z" modified="2020-03-18T10:16:01Z" visited="2020-03-18T10:16:01Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m9.webp" added="2020-03-18T10:16:01Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:16:01Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3189,7 +3189,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m10.webp" added="2020-03-18T10:16:28Z" modified="2020-03-18T10:16:28Z" visited="2020-03-18T10:16:29Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m10.webp" added="2020-03-18T10:16:28Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:16:29Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3199,7 +3199,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m11.webp" added="2020-03-18T10:16:43Z" modified="2020-03-18T10:16:43Z" visited="2020-03-18T10:16:43Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m11.webp" added="2020-03-18T10:16:43Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:16:43Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3209,7 +3209,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m12.webp" added="2020-03-18T10:17:11Z" modified="2020-03-18T10:17:11Z" visited="2020-03-18T10:17:11Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m12.webp" added="2020-03-18T10:17:11Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:17:11Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3219,7 +3219,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m13.webp" added="2020-03-18T10:17:20Z" modified="2020-03-18T10:17:20Z" visited="2020-03-18T10:17:20Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m13.webp" added="2020-03-18T10:17:20Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:17:20Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3229,7 +3229,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m14.webp" added="2020-03-18T10:17:32Z" modified="2020-03-18T10:17:32Z" visited="2020-03-18T10:17:32Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m14.webp" added="2020-03-18T10:17:32Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:17:32Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3239,7 +3239,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/m15.webp" added="2020-03-18T10:17:52Z" modified="2020-03-18T10:17:52Z" visited="2020-03-18T10:17:52Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/m15.webp" added="2020-03-18T10:17:52Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:17:52Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3249,7 +3249,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/bg1.webp" added="2020-03-18T10:19:48Z" modified="2020-03-18T10:19:48Z" visited="2020-03-18T10:19:48Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/bg1.webp" added="2020-03-18T10:19:48Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:19:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3259,7 +3259,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/bg2.webp" added="2020-03-18T10:21:11Z" modified="2020-03-18T10:21:11Z" visited="2020-03-18T10:21:11Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/bg2.webp" added="2020-03-18T10:21:11Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:21:11Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3269,7 +3269,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/bg3.webp" added="2020-03-18T10:22:01Z" modified="2020-03-18T10:22:01Z" visited="2020-03-18T10:22:01Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/bg3.webp" added="2020-03-18T10:22:01Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:22:01Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3279,7 +3279,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/bg4.webp" added="2020-03-18T10:30:27Z" modified="2020-03-18T10:30:27Z" visited="2020-03-18T10:30:28Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/bg4.webp" added="2020-03-18T10:30:27Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T10:30:28Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3289,7 +3289,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/model.html" added="2020-03-18T11:20:56Z" modified="2020-03-18T11:20:56Z" visited="2020-03-18T11:20:57Z">
+  <bookmark href="file:///home/user/Documents/modelagency/model.html" added="2020-03-18T11:20:56Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T11:20:57Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -3312,7 +3312,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/contact.html" added="2020-03-18T12:39:52Z" modified="2020-03-18T12:39:52Z" visited="2020-03-18T12:39:52Z">
+  <bookmark href="file:///home/user/Documents/modelagency/contact.html" added="2020-03-18T12:39:52Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T12:39:52Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -3322,7 +3322,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model21.webp" added="2020-03-18T15:50:44Z" modified="2020-03-18T15:54:51Z" visited="2020-03-18T15:50:44Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model21.webp" added="2020-03-18T15:50:44Z" modified="2020-04-28T18:55:00Z" visited="2020-03-18T15:50:44Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/webp"/>
@@ -3360,12 +3360,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/book" added="2020-03-28T12:59:34Z" modified="2020-04-28T13:47:15Z" visited="2020-03-28T12:59:34Z">
+  <bookmark href="file:///home/user/Documents/book" added="2020-03-28T12:59:34Z" modified="2020-04-28T19:05:08Z" visited="2020-03-28T12:59:34Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T13:47:15Z" count="17"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T19:05:08Z" count="18"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -3446,7 +3446,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/hp1.jpg" added="2020-03-28T16:30:23Z" modified="2020-03-28T16:30:23Z" visited="2020-03-28T16:30:23Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/hp1.jpg" added="2020-03-28T16:30:23Z" modified="2020-04-28T18:55:00Z" visited="2020-03-28T16:30:23Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -3456,7 +3456,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/hp.jpeg" added="2020-03-28T16:31:08Z" modified="2020-03-28T16:31:08Z" visited="2020-03-28T16:31:09Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/hp.jpeg" added="2020-03-28T16:31:08Z" modified="2020-04-28T18:55:00Z" visited="2020-03-28T16:31:09Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -3466,7 +3466,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/hp1.jpeg" added="2020-03-28T16:31:21Z" modified="2020-03-28T16:31:21Z" visited="2020-03-28T16:31:21Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/hp1.jpeg" added="2020-03-28T16:31:21Z" modified="2020-04-28T18:55:00Z" visited="2020-03-28T16:31:21Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4191,7 +4191,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg1.jpg" added="2020-04-24T13:18:19Z" modified="2020-04-24T13:31:53Z" visited="2020-04-24T13:18:19Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg1.jpg" added="2020-04-24T13:18:19Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T13:18:19Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4201,7 +4201,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg1.png" added="2020-04-24T13:27:45Z" modified="2020-04-24T13:41:22Z" visited="2020-04-24T13:27:45Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg1.png" added="2020-04-24T13:27:45Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T13:27:45Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -4211,7 +4211,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg2.jpg" added="2020-04-24T13:29:26Z" modified="2020-04-24T13:29:26Z" visited="2020-04-24T13:29:26Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg2.jpg" added="2020-04-24T13:29:26Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T13:29:26Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4221,7 +4221,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg3..jpg" added="2020-04-24T13:33:42Z" modified="2020-04-24T13:33:42Z" visited="2020-04-24T13:33:42Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg3..jpg" added="2020-04-24T13:33:42Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T13:33:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4231,7 +4231,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg3.jpg" added="2020-04-24T13:34:00Z" modified="2020-04-24T13:40:08Z" visited="2020-04-24T13:34:00Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg3.jpg" added="2020-04-24T13:34:00Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T13:34:00Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4241,7 +4241,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg2.png" added="2020-04-24T13:35:08Z" modified="2020-04-24T13:35:08Z" visited="2020-04-24T13:35:08Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/model_bg2.png" added="2020-04-24T13:35:08Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T13:35:08Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -4251,7 +4251,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/logo1.png" added="2020-04-24T13:53:45Z" modified="2020-04-24T13:53:45Z" visited="2020-04-24T13:53:46Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/logo1.png" added="2020-04-24T13:53:45Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T13:53:46Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -4261,7 +4261,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/love.png" added="2020-04-24T14:21:42Z" modified="2020-04-24T14:25:45Z" visited="2020-04-24T14:21:42Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/love.png" added="2020-04-24T14:21:42Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T14:21:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -4271,7 +4271,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/love.jpg" added="2020-04-24T14:25:15Z" modified="2020-04-24T14:25:15Z" visited="2020-04-24T14:25:15Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/love.jpg" added="2020-04-24T14:25:15Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T14:25:15Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4281,7 +4281,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/about.html" added="2020-04-24T15:06:34Z" modified="2020-04-24T15:06:34Z" visited="2020-04-24T15:06:35Z">
+  <bookmark href="file:///home/user/Documents/modelagency/about.html" added="2020-04-24T15:06:34Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T15:06:35Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -4291,7 +4291,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/bg1.jpg" added="2020-04-24T18:28:08Z" modified="2020-04-24T18:32:55Z" visited="2020-04-24T18:28:08Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/bg1.jpg" added="2020-04-24T18:28:08Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T18:28:08Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4301,7 +4301,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/bg2.jpg" added="2020-04-24T18:30:34Z" modified="2020-04-24T18:30:34Z" visited="2020-04-24T18:30:34Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/bg2.jpg" added="2020-04-24T18:30:34Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T18:30:34Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4311,7 +4311,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/b1.jpg" added="2020-04-24T18:34:52Z" modified="2020-04-24T18:35:56Z" visited="2020-04-24T18:34:52Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/b1.jpg" added="2020-04-24T18:34:52Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T18:34:52Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4321,7 +4321,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency/images/b2.jpg" added="2020-04-24T18:36:28Z" modified="2020-04-24T18:37:09Z" visited="2020-04-24T18:36:28Z">
+  <bookmark href="file:///home/user/Documents/modelagency/images/b2.jpg" added="2020-04-24T18:36:28Z" modified="2020-04-28T18:55:00Z" visited="2020-04-24T18:36:28Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -4626,6 +4626,96 @@
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
           <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-27T22:11:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/about.png" added="2020-04-28T14:59:31Z" modified="2020-04-28T14:59:31Z" visited="2020-04-28T14:59:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T14:59:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/about.jpg" added="2020-04-28T15:02:41Z" modified="2020-04-28T15:41:48Z" visited="2020-04-28T15:02:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T15:41:48Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/about.jpeg" added="2020-04-28T15:05:22Z" modified="2020-04-28T15:37:59Z" visited="2020-04-28T15:05:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T15:37:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/about_pic.jpg" added="2020-04-28T15:46:11Z" modified="2020-04-28T15:46:11Z" visited="2020-04-28T15:46:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T15:46:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/book1.jpg" added="2020-04-28T16:06:54Z" modified="2020-04-28T16:08:22Z" visited="2020-04-28T16:06:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T16:08:22Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/ex.html" added="2020-04-28T17:19:55Z" modified="2020-04-28T17:19:55Z" visited="2020-04-28T17:19:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T17:19:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/ex.js" added="2020-04-28T17:21:00Z" modified="2020-04-28T17:21:00Z" visited="2020-04-28T17:21:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T17:21:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/ex.css" added="2020-04-28T17:21:07Z" modified="2020-04-28T17:21:07Z" visited="2020-04-28T17:21:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T17:21:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/modelagencyprojectbootstrap" added="2020-04-28T18:57:50Z" modified="2020-04-28T19:04:04Z" visited="2020-04-28T18:57:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T18:57:50Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

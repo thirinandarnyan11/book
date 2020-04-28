@@ -1,7 +1,70 @@
-2020/04/27-22:42:50.349 78a Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/04/27-22:42:50.349 78a Recovering log #699
-2020/04/27-22:42:50.483 78a Level-0 table #702: started
-2020/04/27-22:42:51.260 78a Level-0 table #702: 15143 bytes OK
-2020/04/27-22:42:51.260 78a Recovering log #701
-2020/04/27-22:42:51.363 78a Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000701.log 
-2020/04/27-22:42:52.583 78a Delete type=0 #699
+2020/04/28-17:20:16.727 195f Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/04/28-17:20:16.728 195f Recovering log #713
+2020/04/28-17:20:16.728 195f Level-0 table #716: started
+2020/04/28-17:20:16.772 195f Level-0 table #716: 16309 bytes OK
+2020/04/28-17:20:16.772 195f Recovering log #715
+2020/04/28-17:20:16.772 195f Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000715.log 
+2020/04/28-17:20:16.896 195f Delete type=0 #713
+2020/04/28-17:20:16.897 19a4 Expanding@0 1+1 (19553+20495 bytes) to 4+1 (70337+20495 bytes)
+2020/04/28-17:20:16.897 19a4 Compacting 4@0 + 1@1 files
+2020/04/28-17:20:16.987 19a4 Generated table #717@0: 347 keys, 51482 bytes
+2020/04/28-17:20:16.987 19a4 Compacted 4@0 + 1@1 files => 51482 bytes
+2020/04/28-17:20:17.055 19a4 compacted to: files[ 0 1 3 0 0 0 0 ]
+2020/04/28-17:20:17.056 19a4 Delete type=2 #712
+2020/04/28-17:20:17.056 19a4 Delete type=2 #716
+2020/04/28-17:20:17.056 19a4 Delete type=2 #714
+2020/04/28-17:20:17.056 19a4 Delete type=2 #708
+2020/04/28-17:20:17.056 19a4 Delete type=2 #710
+2020/04/28-17:41:26.667 19a4 Level-0 table #719: started
+2020/04/28-17:41:27.257 19a4 Level-0 table #719: 15969 bytes OK
+2020/04/28-17:41:28.023 19a4 Delete type=0 #715
+2020/04/28-18:06:01.964 19a4 Level-0 table #721: started
+2020/04/28-18:06:02.992 19a4 Level-0 table #721: 23979 bytes OK
+2020/04/28-18:06:04.776 19a4 Delete type=0 #718
+2020/04/28-18:53:46.093 19a4 Level-0 table #723: started
+2020/04/28-18:53:47.597 19a4 Level-0 table #723: 21711 bytes OK
+2020/04/28-18:53:47.846 19a4 Delete type=0 #720
+2020/04/28-18:58:10.777 19a4 Level-0 table #725: started
+2020/04/28-18:58:11.233 19a4 Level-0 table #725: 16078 bytes OK
+2020/04/28-18:58:11.966 19a4 Delete type=0 #722
+2020/04/28-18:58:11.966 19a4 Compacting 4@0 + 1@1 files
+2020/04/28-18:58:12.583 19a4 Generated table #726@0: 371 keys, 57513 bytes
+2020/04/28-18:58:12.583 19a4 Compacted 4@0 + 1@1 files => 57513 bytes
+2020/04/28-18:58:13.041 19a4 compacted to: files[ 0 1 3 0 0 0 0 ]
+2020/04/28-18:58:13.041 19a4 Delete type=2 #717
+2020/04/28-18:58:13.041 19a4 Delete type=2 #721
+2020/04/28-18:58:13.041 19a4 Delete type=2 #723
+2020/04/28-18:58:13.041 19a4 Delete type=2 #725
+2020/04/28-18:58:13.041 19a4 Delete type=2 #719
+2020/04/28-18:58:37.621 19a4 Level-0 table #728: started
+2020/04/28-18:58:37.669 19a4 Level-0 table #728: 16292 bytes OK
+2020/04/28-18:58:37.720 19a4 Delete type=0 #724
+2020/04/28-19:02:00.596 19a4 Level-0 table #730: started
+2020/04/28-19:02:02.240 19a4 Level-0 table #730: 16533 bytes OK
+2020/04/28-19:02:02.654 19a4 Delete type=0 #727
+2020/04/28-19:02:51.353 19a4 Level-0 table #732: started
+2020/04/28-19:02:51.501 19a4 Level-0 table #732: 16129 bytes OK
+2020/04/28-19:02:51.552 19a4 Delete type=0 #729
+2020/04/28-19:03:14.783 19a4 Level-0 table #734: started
+2020/04/28-19:03:15.144 19a4 Level-0 table #734: 21484 bytes OK
+2020/04/28-19:03:15.536 19a4 Delete type=0 #731
+2020/04/28-19:03:15.536 19a4 Compacting 4@0 + 1@1 files
+2020/04/28-19:03:15.855 19a4 Generated table #735@0: 419 keys, 94682 bytes
+2020/04/28-19:03:15.855 19a4 Compacted 4@0 + 1@1 files => 94682 bytes
+2020/04/28-19:03:16.334 19a4 compacted to: files[ 0 1 3 0 0 0 0 ]
+2020/04/28-19:03:16.335 19a4 Delete type=2 #726
+2020/04/28-19:03:16.335 19a4 Delete type=2 #732
+2020/04/28-19:03:16.335 19a4 Delete type=2 #728
+2020/04/28-19:03:16.335 19a4 Delete type=2 #734
+2020/04/28-19:03:16.335 19a4 Delete type=2 #730
+2020/04/28-19:04:15.358 19a4 Level-0 table #737: started
+2020/04/28-19:04:15.714 19a4 Level-0 table #737: 38895 bytes OK
+2020/04/28-19:04:16.161 19a4 Delete type=0 #733
+2020/04/28-19:05:06.706 19a4 Level-0 table #739: started
+2020/04/28-19:05:07.363 19a4 Level-0 table #739: 44766 bytes OK
+2020/04/28-19:05:08.108 19a4 Delete type=0 #736
+2020/04/28-19:05:54.724 19a4 Level-0 table #741: started
+2020/04/28-19:05:55.324 19a4 Level-0 table #741: 33906 bytes OK
+2020/04/28-19:05:56.148 19a4 Delete type=0 #738
+2020/04/28-19:34:19.791 19a4 Level-0 table #743: started
+2020/04/28-19:34:19.842 19a4 Level-0 table #743: 10610 bytes OK

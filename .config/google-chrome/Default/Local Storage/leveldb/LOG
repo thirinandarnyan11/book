@@ -1,6 +1,6 @@
-2020/04/28-15:30:28.448 787 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/04/28-15:30:28.449 787 Recovering log #261
-2020/04/28-15:30:28.592 787 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000261.log 
-2020/04/28-15:32:49.489 988 Level-0 table #265: started
-2020/04/28-15:32:49.546 988 Level-0 table #265: 24050 bytes OK
-2020/04/28-15:32:49.598 988 Delete type=0 #261
+2020/04/28-20:58:10.861 91e Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/28-20:58:10.862 91e Recovering log #272
+2020/04/28-20:58:11.013 91e Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000272.log 
+2020/04/28-20:58:27.154 992 Level-0 table #276: started
+2020/04/28-20:58:27.284 992 Level-0 table #276: 13962 bytes OK
+2020/04/28-20:58:27.336 992 Delete type=0 #272

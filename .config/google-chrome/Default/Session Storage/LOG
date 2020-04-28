@@ -1,24 +1,16 @@
-2020/04/28-15:30:22.880 77c Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/04/28-15:30:22.881 77c Recovering log #701
-2020/04/28-15:30:22.974 77c Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000701.log 
-2020/04/28-15:32:01.583 988 Level-0 table #705: started
-2020/04/28-15:32:02.012 988 Level-0 table #705: 24885 bytes OK
-2020/04/28-15:32:02.780 988 Delete type=0 #701
-2020/04/28-15:33:21.007 988 Level-0 table #707: started
-2020/04/28-15:33:21.274 988 Level-0 table #707: 20822 bytes OK
-2020/04/28-15:33:21.357 988 Delete type=0 #704
-2020/04/28-15:33:21.358 988 Compacting 4@0 + 1@1 files
-2020/04/28-15:33:21.446 988 Generated table #708@0: 272 keys, 20495 bytes
-2020/04/28-15:33:21.446 988 Compacted 4@0 + 1@1 files => 20495 bytes
-2020/04/28-15:33:21.497 988 compacted to: files[ 0 1 3 0 0 0 0 ]
-2020/04/28-15:33:21.497 988 Delete type=2 #707
-2020/04/28-15:33:21.497 988 Delete type=2 #705
-2020/04/28-15:33:21.497 988 Delete type=2 #697
-2020/04/28-15:33:21.497 988 Delete type=2 #700
-2020/04/28-15:33:21.497 988 Delete type=2 #702
-2020/04/28-15:34:17.612 988 Level-0 table #710: started
-2020/04/28-15:34:17.649 988 Level-0 table #710: 19553 bytes OK
-2020/04/28-15:34:17.699 988 Delete type=0 #706
-2020/04/28-15:45:59.649 988 Level-0 table #712: started
-2020/04/28-15:46:00.432 988 Level-0 table #712: 18140 bytes OK
-2020/04/28-15:46:01.315 988 Delete type=0 #709
+2020/04/28-20:58:05.684 91d Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/04/28-20:58:05.684 91d Recovering log #740
+2020/04/28-20:58:05.833 91d Level-0 table #743: started
+2020/04/28-20:58:06.729 91d Level-0 table #743: 10610 bytes OK
+2020/04/28-20:58:06.733 91d Recovering log #742
+2020/04/28-20:58:06.807 91d Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000742.log 
+2020/04/28-20:58:07.270 91d Delete type=0 #740
+2020/04/28-20:58:07.271 992 Compacting 4@0 + 1@1 files
+2020/04/28-20:58:08.869 992 Generated table #744@0: 439 keys, 39599 bytes
+2020/04/28-20:58:08.869 992 Compacted 4@0 + 1@1 files => 39599 bytes
+2020/04/28-20:58:09.075 992 compacted to: files[ 0 1 3 0 0 0 0 ]
+2020/04/28-20:58:09.076 992 Delete type=2 #739
+2020/04/28-20:58:09.076 992 Delete type=2 #743
+2020/04/28-20:58:09.076 992 Delete type=2 #735
+2020/04/28-20:58:09.076 992 Delete type=2 #741
+2020/04/28-20:58:09.076 992 Delete type=2 #737

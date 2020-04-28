@@ -1,0 +1,118 @@
+#banner{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/bg2.jpg);
+	width: 100%;
+	height: 100vh;  /*view height*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+#headertitle{
+	font-family: 'Alex_Brush';
+	font-weight:bold;
+}
+*{
+	font-family:'Raleway-Regular';
+}
+#headermain{
+	padding: 1rem 2rem;
+	font-size: .10rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	border:none;
+	border-radius: 6rem;
+	background-color: #dc5f75;
+	color: #fff;
+}
+#banner1{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/b2.jpg);
+	width: 100%;
+	height: 190px;  /*view height*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.header6{
+	text-transform: uppercase;
+	color: #f15873;
+}
+#header5{
+	margin-left: 100px;
+}
+#show{
+	color: #f15873;
+	margin-left: 10px;
+}
+.footer_text{
+	background-color: #f795a6;
+	color: white;
+	font-size: 15px;
+}
+.ul_list{
+	list-style: none;
+}
+.card-body{
+	background-color: #eee;
+	height: 130px;
+}
+iframe{
+	height: 280px;
+}
+.btn{
+	background-color: #f795a6;
+}
+#divider{
+	/*1rem=16px;*/
+	max-width: 3.25rem;
+	border-width: .2rem;
+	border-color: #dc5f75;
+}
+.navbar-nav{
+	margin-right: 200px;
+}
+.nav-item{
+	margin-left: 15px;
+}
+.breadcrumb{
+	background-color: white;
+}
+.breadcrumb-item{
+	color: blue;
+}
+#banner2{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/model_bg1.png);
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  background-color: white;
+  color: #dc5f75;
+  width: 260px;
+  height: 25px;
+  margin-left: 24px;
+}
+a.page-link:hover,a.page-link:active{
+	background-color: #dc5f75;
+	color: white;
+}
+/*about css*/
+.text{
+	margin-top: 80px;
+	margin-left: 10px;
+}
+h3{
+	margin-left: 10px;
+}
+h6{
+	font-size: 10px;
+	line-height: 20px;
+}
+.icon_text{
+	margin-left: 40px;
+}
+i{
+	margin-left: 50px;
+}

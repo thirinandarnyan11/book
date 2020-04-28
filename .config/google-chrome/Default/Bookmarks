@@ -1,5 +1,5 @@
 {
-   "checksum": "57d7bcf1ab84d070892bc8b4313865d7",
+   "checksum": "499cebd5fa233095079284bff5f1d5c8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -93,9 +93,30 @@
             "name": "Yangon Door2Door",
             "type": "url",
             "url": "https://www.yangond2d.com/?gclid=Cj0KCQjwhZr1BRCLARIsALjRVQO9nxM_HcInDwpD7Pnr6cFAill-76B8WwO5voXTPcswTOE2ny91aPcaArBOEALw_wcB"
+         }, {
+            "date_added": "13232566929489901",
+            "guid": "7c2e5f4c-adec-45c4-bb85-ecda94f6b1b3",
+            "id": "27",
+            "name": "Spicing Up the Bootstrap Carousel with CSS3 Animations — SitePoint",
+            "type": "url",
+            "url": "https://www.sitepoint.com/bootstrap-carousel-with-css3-animations/"
+         }, {
+            "date_added": "13232567287927770",
+            "guid": "6d429e62-a9d5-433f-a478-4405af63f418",
+            "id": "28",
+            "name": "Tweenmax slideshow",
+            "type": "url",
+            "url": "https://codepen.io/astrixsz/pen/zBXvWx"
+         }, {
+            "date_added": "13232567858116341",
+            "guid": "882c13db-c1b7-4def-8066-d77ee0f6b1b0",
+            "id": "29",
+            "name": "30 CSS Slideshow Design With Impressive Transition Effects - uiCookies",
+            "type": "url",
+            "url": "https://uicookies.com/css-slideshow/"
          } ],
          "date_added": "13229980155415950",
-         "date_modified": "13232466722151419",
+         "date_modified": "13232567858116341",
          "guid": "00000000-0000-4000-A000-000000000002",
          "id": "1",
          "name": "Bookmarks bar",

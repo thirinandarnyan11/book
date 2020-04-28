@@ -1,11 +1,12 @@
 {
 	"folder_history":
 	[
-		"/home/user/Documents/book",
+		"/home/user/Documents/modelagencyproject",
+		"/home/user/Documents/modelagency",
 		"/home/user/Documents/Shop",
+		"/home/user/Documents/book",
 		"/home/user/Documents/Jquery",
 		"/home/user/Documents/MyPortfolio",
-		"/home/user/Documents/modelagency",
 		"/home/user/Documents/Bootstrap",
 		"/home/user/Documents/CSS",
 		"/home/user/Documents/CSS/Coffee World",
@@ -17,7 +18,7 @@
 		"/home/user/Documents/HTML"
 	],
 	"last_version": 3211,
-	"last_window_id": 77,
+	"last_window_id": 82,
 	"log_indexing": false,
 	"settings":
 	{
@@ -1730,10 +1731,10 @@
 			"buffers":
 			[
 				{
-					"file": "/home/user/Documents/book/index.html",
+					"file": "/home/user/Documents/modelagencyproject/index.html",
 					"settings":
 					{
-						"buffer_size": 18999,
+						"buffer_size": 16747,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1771,7 +1772,7 @@
 			},
 			"expanded_folders":
 			[
-				"/home/user/Documents/book"
+				"/home/user/Documents/modelagencyproject"
 			],
 			"file_history":
 			[
@@ -1877,7 +1878,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/user/Documents/book"
+					"path": "/home/user/Documents/modelagencyproject"
 				}
 			],
 			"groups":
@@ -1888,19 +1889,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/user/Documents/book/index.html",
+							"file": "/home/user/Documents/modelagencyproject/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 18999,
+								"buffer_size": 16747,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6084,
-										6084
+										1329,
+										1329
 									]
 								],
 								"settings":
@@ -1909,7 +1910,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1687.0,
+								"translation.y": 201.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2001,7 +2002,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 77,
+			"window_id": 82,
 			"workspace_name": ""
 		}
 	],

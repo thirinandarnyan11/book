@@ -46,7 +46,7 @@ a.nav-link:hover,a.nav-link:active{
 }
 .card{
 	width: 80%;
-	height: 330px;
+	height: 320px;
 }
 .card-title{
 	font-size: 15px;
@@ -138,14 +138,6 @@ h1,h2,h3,h4,h5,h6,p,ul,ol{ margin:0px; padding:0px;}
 .card-img{
 	width: 100%;
 	height: 230px;
-}
-/*see more button*/
-#btn{
-	color: white;
-}
-a#btn:hover,a#btn:active{
-text-decoration: none;
-
 }
 /*book link for index page*/
 .bname{
@@ -261,6 +253,23 @@ a.footer_link:hover,a.footer_link:active{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-/*star rating card*/
+/*about bg image*/
+#banner3{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/about.jpg);
+	width: 100%;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*end of about bg image*/
+#banner4{
+	background:linear-gradient(to bottom, rgba(190,165,146,0.4)0,rgba(190,165,146,.4)100%),url(images/book1.jpg);
+	width: 100%;
+	height: 280px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 
-/*end of star rating card*/
+
+
+
