@@ -1,30 +1,60 @@
-2020/04/27-19:33:41.414 774 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/04/27-19:33:41.415 774 Recovering log #223
-2020/04/27-19:33:41.689 774 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000223.log 
-2020/04/27-19:33:51.107 874 Level-0 table #227: started
-2020/04/27-19:33:51.249 874 Level-0 table #227: 20139 bytes OK
-2020/04/27-19:33:51.444 874 Delete type=0 #223
-2020/04/27-20:01:02.528 874 Level-0 table #229: started
-2020/04/27-20:01:02.683 874 Level-0 table #229: 22489 bytes OK
-2020/04/27-20:01:02.734 874 Delete type=0 #226
-2020/04/27-20:19:50.613 874 Level-0 table #231: started
-2020/04/27-20:19:50.666 874 Level-0 table #231: 25084 bytes OK
-2020/04/27-20:19:50.719 874 Delete type=0 #228
-2020/04/27-20:19:50.720 874 Compacting 4@0 + 1@1 files
-2020/04/27-20:19:50.916 874 Generated table #232@0: 4360 keys, 1722336 bytes
-2020/04/27-20:19:50.916 874 Compacted 4@0 + 1@1 files => 1722336 bytes
-2020/04/27-20:19:50.967 874 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/04/27-20:19:50.967 874 Delete type=2 #222
-2020/04/27-20:19:50.967 874 Delete type=2 #229
-2020/04/27-20:19:50.967 874 Delete type=2 #231
-2020/04/27-20:19:50.967 874 Delete type=2 #227
-2020/04/27-20:19:50.967 874 Delete type=2 #224
-2020/04/27-21:15:10.467 874 Level-0 table #234: started
-2020/04/27-21:15:10.520 874 Level-0 table #234: 19471 bytes OK
-2020/04/27-21:15:10.571 874 Delete type=0 #230
-2020/04/27-21:48:15.838 874 Level-0 table #236: started
-2020/04/27-21:48:16.308 874 Level-0 table #236: 21661 bytes OK
-2020/04/27-21:48:16.358 874 Delete type=0 #233
-2020/04/27-21:57:19.010 874 Level-0 table #238: started
-2020/04/27-21:57:19.154 874 Level-0 table #238: 26310 bytes OK
-2020/04/27-21:57:19.205 874 Delete type=0 #235
+2020/04/27-22:42:58.556 78a Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/27-22:42:58.556 78a Recovering log #237
+2020/04/27-22:42:58.818 78a Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000237.log 
+2020/04/27-22:44:11.051 9a5 Level-0 table #241: started
+2020/04/27-22:44:11.414 9a5 Level-0 table #241: 23804 bytes OK
+2020/04/27-22:44:12.169 9a5 Delete type=0 #237
+2020/04/27-22:44:12.170 9a5 Compacting 4@0 + 1@1 files
+2020/04/27-22:44:12.844 9a5 Generated table #242@0: 4382 keys, 1724712 bytes
+2020/04/27-22:44:12.844 9a5 Compacted 4@0 + 1@1 files => 1724712 bytes
+2020/04/27-22:44:13.770 9a5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/27-22:44:13.771 9a5 Delete type=2 #236
+2020/04/27-22:44:13.771 9a5 Delete type=2 #234
+2020/04/27-22:44:13.771 9a5 Delete type=2 #232
+2020/04/27-22:44:13.771 9a5 Delete type=2 #241
+2020/04/27-22:44:13.771 9a5 Delete type=2 #238
+2020/04/27-23:10:14.366 9a5 Level-0 table #244: started
+2020/04/27-23:10:14.686 9a5 Level-0 table #244: 22843 bytes OK
+2020/04/27-23:10:15.408 9a5 Delete type=0 #240
+2020/04/27-23:12:36.308 9a5 Level-0 table #246: started
+2020/04/27-23:12:36.343 9a5 Level-0 table #246: 25121 bytes OK
+2020/04/27-23:12:36.394 9a5 Delete type=0 #243
+2020/04/27-23:24:37.276 9a5 Level-0 table #248: started
+2020/04/27-23:24:37.595 9a5 Level-0 table #248: 26888 bytes OK
+2020/04/27-23:24:38.020 9a5 Delete type=0 #245
+2020/04/27-23:35:52.653 9a5 Level-0 table #250: started
+2020/04/27-23:35:53.068 9a5 Level-0 table #250: 27927 bytes OK
+2020/04/27-23:35:53.492 9a5 Delete type=0 #247
+2020/04/27-23:35:53.492 9a5 Compacting 4@0 + 1@1 files
+2020/04/27-23:35:53.846 9a5 Generated table #251@0: 4401 keys, 1726350 bytes
+2020/04/27-23:35:53.846 9a5 Compacted 4@0 + 1@1 files => 1726350 bytes
+2020/04/27-23:35:54.270 9a5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/27-23:35:54.270 9a5 Delete type=2 #246
+2020/04/27-23:35:54.270 9a5 Delete type=2 #250
+2020/04/27-23:35:54.270 9a5 Delete type=2 #244
+2020/04/27-23:35:54.270 9a5 Delete type=2 #242
+2020/04/27-23:35:54.270 9a5 Delete type=2 #248
+2020/04/27-23:46:14.531 9a5 Level-0 table #253: started
+2020/04/27-23:46:15.676 9a5 Level-0 table #253: 27831 bytes OK
+2020/04/27-23:46:16.579 9a5 Delete type=0 #249
+2020/04/27-23:53:14.530 9a5 Level-0 table #255: started
+2020/04/27-23:53:14.668 9a5 Level-0 table #255: 33760 bytes OK
+2020/04/27-23:53:14.720 9a5 Delete type=0 #252
+2020/04/28-00:01:00.591 9a5 Level-0 table #257: started
+2020/04/28-00:01:01.966 9a5 Level-0 table #257: 28967 bytes OK
+2020/04/28-00:01:02.485 9a5 Delete type=0 #254
+2020/04/28-00:07:39.497 9a5 Level-0 table #259: started
+2020/04/28-00:07:39.600 9a5 Level-0 table #259: 29547 bytes OK
+2020/04/28-00:07:39.692 9a5 Delete type=0 #256
+2020/04/28-00:07:39.692 9a5 Compacting 4@0 + 1@1 files
+2020/04/28-00:07:40.375 9a5 Generated table #260@0: 4423 keys, 1728980 bytes
+2020/04/28-00:07:40.375 9a5 Compacted 4@0 + 1@1 files => 1728980 bytes
+2020/04/28-00:07:40.425 9a5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/28-00:07:40.426 9a5 Delete type=2 #251
+2020/04/28-00:07:40.426 9a5 Delete type=2 #257
+2020/04/28-00:07:40.426 9a5 Delete type=2 #259
+2020/04/28-00:07:40.426 9a5 Delete type=2 #253
+2020/04/28-00:07:40.426 9a5 Delete type=2 #255
+2020/04/28-00:13:14.530 9a5 Level-0 table #262: started
+2020/04/28-00:13:14.965 9a5 Level-0 table #262: 25121 bytes OK
+2020/04/28-00:13:15.478 9a5 Delete type=0 #258

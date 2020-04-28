@@ -1,7 +1,24 @@
-2020/04/27-22:42:50.349 78a Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/04/27-22:42:50.349 78a Recovering log #699
-2020/04/27-22:42:50.483 78a Level-0 table #702: started
-2020/04/27-22:42:51.260 78a Level-0 table #702: 15143 bytes OK
-2020/04/27-22:42:51.260 78a Recovering log #701
-2020/04/27-22:42:51.363 78a Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000701.log 
-2020/04/27-22:42:52.583 78a Delete type=0 #699
+2020/04/28-15:30:22.880 77c Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/04/28-15:30:22.881 77c Recovering log #701
+2020/04/28-15:30:22.974 77c Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000701.log 
+2020/04/28-15:32:01.583 988 Level-0 table #705: started
+2020/04/28-15:32:02.012 988 Level-0 table #705: 24885 bytes OK
+2020/04/28-15:32:02.780 988 Delete type=0 #701
+2020/04/28-15:33:21.007 988 Level-0 table #707: started
+2020/04/28-15:33:21.274 988 Level-0 table #707: 20822 bytes OK
+2020/04/28-15:33:21.357 988 Delete type=0 #704
+2020/04/28-15:33:21.358 988 Compacting 4@0 + 1@1 files
+2020/04/28-15:33:21.446 988 Generated table #708@0: 272 keys, 20495 bytes
+2020/04/28-15:33:21.446 988 Compacted 4@0 + 1@1 files => 20495 bytes
+2020/04/28-15:33:21.497 988 compacted to: files[ 0 1 3 0 0 0 0 ]
+2020/04/28-15:33:21.497 988 Delete type=2 #707
+2020/04/28-15:33:21.497 988 Delete type=2 #705
+2020/04/28-15:33:21.497 988 Delete type=2 #697
+2020/04/28-15:33:21.497 988 Delete type=2 #700
+2020/04/28-15:33:21.497 988 Delete type=2 #702
+2020/04/28-15:34:17.612 988 Level-0 table #710: started
+2020/04/28-15:34:17.649 988 Level-0 table #710: 19553 bytes OK
+2020/04/28-15:34:17.699 988 Delete type=0 #706
+2020/04/28-15:45:59.649 988 Level-0 table #712: started
+2020/04/28-15:46:00.432 988 Level-0 table #712: 18140 bytes OK
+2020/04/28-15:46:01.315 988 Delete type=0 #709

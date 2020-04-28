@@ -1,9 +1,9 @@
 {
 	"folder_history":
 	[
+		"/home/user/Documents/book",
 		"/home/user/Documents/Shop",
 		"/home/user/Documents/Jquery",
-		"/home/user/Documents/book",
 		"/home/user/Documents/MyPortfolio",
 		"/home/user/Documents/modelagency",
 		"/home/user/Documents/Bootstrap",
@@ -17,11 +17,11 @@
 		"/home/user/Documents/HTML"
 	],
 	"last_version": 3211,
-	"last_window_id": 75,
+	"last_window_id": 76,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 702.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -30,15 +30,7 @@
 				[
 					[
 						"col",
-						"col-lg-6"
-					],
-					[
-						"font",
-						"font-weight\tproperty"
-					],
-					[
-						"boo",
-						"book_shop"
+						"col-md-6"
 					],
 					[
 						"co",
@@ -107,6 +99,10 @@
 					[
 						"font-s",
 						"font-size\tproperty"
+					],
+					[
+						"font",
+						"font-family\tproperty"
 					],
 					[
 						"backgrou",
@@ -600,7 +596,7 @@
 			{
 			}
 		},
-		"new_window_width": 795.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -1165,7 +1161,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -1194,7 +1190,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -1220,10 +1216,10 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1086.0,
+								"translation.y": 595.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -1294,7 +1290,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,612,34,1362,738,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
 			"project": "",
 			"replace":
 			{
