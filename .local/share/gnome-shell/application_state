@@ -5,10 +5,10 @@
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="9" last-seen="1588009795"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1587754165"/>
     <application id="eog.desktop" open-window-count="0" score="0" last-seen="1587912141"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="13171.5" last-seen="1588025565"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="13338.5" last-seen="1588081850"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="sublime_text.desktop" open-window-count="2" score="17185.923385620117" last-seen="1588025553"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="552" last-seen="1588025308"/>
+    <application id="sublime_text.desktop" open-window-count="2" score="17189.923385620117" last-seen="1588081696"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="552" last-seen="1588081848"/>
     <application id="gkbd-keyboard-display.desktop" open-window-count="0" score="7" last-seen="1587926073"/>
   </context>
 </application-state>

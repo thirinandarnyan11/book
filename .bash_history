@@ -149,3 +149,12 @@ git status
 git commit -m 'modelagency by tnn'
 git remote add origin https://github.com/thirinandarnyan11/modelagency.git
 git push origin master
+git init
+git status
+git add --a
+git status
+git commit -m 'modelagency project by tnn'
+git remote add origin https://github.com/thirinandarnyan1234/modelagency.git
+git push origin master
+git remote add origin https://github.com/thirinandarnyan1234/modelagency.git
+git push origin master
