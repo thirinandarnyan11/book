@@ -1,15 +1,16 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-control-center.desktop" open-window-count="0" score="4" last-seen="1588109109"/>
+    <application id="gnome-wifi-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="7" last-seen="1588164545"/>
     <application id="firefox.desktop" open-window-count="0" score="10843.481430053711" last-seen="1584483374"/>
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="39" last-seen="1588100939"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1587754165"/>
     <application id="eog.desktop" open-window-count="0" score="0" last-seen="1587912141"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="15323.5" last-seen="1588163996"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="15446.5" last-seen="1588165401"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
     <application id="sublime_text.desktop" open-window-count="1" score="18764.923385620117" last-seen="1588161700"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="840" last-seen="1588163973"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="904" last-seen="1588165415"/>
     <application id="gkbd-keyboard-display.desktop" open-window-count="0" score="7" last-seen="1587926073"/>
   </context>
 </application-state>

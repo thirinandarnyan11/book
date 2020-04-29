@@ -668,3 +668,11 @@ X Protocol Version 11, Revision 0
 [    83.481] (II) modeset(0): Printing DDC gathered Modelines:
 [    83.481] (II) modeset(0): Modeline "1366x768"x0.0   76.30  1366 1374 1384 1558  768 771 772 816 +hsync -vsync (49.0 kHz eP)
 [    83.481] (II) modeset(0): Modeline "1366x768"x0.0   61.04  1366 1374 1384 1558  768 771 772 816 +hsync -vsync (39.2 kHz e)
+[  3824.547] (II) modeset(0): EDID vendor "AUO", prod id 29164
+[  3824.547] (II) modeset(0): Printing DDC gathered Modelines:
+[  3824.547] (II) modeset(0): Modeline "1366x768"x0.0   76.30  1366 1374 1384 1558  768 771 772 816 +hsync -vsync (49.0 kHz eP)
+[  3824.547] (II) modeset(0): Modeline "1366x768"x0.0   61.04  1366 1374 1384 1558  768 771 772 816 +hsync -vsync (39.2 kHz e)
+[  3856.552] (II) modeset(0): EDID vendor "AUO", prod id 29164
+[  3856.553] (II) modeset(0): Printing DDC gathered Modelines:
+[  3856.553] (II) modeset(0): Modeline "1366x768"x0.0   76.30  1366 1374 1384 1558  768 771 772 816 +hsync -vsync (49.0 kHz eP)
+[  3856.553] (II) modeset(0): Modeline "1366x768"x0.0   61.04  1366 1374 1384 1558  768 771 772 816 +hsync -vsync (39.2 kHz e)

@@ -181,3 +181,13 @@ git status
 git commit -m 'online book store project by tnn'
 git remote add origin https://github.com/thirinandarnyan11/bookstore.git
 git push origin master
+git add --a
+git commit -m 'online book shop by tnn'
+git remote add origin https://github.com/thirinandarnyan11/bookstore.git
+git push -u origin master
+git clone https://github.com/thirinandarnyan11/bookstore.git
+git clone https://github.com/thirinandarnyan11/modelagency.git
+git remote -v
+git remote set-url origin https://github.com/thirinandarnyan11/bookstore.git
+git remote -v
+git reomte -v
