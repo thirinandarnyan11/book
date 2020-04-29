@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/home/user/Documents/model",
 		"/home/user/Documents/Shop",
 		"/home/user/Documents/book",
 		"/home/user/Documents/modelagencyproject",
@@ -18,7 +19,7 @@
 		"/home/user/Documents/HTML"
 	],
 	"last_version": 3211,
-	"last_window_id": 84,
+	"last_window_id": 85,
 	"log_indexing": false,
 	"settings":
 	{
@@ -30,12 +31,36 @@
 				"selected_items":
 				[
 					[
-						"col",
-						"col-md-6"
+						"sig",
+						"signin"
 					],
 					[
 						"co",
+						"col-md-5"
+					],
+					[
+						"col",
+						"col-lg-3"
+					],
+					[
+						"col-",
 						"col-sm-12"
+					],
+					[
+						"fon",
+						"font-weight\tproperty"
+					],
+					[
+						"mt",
+						"mt-2"
+					],
+					[
+						"text-d",
+						"text-decoration\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
 					],
 					[
 						"margin",
@@ -48,10 +73,6 @@
 					[
 						"tex",
 						"text-center"
-					],
-					[
-						"mt",
-						"mt-5"
 					],
 					[
 						"mari",
@@ -68,10 +89,6 @@
 					[
 						"con",
 						"container-fluid"
-					],
-					[
-						"fon",
-						"font-size\tproperty"
 					],
 					[
 						"mrgi",
@@ -100,10 +117,6 @@
 					[
 						"font-s",
 						"font-size\tproperty"
-					],
-					[
-						"font",
-						"font-family\tproperty"
 					],
 					[
 						"backgrou",
@@ -442,6 +455,22 @@
 			},
 			"file_history":
 			[
+				"/home/user/Documents/book/quidditch.html",
+				"/home/user/Documents/book/style.css",
+				"/home/user/Documents/book/babylikeyou.html",
+				"/home/user/Documents/book/dragon.html",
+				"/home/user/Documents/book/friends.html",
+				"/home/user/Documents/book/god.html",
+				"/home/user/Documents/book/harry.html",
+				"/home/user/Documents/book/storiesthieve.html",
+				"/home/user/Documents/book/thewonky.html",
+				"/home/user/Documents/book/index.html",
+				"/home/user/Documents/book/about.html",
+				"/home/user/Documents/book/contact.html",
+				"/home/user/Documents/book/signin.html",
+				"/home/user/Documents/book/checkout.html",
+				"/home/user/Documents/book/english_book.html",
+				"/home/user/Documents/book/myan_book.html",
 				"/home/user/Documents/modelagency/images/logo1.png",
 				"/home/user/Documents/MyPortfolio/scrolling_nav.js",
 				"/home/user/Documents/MyPortfolio/css/scrolling-nav.css",
@@ -527,6 +556,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"lineheight"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1010,6 +1040,14 @@
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/home/user/Documents/book/index.html",
+					"settings":
+					{
+						"buffer_size": 24582,
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
@@ -1173,7 +1211,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -1200,6 +1238,35 @@
 								},
 								"translation.x": 0.0,
 								"translation.y": 212.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/user/Documents/book/index.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 24582,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1292,6 +1359,812 @@
 			{
 			},
 			"window_id": 83,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sig",
+						"signin"
+					],
+					[
+						"co",
+						"col-md-5"
+					],
+					[
+						"col",
+						"col-lg-3"
+					],
+					[
+						"col-",
+						"col-sm-12"
+					],
+					[
+						"fon",
+						"font-weight\tproperty"
+					],
+					[
+						"mt",
+						"mt-2"
+					],
+					[
+						"text-d",
+						"text-decoration\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"margin",
+						"margin-left\tproperty"
+					],
+					[
+						"text",
+						"text-center"
+					],
+					[
+						"tex",
+						"text-center"
+					],
+					[
+						"mari",
+						"margin-left\tproperty"
+					],
+					[
+						"c",
+						"color\tproperty"
+					],
+					[
+						"mar",
+						"margin-left\tproperty"
+					],
+					[
+						"con",
+						"container-fluid"
+					],
+					[
+						"mrgi",
+						"margin-left\tproperty"
+					],
+					[
+						"padd",
+						"padding-right\tproperty"
+					],
+					[
+						"te",
+						"text-white"
+					],
+					[
+						"u",
+						"uppercase\ttext-transform"
+					],
+					[
+						"tes",
+						"text-transform\tproperty"
+					],
+					[
+						"foe",
+						"font-weight\tproperty"
+					],
+					[
+						"font-s",
+						"font-size\tproperty"
+					],
+					[
+						"backgrou",
+						"background-size\tproperty"
+					],
+					[
+						"backgroun",
+						"background-position\tproperty"
+					],
+					[
+						"p",
+						"placeholder\tAttr"
+					],
+					[
+						"paddin",
+						"padding-left\tproperty"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"img",
+						"img-fluid"
+					],
+					[
+						"background",
+						"background-color\tproperty"
+					],
+					[
+						"font-",
+						"font-size\tproperty"
+					],
+					[
+						"text-tr",
+						"text-transform\tproperty"
+					],
+					[
+						"lis",
+						"list-style\tproperty"
+					],
+					[
+						"li",
+						"line-height\tproperty"
+					],
+					[
+						"wo",
+						"word-spacing\tproperty"
+					],
+					[
+						"pa",
+						"padding-right\tproperty"
+					],
+					[
+						"pad",
+						"padding-bottom\tproperty"
+					],
+					[
+						"list",
+						"list-style-image\tproperty"
+					],
+					[
+						"text-de",
+						"text-decoration-style\tproperty"
+					],
+					[
+						"tran",
+						"transform\tproperty"
+					],
+					[
+						"backgro",
+						"background-color\tproperty"
+					],
+					[
+						"font-st",
+						"font-style\tproperty"
+					],
+					[
+						"coffee",
+						"coffeeData"
+					],
+					[
+						"coff",
+						"coffee_arr"
+					],
+					[
+						"s",
+						"status"
+					],
+					[
+						"sh",
+						"shop_arr"
+					],
+					[
+						"sho",
+						"shop_arr"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"it",
+						"item_i"
+					],
+					[
+						"get",
+						"getData"
+					],
+					[
+						"to",
+						"total"
+					],
+					[
+						"t",
+						"total"
+					],
+					[
+						"va",
+						"var"
+					],
+					[
+						"lo",
+						"localStorage"
+					],
+					[
+						"st",
+						"status"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"in",
+						"ins"
+					],
+					[
+						"v",
+						"val"
+					],
+					[
+						"rate",
+						"rate_pow"
+					],
+					[
+						"M",
+						"Month"
+					],
+					[
+						"re",
+						"rate_pow"
+					],
+					[
+						"show",
+						"show_loan"
+					],
+					[
+						"pr",
+						"principal"
+					],
+					[
+						"div",
+						"div_text"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"margi",
+						"margin-top\tproperty"
+					],
+					[
+						"max-",
+						"max-width\tproperty"
+					],
+					[
+						"i",
+						"img"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"dis",
+						"disabled"
+					],
+					[
+						"backg",
+						"background-image\tproperty"
+					],
+					[
+						"fli",
+						"filter\tproperty"
+					],
+					[
+						"pe",
+						"petha_val"
+					],
+					[
+						"kyat",
+						"kyat_val"
+					],
+					[
+						"omo",
+						"onmouseout\tAttr"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"onm",
+						"onmouseover\tAttr"
+					],
+					[
+						"q",
+						"querySelector"
+					],
+					[
+						"getE",
+						"getElementById"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"tur",
+						"turboC"
+					],
+					[
+						"tu",
+						"turboC"
+					],
+					[
+						"java",
+						"javascript"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"b",
+						"br"
+					],
+					[
+						"pro",
+						"prompt"
+					],
+					[
+						"fir",
+						"firstname"
+					],
+					[
+						"bl",
+						"black"
+					],
+					[
+						"j",
+						"justify\ttext-align"
+					],
+					[
+						"ju",
+						"justify-all\ttext-align"
+					],
+					[
+						"text-",
+						"text-align\tproperty"
+					],
+					[
+						"cel",
+						"cellspacing\tAttr"
+					],
+					[
+						"ba",
+						"background-color\tproperty"
+					],
+					[
+						"cont",
+						"container"
+					],
+					[
+						"marg",
+						"margin-left\tproperty"
+					],
+					[
+						"bod",
+						"border\tproperty"
+					],
+					[
+						"border",
+						"border-radius\tproperty"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/user/Documents/model/model_index.html",
+					"settings":
+					{
+						"buffer_size": 16767,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/model/model_contact.html",
+					"settings":
+					{
+						"buffer_size": 5796,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/model/model_about.html",
+					"settings":
+					{
+						"buffer_size": 13298,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/model/m_model.html",
+					"settings":
+					{
+						"buffer_size": 7129,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/user/Documents/model"
+			],
+			"file_history":
+			[
+				"/home/user/Documents/book/quidditch.html",
+				"/home/user/Documents/book/style.css",
+				"/home/user/Documents/book/babylikeyou.html",
+				"/home/user/Documents/book/dragon.html",
+				"/home/user/Documents/book/friends.html",
+				"/home/user/Documents/book/god.html",
+				"/home/user/Documents/book/harry.html",
+				"/home/user/Documents/book/storiesthieve.html",
+				"/home/user/Documents/book/thewonky.html",
+				"/home/user/Documents/book/index.html",
+				"/home/user/Documents/book/about.html",
+				"/home/user/Documents/book/contact.html",
+				"/home/user/Documents/book/signin.html",
+				"/home/user/Documents/book/checkout.html",
+				"/home/user/Documents/book/english_book.html",
+				"/home/user/Documents/book/myan_book.html",
+				"/home/user/Documents/modelagency/images/logo1.png",
+				"/home/user/Documents/MyPortfolio/scrolling_nav.js",
+				"/home/user/Documents/MyPortfolio/css/scrolling-nav.css",
+				"/home/user/Documents/MyPortfolio/style.css",
+				"/home/user/Documents/modelagency/images/bg1.webp",
+				"/home/user/Documents/CSS/index.html",
+				"/home/user/Documents/Bootstrap/images/shoe_bg3.jpg",
+				"/home/user/Documents/Bootstrap/images/shoe_bg2.jpg",
+				"/home/user/Documents/Bootstrap/images/shoe_bg1.jpg",
+				"/home/user/Documents/CSS/Coffee World/images/coffee2.jpg",
+				"/home/user/Documents/CSS/Coffee World/images/c_logo1.jpg",
+				"/home/user/Documents/CSS/Coffee World/fonts/LICENSE.txt",
+				"/home/user/Documents/CSS/icon.png",
+				"/home/user/Documents/Jquery/IT_Shop/seletor.html",
+				"/home/user/Documents/Shop/jquery.min.js",
+				"/home/user/Documents/Jquery/IT_Shop/index.html",
+				"/home/user/Documents/Jquery/IT_Shop/jquery.min.js",
+				"/home/user/Documents/Jquery/jq5.html",
+				"/home/user/Documents/Jquery/jq7.html",
+				"/home/user/Documents/Jquery/jq_student.html",
+				"/home/user/Documents/Jquery/mortgage.html",
+				"/home/user/Documents/Jquery/jq_calculator.html",
+				"/home/user/Documents/Jquery/note.txt",
+				"/home/user/Documents/Jquery/jq6.html",
+				"/home/user/Documents/Jquery/jq4.html",
+				"/home/user/Documents/Jquery/jq3.html",
+				"/home/user/Documents/Jquery/jq2.html",
+				"/home/user/Documents/Jquery/jq1.html",
+				"/home/user/Documents/Jquery/jq8.html",
+				"/home/user/Documents/Javascript/DOM4.html",
+				"/home/user/Documents/Javascript/DOM1.html",
+				"/home/user/Documents/Javascript/DOM2.html",
+				"/home/user/Documents/Javascript/DOM3.html",
+				"/home/user/Documents/Javascript/condition.html",
+				"/home/user/Documents/Javascript/array1.html",
+				"/home/user/Documents/Javascript/bmi.html",
+				"/home/user/Documents/Javascript/condition1.html",
+				"/home/user/Documents/Javascript/bg2.png",
+				"/home/user/Documents/Javascript/bg2.jpg",
+				"/home/user/Documents/Javascript/bg2.jpeg",
+				"/home/user/Documents/Javascript/bg4.jpg",
+				"/home/user/Documents/Javascript/bg3.jpg",
+				"/home/user/Documents/Javascript/bg1.jpg",
+				"/home/user/Documents/Javascript/operator.html",
+				"/home/user/Documents/Javascript/loop1.html",
+				"/home/user/Documents/Javascript/expand.html",
+				"/home/user/Documents/Javascript/example.html",
+				"/home/user/Documents/Javascript/exam_pass.html",
+				"/home/user/Documents/Javascript/loop.html",
+				"/home/user/Documents/Javascript/function.html",
+				"/home/user/Documents/Javascript/operator.txt",
+				"/home/user/Documents/Javascript/js1.html",
+				"/home/user/Documents/Javascript/obj.html",
+				"/home/user/Documents/HTML/portfolio/index.html",
+				"/home/user/Documents/shop/index.html",
+				"/home/user/Documents/shop/pages/about.html",
+				"/home/user/Documents/shop/pages/contact.html",
+				"/home/user/Documents/Shop/pages/about.html",
+				"/home/user/Documents/HTML/portfolio/pages/about.html",
+				"/home/user/Documents/Shop/pages/items.html",
+				"/home/user/Documents/Shop/pages/contact.html",
+				"/home/user/Documents/HTML/table1.html",
+				"/home/user/Documents/Shop/images/coffeeshoplogo.webp",
+				"/home/user/Documents/HTML/portfolio/pages/contact.html",
+				"/home/user/Documents/HTML/portfolio/images/about1.webp",
+				"/home/user/Documents/HTML/portfolio/images/about1.png",
+				"/home/user/Documents/HTML/portfolio/images/about1.jpg",
+				"/home/user/Documents/HTML/tag.html"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/user/Documents/model"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/user/Documents/model/model_index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16767,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1335,
+										1335
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 203.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/user/Documents/model/model_contact.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5796,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1749,
+										1749
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 184.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/user/Documents/model/model_about.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13298,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1770,
+										1770
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 107.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/user/Documents/model/m_model.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7129,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1771,
+										1771
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 152.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,28,55,668,535,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 217.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 85,
 			"workspace_name": ""
 		}
 	],

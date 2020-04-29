@@ -203,3 +203,9 @@ git remote  rm origin
 git remote -v
 git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
 git push origin master
+git remote -v
+git remote rm origin
+git add --a
+git commit -m 'bootstrap project by tnn'
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
