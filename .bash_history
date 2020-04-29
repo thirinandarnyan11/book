@@ -260,3 +260,14 @@ git commit -m 'book project by tnn'
 git remote add origin https://github.com/thirinandarnyan1234/book.git
 git git remote set-url origin https://github.com/thirinandarnyan1234/book.git
 git push origin master
+git add --a
+git commit -m 'update model agency by tnn'
+git push origin master
+git remote add origin https://github.com/thirinandarnyan11/modelagency.git
+git push origin master
+git remote -v
+git remote rm origin
+git remote add origin https://github.com/thirinandarnyan11/modelagency.git
+git push origin master
+git pull
+git push origin master
