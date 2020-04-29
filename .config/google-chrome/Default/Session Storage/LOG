@@ -1,3 +1,6 @@
 2020/04/29-23:22:21.090 8e9 Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
 2020/04/29-23:22:21.090 8e9 Recovering log #785
 2020/04/29-23:22:21.184 8e9 Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000785.log 
+2020/04/29-23:44:11.212 c12 Level-0 table #789: started
+2020/04/29-23:44:11.704 c12 Level-0 table #789: 17546 bytes OK
+2020/04/29-23:44:12.128 c12 Delete type=0 #785
