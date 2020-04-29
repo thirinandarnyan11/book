@@ -162,3 +162,15 @@ git add --a
 git commit -m 'model agency by tnn'
 git remote add origin https://github.com/thirinandarnyan1234/modelagencybootstrap.git
 git push origin master
+git init
+git status
+git add --a
+git status
+git add --a
+git commit -m 'bootstrap project by tnn'
+git help gc
+git remote add origin https://github.com/thirinandarnyan11/modelagencyprojectbootstrap.git
+git push origin master
+git push -u  origin master
+git remote set-url origin https://github.com/thirinandarnyan11/modelagencyprojectbootstrap.git
+git push origin master

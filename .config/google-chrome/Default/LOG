@@ -1,17 +1,23 @@
-2020/04/28-17:37:42.811 1dde Recovering log #131
-2020/04/28-17:37:42.811 1dde Level-0 table #133: started
-2020/04/28-17:37:42.868 1dde Level-0 table #133: 6319 bytes OK
-2020/04/28-17:37:42.970 1dde Delete type=3 #129
-2020/04/28-17:37:42.970 1dde Delete type=0 #131
-2020/04/28-17:37:42.971 1e8f Compacting 4@0 + 1@1 files
-2020/04/28-17:37:43.014 1e8f Generated table #135@0: 339 keys, 18429 bytes
-2020/04/28-17:37:43.014 1e8f Compacted 4@0 + 1@1 files => 18429 bytes
-2020/04/28-17:37:43.434 1e8f compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/04/28-17:37:43.437 1e8f Delete type=2 #133
-2020/04/28-17:37:43.437 1e8f Delete type=2 #130
-2020/04/28-17:37:43.437 1e8f Delete type=2 #127
-2020/04/28-17:37:43.437 1e8f Delete type=2 #123
-2020/04/28-17:37:43.437 1e8f Delete type=2 #125
-2020/04/28-17:38:01.708 1e8f Level-0 table #137: started
-2020/04/28-17:38:01.993 1e8f Level-0 table #137: 78463 bytes OK
-2020/04/28-17:38:02.418 1e8f Delete type=0 #134
+2020/04/28-21:24:04.956 d74 Recovering log #136
+2020/04/28-21:24:04.956 d74 Level-0 table #139: started
+2020/04/28-21:24:05.295 d74 Level-0 table #139: 35693 bytes OK
+2020/04/28-21:24:05.881 d74 Delete type=0 #136
+2020/04/28-21:24:05.881 d74 Delete type=3 #132
+2020/04/28-21:24:35.514 e11 Level-0 table #142: started
+2020/04/28-21:24:35.630 e11 Level-0 table #142: 16288 bytes OK
+2020/04/28-21:24:35.705 e11 Delete type=0 #140
+2020/04/28-21:24:58.993 e11 Level-0 table #144: started
+2020/04/28-21:24:59.138 e11 Level-0 table #144: 16068 bytes OK
+2020/04/28-21:24:59.294 e11 Delete type=0 #141
+2020/04/28-21:24:59.294 e11 Compacting 4@0 + 1@1 files
+2020/04/28-21:24:59.367 e11 Generated table #145@0: 351 keys, 17599 bytes
+2020/04/28-21:24:59.367 e11 Compacted 4@0 + 1@1 files => 17599 bytes
+2020/04/28-21:24:59.458 e11 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/28-21:24:59.460 e11 Delete type=2 #135
+2020/04/28-21:24:59.460 e11 Delete type=2 #139
+2020/04/28-21:24:59.460 e11 Delete type=2 #144
+2020/04/28-21:24:59.460 e11 Delete type=2 #137
+2020/04/28-21:24:59.460 e11 Delete type=2 #142
+2020/04/28-21:25:26.560 e11 Level-0 table #147: started
+2020/04/28-21:25:26.710 e11 Level-0 table #147: 16303 bytes OK
+2020/04/28-21:25:26.825 e11 Delete type=0 #143

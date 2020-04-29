@@ -14,27 +14,28 @@
 	<script type="text/javascript" src="custom.js"></script>
 </head>
 <body>
-	<h4 style="font-weight: bold;" class="ml-3 mt-5">Your Basket</h4>
-	<caption><h5 class="mt-4 mb-2 ml-3">Shopping basket details</h5></caption>
-	<table border="1" cellpadding="15" cellspacing="0" class="ml-3">
-		<thead>
-			<tr>
-				<th>No</th>
-				<th>Title</th>
-				<th>Author</th>
-				<th>Genre</th>
-				<th>Price</th>
-				<th>Qty</th>
-				<th>Sub Total</th>
-			</tr>
-		</thead>
-		<tbody id="tbody"></tbody>
-	</table><br>
-	
-	<div class="row">
-		<div class="col-lg-12 col-md-6 col-sm-12">
-			<a class="btn btn-info ml-5" href="english_book.html">Continue Shopping</a>
-			<button class="btn btn-info ml-5" onclick="exit()">Checkout</button>
+	<h4 style="font-weight: bold;" class="ml-4 mt-5">Your Basket</h4>
+	<div class="container-fluid">
+		<caption><h5 class="mt-4 mb-2 ml-3">Shopping basket details</h5></caption>
+		<table border="1" cellpadding="15" cellspacing="0" class="ml-3">
+			<thead>
+				<tr>
+					<th>No</th>
+					<th>Title</th>
+					<th>Author</th>
+					<th>Genre</th>
+					<th>Price</th>
+					<th>Qty</th>
+					<th>Sub Total</th>
+				</tr>
+			</thead>
+			<tbody id="tbody"></tbody>
+		</table><br>
+		<div class="row">
+			<div class="col-lg-12 col-md-6 col-sm-12 mb-4">
+				<a class="btn btn-info ml-5" href="english_book.html">Continue Shopping</a>
+				<button class="btn btn-info ml-5" onclick="exit()">Checkout</button>
+			</div>
 		</div>
 	</div>
 	<script type="text/javascript">
@@ -64,7 +65,7 @@
 					})
 
 					html+=`<tr>
-					<td colspan="6">Total Price </td>
+					<td colspan="6" class="text-center">Total Price </td>
 					<td>${total}</td>
 					</tr>`;	
 					$("#tbody").html(html);

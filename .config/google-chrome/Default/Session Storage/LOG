@@ -1,16 +1,3 @@
-2020/04/28-20:58:05.684 91d Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/04/28-20:58:05.684 91d Recovering log #740
-2020/04/28-20:58:05.833 91d Level-0 table #743: started
-2020/04/28-20:58:06.729 91d Level-0 table #743: 10610 bytes OK
-2020/04/28-20:58:06.733 91d Recovering log #742
-2020/04/28-20:58:06.807 91d Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000742.log 
-2020/04/28-20:58:07.270 91d Delete type=0 #740
-2020/04/28-20:58:07.271 992 Compacting 4@0 + 1@1 files
-2020/04/28-20:58:08.869 992 Generated table #744@0: 439 keys, 39599 bytes
-2020/04/28-20:58:08.869 992 Compacted 4@0 + 1@1 files => 39599 bytes
-2020/04/28-20:58:09.075 992 compacted to: files[ 0 1 3 0 0 0 0 ]
-2020/04/28-20:58:09.076 992 Delete type=2 #739
-2020/04/28-20:58:09.076 992 Delete type=2 #743
-2020/04/28-20:58:09.076 992 Delete type=2 #735
-2020/04/28-20:58:09.076 992 Delete type=2 #741
-2020/04/28-20:58:09.076 992 Delete type=2 #737
+2020/04/29-14:01:42.152 cc3 Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/04/29-14:01:42.152 cc3 Recovering log #763
+2020/04/29-14:01:42.152 cc3 Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000763.log 

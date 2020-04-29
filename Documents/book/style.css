@@ -6,15 +6,14 @@
 }
 /*menu navbar*/
 #navbarSupportedContent{
-	margin-right: 150px;
+	margin-right: 100px;
 }
 a.nav-link:hover,a.nav-link:active{
-	background-color: #c73a30;
+	background-color: #086888fa;
 	color: white;
 }
 .nav-item{
 	padding-left: 10px;
-	font-weight: bold;
 	font-size: 16px;
 }
 .dropdown {
@@ -37,9 +36,28 @@ a.nav-link:hover,a.nav-link:active{
   display: block;
   font-size: 12px;
 }
-.dropdown-content a:hover {background-color: #ddd;color: red;}
+.dropdown-content a:hover {background-color: #ddd;color: #0d9bca;}
 
 .dropdown:hover .dropdown-content {display: block;}
+/*slider*/
+.slide_text{
+	margin-top: -390px;
+	margin-left: 500px;
+	text-transform: uppercase;
+	font-weight: bolder;
+	text-align: left;
+}
+.slide_text h1{
+	font-size: 45px;
+}
+.slide_info{
+	margin-left: 500px;
+	text-align: left;
+}
+.slide_info p{
+	font-size: 20px;
+}
+/*end of slider*/
 /*card slider*/
 #slider_img{
 	height: 200px;
@@ -55,12 +73,12 @@ a.nav-link:hover,a.nav-link:active{
 	background-color: white;
 }
 .name{
-	font-size: 12px;
-	color: red;
+	font-size: 13px;
+	color: #086888fa;
 	text-decoration: underline;
 }
 a.name:hover,a.name:active{
-	color: #dc3545d6;
+	color: #1e89adb0;
 }
 .hr1{
 	width: 100%;
@@ -79,7 +97,6 @@ hr{
 }
 h6{
 	text-transform:uppercase;
-	color: red;
 }
 p{
 	font-size: 14px;
@@ -143,6 +160,7 @@ h1,h2,h3,h4,h5,h6,p,ul,ol{ margin:0px; padding:0px;}
 .bname{
 	text-decoration: underline;
 	color: black;
+	font-size: 15px;
 }
 a.bname:hover,a.bname:active{
 	color: black;
@@ -180,7 +198,7 @@ a.bname:hover,a.bname:active{
   margin-left: 24px;
 }
 a.page-link:hover,a.page-link:active{
-	background-color: #c73a30;
+	background-color: #086888fa;
 	color: white;
 }
 /*image css for english book*/
@@ -232,17 +250,24 @@ a#myBtn:hover,a#myBtn:active{
 /*footer*/
 .ul_list li{
 	list-style-type: none;
-	font-size: 15px;
+	font-size: 17px;
 }
 .footer_text{
 	background-color: #eeeeeecf;
-	line-height: 25px;
+	line-height: 20px;
 }
 .ul_list li .footer_link{
-	color: black;text-decoration: underline;
+	color: black;
+	font-size: 13px;
 }
 a.footer_link:hover,a.footer_link:active{
-	color: red;
+	color:#086888fa;
+	text-decoration: none;
+}
+.title{
+	text-transform: uppercase;
+	font-size: 15px;
+	font-family:'Raleway-Regular';
 }
 /*end of english book page*/
 /*myanmar book page css*/
@@ -257,7 +282,7 @@ a.footer_link:hover,a.footer_link:active{
 #banner3{
 	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/about.jpg);
 	width: 100%;
-	height: 250px;
+	height: 230px;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -265,7 +290,7 @@ a.footer_link:hover,a.footer_link:active{
 #banner4{
 	background:linear-gradient(to bottom, rgba(190,165,146,0.4)0,rgba(190,165,146,.4)100%),url(images/book1.jpg);
 	width: 100%;
-	height: 280px;
+	height: 250px;
 	background-repeat: no-repeat;
 	background-size: cover;
 }

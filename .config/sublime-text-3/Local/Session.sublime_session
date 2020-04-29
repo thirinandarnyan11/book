@@ -3,9 +3,10 @@
 	[
 		"/home/user/Documents/Shop",
 		"/home/user/Documents/book",
+		"/home/user/Documents/modelagencyproject",
+		"/home/user/Documents/modelagency",
 		"/home/user/Documents/Jquery",
 		"/home/user/Documents/MyPortfolio",
-		"/home/user/Documents/modelagency",
 		"/home/user/Documents/Bootstrap",
 		"/home/user/Documents/CSS",
 		"/home/user/Documents/CSS/Coffee World",
@@ -17,7 +18,7 @@
 		"/home/user/Documents/HTML"
 	],
 	"last_version": 3211,
-	"last_window_id": 78,
+	"last_window_id": 84,
 	"log_indexing": false,
 	"settings":
 	{
@@ -606,12 +607,32 @@
 				"selected_items":
 				[
 					[
-						"col",
-						"col-md-6"
+						"co",
+						"col-md-5"
 					],
 					[
-						"co",
+						"col",
+						"col-lg-3"
+					],
+					[
+						"col-",
 						"col-sm-12"
+					],
+					[
+						"fon",
+						"font-weight\tproperty"
+					],
+					[
+						"mt",
+						"mt-2"
+					],
+					[
+						"text-d",
+						"text-decoration\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
 					],
 					[
 						"margin",
@@ -624,10 +645,6 @@
 					[
 						"tex",
 						"text-center"
-					],
-					[
-						"mt",
-						"mt-5"
 					],
 					[
 						"mari",
@@ -644,10 +661,6 @@
 					[
 						"con",
 						"container-fluid"
-					],
-					[
-						"fon",
-						"font-size\tproperty"
 					],
 					[
 						"mrgi",
@@ -676,10 +689,6 @@
 					[
 						"font-s",
 						"font-size\tproperty"
-					],
-					[
-						"font",
-						"font-family\tproperty"
 					],
 					[
 						"backgrou",
@@ -990,27 +999,145 @@
 			"buffers":
 			[
 				{
-					"file": "/home/user/Documents/Jquery/IT_Shop/index.html",
+					"file": "/home/user/Documents/book/index.html",
 					"settings":
 					{
-						"buffer_size": 1283,
+						"buffer_size": 24582,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/user/Documents/Jquery/IT_Shop/checkout.html",
+					"file": "/home/user/Documents/book/about.html",
 					"settings":
 					{
-						"buffer_size": 2521,
+						"buffer_size": 8365,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/user/Documents/Jquery/IT_Shop/custom.js",
+					"file": "/home/user/Documents/book/babylikeyou.html",
 					"settings":
 					{
-						"buffer_size": 1328,
+						"buffer_size": 12144,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/contact.html",
+					"settings":
+					{
+						"buffer_size": 7717,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/dragon.html",
+					"settings":
+					{
+						"buffer_size": 12909,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/storiesthieve.html",
+					"settings":
+					{
+						"buffer_size": 12095,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/thewonky.html",
+					"settings":
+					{
+						"buffer_size": 12289,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/style.css",
+					"settings":
+					{
+						"buffer_size": 4893,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/signin.html",
+					"settings":
+					{
+						"buffer_size": 7714,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/checkout.html",
+					"settings":
+					{
+						"buffer_size": 3413,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/english_book.html",
+					"settings":
+					{
+						"buffer_size": 15734,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/friends.html",
+					"settings":
+					{
+						"buffer_size": 11787,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/god.html",
+					"settings":
+					{
+						"buffer_size": 11859,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/harry.html",
+					"settings":
+					{
+						"buffer_size": 12826,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/myan_book.html",
+					"settings":
+					{
+						"buffer_size": 15467,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/book/quidditch.html",
+					"settings":
+					{
+						"buffer_size": 13202,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1048,11 +1175,22 @@
 			},
 			"expanded_folders":
 			[
-				"/home/user/Documents/Jquery",
-				"/home/user/Documents/Jquery/IT_Shop"
+				"/home/user/Documents/book"
 			],
 			"file_history":
 			[
+				"/home/user/Documents/book/babylikeyou.html",
+				"/home/user/Documents/book/thewonky.html",
+				"/home/user/Documents/book/quidditch.html",
+				"/home/user/Documents/book/harry.html",
+				"/home/user/Documents/book/god.html",
+				"/home/user/Documents/book/friends.html",
+				"/home/user/Documents/book/dragon.html",
+				"/home/user/Documents/book/about.html",
+				"/home/user/Documents/book/storiesthieve.html",
+				"/home/user/Documents/book/myan_book.html",
+				"/home/user/Documents/book/english_book.html",
+				"/home/user/Documents/book/contact.html",
 				"/home/user/Documents/modelagency/images/logo1.png",
 				"/home/user/Documents/MyPortfolio/scrolling_nav.js",
 				"/home/user/Documents/MyPortfolio/css/scrolling-nav.css",
@@ -1124,7 +1262,7 @@
 			],
 			"find":
 			{
-				"height": 24.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
@@ -1138,6 +1276,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"lineheight"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1155,35 +1294,238 @@
 			"folders":
 			[
 				{
-					"path": "/home/user/Documents/Jquery"
+					"path": "/home/user/Documents/book"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 7,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/user/Documents/Jquery/IT_Shop/index.html",
+							"file": "/home/user/Documents/book/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1283,
+								"buffer_size": 24582,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										294,
-										294
+										2874,
+										2993
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 484.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/user/Documents/book/about.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8365,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2975,
+										2975
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 319.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/user/Documents/book/babylikeyou.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12144,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2952,
+										2952
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 373.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/user/Documents/book/contact.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7717,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3053,
+										3053
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 403.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/user/Documents/book/dragon.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12909,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2950,
+										2950
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 492.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/user/Documents/book/storiesthieve.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12095,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2950,
+										2950
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 399.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/user/Documents/book/thewonky.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12289,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2954,
+										2954
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 292.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/user/Documents/book/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4893,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										109,
+										109
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
@@ -1194,20 +1536,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/home/user/Documents/Jquery/IT_Shop/checkout.html",
-							"semi_transient": true,
+							"buffer": 8,
+							"file": "/home/user/Documents/book/signin.html",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2521,
+								"buffer_size": 7714,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2494,
-										2494
+										2951,
+										2951
 									]
 								],
 								"settings":
@@ -1216,39 +1558,213 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 595.0,
+								"translation.y": 402.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/home/user/Documents/Jquery/IT_Shop/custom.js",
+							"buffer": 9,
+							"file": "/home/user/Documents/book/checkout.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1328,
+								"buffer_size": 3413,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1328,
-										1328
+										2268,
+										2268
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 569.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/user/Documents/book/english_book.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15734,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2993,
+										2993
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 720.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/user/Documents/book/friends.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11787,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2930,
+										2930
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 426.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/user/Documents/book/god.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2968,
+										2968
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 334.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/user/Documents/book/harry.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12826,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2978,
+										2978
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 429.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/user/Documents/book/myan_book.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15467,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2993,
+										2993
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 428.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/home/user/Documents/book/quidditch.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13202,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2963,
+										2963
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 307.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -1290,7 +1806,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"position": "0,1,0,0,0,-91,65,725,736,1366,768",
 			"project": "",
 			"replace":
 			{
@@ -1337,7 +1853,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 74,
+			"window_id": 83,
 			"workspace_name": ""
 		}
 	],

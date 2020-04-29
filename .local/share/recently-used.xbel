@@ -323,12 +323,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/Shop" added="2020-03-05T05:25:34Z" modified="2020-04-28T16:52:26Z" visited="2020-03-05T05:25:35Z">
+  <bookmark href="file:///home/user/Documents/Shop" added="2020-03-05T05:25:34Z" modified="2020-04-28T19:07:52Z" visited="2020-03-05T05:25:35Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T16:52:26Z" count="15"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T19:07:52Z" count="16"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -4716,6 +4716,56 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T18:57:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/bg_img1.jpg" added="2020-04-28T19:28:40Z" modified="2020-04-28T19:28:40Z" visited="2020-04-28T19:28:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T19:28:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/bg_img2.jpg" added="2020-04-28T19:29:02Z" modified="2020-04-28T19:29:02Z" visited="2020-04-28T19:29:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T19:29:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/bg_img3.jpg" added="2020-04-28T19:29:57Z" modified="2020-04-28T19:29:57Z" visited="2020-04-28T19:29:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T19:29:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/images/bg_img4.jpg" added="2020-04-28T22:22:01Z" modified="2020-04-28T22:22:01Z" visited="2020-04-28T22:22:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-28T22:22:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/book/signin.html" added="2020-04-28T22:41:24Z" modified="2020-04-28T22:41:24Z" visited="2020-04-28T22:41:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T22:41:24Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
