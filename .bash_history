@@ -223,3 +223,10 @@ git push origin master
 git remote add origin https://github.com/thirinandarnyan11/modelagency.git
 git push origin master
 git push --force origin master
+git add --a
+git status
+git commit -m 'book store by tnn'
+git remote add origin https://github.com/thirinandarnyan1234/Book.git
+git remote rm origin
+git remote add origin https://github.com/thirinandarnyan1234/Book.git
+git push origin master
