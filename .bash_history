@@ -191,3 +191,9 @@ git remote -v
 git remote set-url origin https://github.com/thirinandarnyan11/bookstore.git
 git remote -v
 git reomte -v
+git add --a
+git commit -m 'book store project by tnn'
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git remote rm origin
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
