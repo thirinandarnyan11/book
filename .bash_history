@@ -215,3 +215,11 @@ git add --a
 git commit -m 'update model agency by tnn'
 git remote add origin https://github.com/thirinandarnyan11/Model.git
 git push origin master
+git remote rm origin
+git remote -v
+git add --a
+git commit -m 'update model agency by tnn'
+git push origin master
+git remote add origin https://github.com/thirinandarnyan11/modelagency.git
+git push origin master
+git push --force origin master
