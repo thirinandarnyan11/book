@@ -174,3 +174,10 @@ git push origin master
 git push -u  origin master
 git remote set-url origin https://github.com/thirinandarnyan11/modelagencyprojectbootstrap.git
 git push origin master
+git init
+git status
+git add --a
+git status
+git commit -m 'online book store project by tnn'
+git remote add origin https://github.com/thirinandarnyan11/bookstore.git
+git push origin master
