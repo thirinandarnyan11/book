@@ -230,3 +230,11 @@ git remote add origin https://github.com/thirinandarnyan1234/Book.git
 git remote rm origin
 git remote add origin https://github.com/thirinandarnyan1234/Book.git
 git push origin master
+git remote rm origin
+git add --a
+git init
+git status
+git add --a
+git commit -m 'book project by tnn'
+git remote add origin https://github.com/thirinandarnyan1234/book.git
+git push origin master
