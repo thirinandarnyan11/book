@@ -197,3 +197,9 @@ git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
 git remote rm origin
 git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
 git push origin master
+git add --a
+git commit -m 'book poject by tnn'
+git remote  rm origin
+git remote -v
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
