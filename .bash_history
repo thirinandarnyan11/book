@@ -290,3 +290,9 @@ git add --a
 git commit -m 'project by tnn'
 git remote add origin https://github.com/thirinandarnyan11/modelagency.git
 git push origin master
+git init
+git status
+git add --a
+git commit -m 'project by tnn'
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
