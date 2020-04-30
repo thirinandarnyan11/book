@@ -271,3 +271,11 @@ git remote add origin https://github.com/thirinandarnyan11/modelagency.git
 git push origin master
 git pull
 git push origin master
+git init 
+git status
+git add --a
+git commit -m 'book bootstrap project by tnn'
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git push -u  origin master
+git remote -v
