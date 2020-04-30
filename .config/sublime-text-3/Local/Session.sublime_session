@@ -1,11 +1,11 @@
 {
 	"folder_history":
 	[
+		"/home/user/Documents/modelagency",
 		"/home/user/Documents/book",
 		"/home/user/Documents/model",
 		"/home/user/Documents/Shop",
 		"/home/user/Documents/modelagencyproject",
-		"/home/user/Documents/modelagency",
 		"/home/user/Documents/Jquery",
 		"/home/user/Documents/MyPortfolio",
 		"/home/user/Documents/Bootstrap",
@@ -19,7 +19,7 @@
 		"/home/user/Documents/HTML"
 	],
 	"last_version": 3211,
-	"last_window_id": 86,
+	"last_window_id": 87,
 	"log_indexing": false,
 	"settings":
 	{
@@ -1271,7 +1271,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,28,55,668,535,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
 			"project": "",
 			"replace":
 			{
