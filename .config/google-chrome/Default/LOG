@@ -1,23 +1,14 @@
-2020/04/28-21:24:04.956 d74 Recovering log #136
-2020/04/28-21:24:04.956 d74 Level-0 table #139: started
-2020/04/28-21:24:05.295 d74 Level-0 table #139: 35693 bytes OK
-2020/04/28-21:24:05.881 d74 Delete type=0 #136
-2020/04/28-21:24:05.881 d74 Delete type=3 #132
-2020/04/28-21:24:35.514 e11 Level-0 table #142: started
-2020/04/28-21:24:35.630 e11 Level-0 table #142: 16288 bytes OK
-2020/04/28-21:24:35.705 e11 Delete type=0 #140
-2020/04/28-21:24:58.993 e11 Level-0 table #144: started
-2020/04/28-21:24:59.138 e11 Level-0 table #144: 16068 bytes OK
-2020/04/28-21:24:59.294 e11 Delete type=0 #141
-2020/04/28-21:24:59.294 e11 Compacting 4@0 + 1@1 files
-2020/04/28-21:24:59.367 e11 Generated table #145@0: 351 keys, 17599 bytes
-2020/04/28-21:24:59.367 e11 Compacted 4@0 + 1@1 files => 17599 bytes
-2020/04/28-21:24:59.458 e11 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/04/28-21:24:59.460 e11 Delete type=2 #135
-2020/04/28-21:24:59.460 e11 Delete type=2 #139
-2020/04/28-21:24:59.460 e11 Delete type=2 #144
-2020/04/28-21:24:59.460 e11 Delete type=2 #137
-2020/04/28-21:24:59.460 e11 Delete type=2 #142
-2020/04/28-21:25:26.560 e11 Level-0 table #147: started
-2020/04/28-21:25:26.710 e11 Level-0 table #147: 16303 bytes OK
-2020/04/28-21:25:26.825 e11 Delete type=0 #143
+2020/06/06-21:55:27.945 1236 Recovering log #153
+2020/06/06-21:55:27.993 1236 Level-0 table #155: started
+2020/06/06-21:55:28.204 1236 Level-0 table #155: 5793 bytes OK
+2020/06/06-21:55:28.814 1236 Delete type=0 #153
+2020/06/06-21:55:28.814 1236 Delete type=3 #151
+2020/06/06-21:55:28.815 12fc Compacting 4@0 + 1@1 files
+2020/06/06-21:55:28.923 12fc Generated table #157@0: 372 keys, 18600 bytes
+2020/06/06-21:55:28.923 12fc Compacted 4@0 + 1@1 files => 18600 bytes
+2020/06/06-21:55:29.024 12fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/06-21:55:29.025 12fc Delete type=2 #155
+2020/06/06-21:55:29.025 12fc Delete type=2 #152
+2020/06/06-21:55:29.025 12fc Delete type=2 #149
+2020/06/06-21:55:29.025 12fc Delete type=2 #147
+2020/06/06-21:55:29.025 12fc Delete type=2 #145

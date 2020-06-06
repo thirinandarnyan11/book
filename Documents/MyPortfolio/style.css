@@ -1,6 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+ /*Only stick if you can fit */
+@media (min-height: 300px) {
+  nav ul {
+    top: 0;
+  }
+}
+nav ul li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+  word-spacing: 90px;
+}
+main {
+  padding-bottom: 40rem;
+}
+section {
+  padding: 5rem;
+  margin: 0 0 2rem 0;
+} 
+
+
+
 #banner{
 	/*background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/bg5.jpg);*/
-    background-image: url(images/bg3.jpg);
+    background-image: url(images/bg6.jpg);
 	width: 100%;
 	height: 100vh;  /*view height*/
 	background-repeat: no-repeat;
@@ -35,7 +67,7 @@ h1 {
     -o-animation-duration: 1s;
     -o-animation-name: slidein;
 
-    /* Standard syntax*/
+     Standard syntax
     animation-duration: 1s;
     animation-name: slidein;
 }
@@ -91,3 +123,7 @@ hr{
     margin-left: 6px;
 }
 body {background:#e2e2e2;}
+
+
+
+

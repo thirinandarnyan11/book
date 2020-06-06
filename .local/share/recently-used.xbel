@@ -323,12 +323,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/Shop" added="2020-03-05T05:25:34Z" modified="2020-04-28T19:07:52Z" visited="2020-03-05T05:25:35Z">
+  <bookmark href="file:///home/user/Documents/Shop" added="2020-03-05T05:25:34Z" modified="2020-06-06T19:57:21Z" visited="2020-03-05T05:25:35Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-28T19:07:52Z" count="16"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-06-06T19:57:21Z" count="19"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1446,12 +1446,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/Jquery/IT_Shop" added="2020-03-13T08:49:29Z" modified="2020-03-15T13:02:20Z" visited="2020-03-13T08:49:29Z">
+  <bookmark href="file:///home/user/Documents/Jquery/IT_Shop" added="2020-03-13T08:49:29Z" modified="2020-05-20T11:27:31Z" visited="2020-03-13T08:49:29Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-15T13:02:20Z" count="2"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-05-20T11:27:31Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2125,7 +2125,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Downloads/Screenshot_2020-03-16%20Screenshot.png" added="2020-03-16T21:54:49Z" modified="2020-03-18T11:01:08Z" visited="2020-03-16T21:54:49Z">
+  <bookmark href="file:///home/user/Downloads/Screenshot_2020-03-16%20Screenshot.png" added="2020-03-16T21:54:49Z" modified="2020-06-06T19:52:33Z" visited="2020-03-16T21:54:49Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -2134,7 +2134,7 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-16T21:59:30Z" count="2"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-03-18T11:00:06Z" count="4"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-06-06T19:52:33Z" count="5"/>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-03-18T11:01:08Z" count="2"/>
         </bookmark:applications>
       </metadata>
@@ -3976,12 +3976,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/MyPortfolio" added="2020-04-02T15:30:56Z" modified="2020-04-03T12:44:33Z" visited="2020-04-02T15:30:57Z">
+  <bookmark href="file:///home/user/Documents/MyPortfolio" added="2020-04-02T15:30:56Z" modified="2020-05-21T11:06:36Z" visited="2020-04-02T15:30:57Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-03T12:44:33Z" count="3"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-05-21T11:06:36Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -4760,12 +4760,903 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/Documents/modelagency" added="2020-04-30T06:43:04Z" modified="2020-04-30T06:43:04Z" visited="2020-04-30T06:43:04Z">
+  <bookmark href="file:///home/user/Documents/modelagency" added="2020-04-30T06:43:04Z" modified="2020-06-04T17:32:58Z" visited="2020-04-30T06:43:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-04-30T06:43:04Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-06-04T17:32:58Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/book.zip" added="2020-04-30T10:14:24Z" modified="2020-04-30T16:37:39Z" visited="2020-04-30T10:14:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-04-30T10:14:25Z" count="2"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-30T16:37:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/user/SP%20PHD%20U3/movie/My%20roommate%20is%20a%20detective/My%20roommate%20is%20a%20detective-ep18.mkv" added="2020-04-30T16:06:09Z" modified="2020-04-30T16:06:09Z" visited="2020-04-30T16:06:09Z">
+    <title>My roommate is a detective-ep18.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2020-04-30T16:06:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/modelagency.zip" added="2020-04-30T16:37:39Z" modified="2020-04-30T16:37:39Z" visited="2020-04-30T16:37:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-04-30T16:37:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/user/USB/Heart%20of%20stone/Heart%20of%20stone-ep25%20part2.mkv" added="2020-05-07T19:18:43Z" modified="2020-05-07T19:18:43Z" visited="2020-05-07T19:18:43Z">
+    <title>Heart of stone-ep25 part2.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2020-05-07T19:18:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/cv%20(3).pdf" added="2020-05-20T11:42:06Z" modified="2020-05-20T11:42:06Z" visited="2020-05-20T11:42:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-05-20T11:42:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/cv%20(1).pdf" added="2020-05-20T11:42:18Z" modified="2020-05-20T11:42:18Z" visited="2020-05-20T11:42:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-05-20T11:42:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/YTMN.pdf" added="2020-05-20T11:42:30Z" modified="2020-05-20T11:42:30Z" visited="2020-05-20T11:42:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-05-20T11:42:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio" added="2020-05-21T10:21:36Z" modified="2020-06-06T19:32:22Z" visited="2020-05-21T10:21:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-06-06T19:32:22Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/index.html" added="2020-05-21T10:22:22Z" modified="2020-05-21T10:22:22Z" visited="2020-05-21T10:22:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-05-21T10:22:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/style.css" added="2020-05-21T10:24:15Z" modified="2020-05-21T10:24:15Z" visited="2020-05-21T10:24:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-05-21T10:24:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/custom.js" added="2020-05-21T10:24:29Z" modified="2020-05-21T10:24:29Z" visited="2020-05-21T10:24:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-05-21T10:24:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/MyPortfolio/images/bg5.jpg" added="2020-05-21T10:32:46Z" modified="2020-05-21T10:32:46Z" visited="2020-05-21T10:32:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T10:32:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0533.jpg" added="2020-05-21T12:35:21Z" modified="2020-05-21T12:35:21Z" visited="2020-05-21T12:35:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0537.jpg" added="2020-05-21T12:35:24Z" modified="2020-05-21T12:35:24Z" visited="2020-05-21T12:35:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0546.jpg" added="2020-05-21T12:35:25Z" modified="2020-05-21T12:35:25Z" visited="2020-05-21T12:35:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0548.jpg" added="2020-05-21T12:35:26Z" modified="2020-05-21T12:35:26Z" visited="2020-05-21T12:35:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0550.jpg" added="2020-05-21T12:35:27Z" modified="2020-05-21T12:35:27Z" visited="2020-05-21T12:35:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0559.jpg" added="2020-05-21T12:35:28Z" modified="2020-05-21T12:35:28Z" visited="2020-05-21T12:35:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0563.jpg" added="2020-05-21T12:35:29Z" modified="2020-05-21T12:35:29Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0567.jpg" added="2020-05-21T12:35:29Z" modified="2020-05-21T12:35:29Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0571.jpg" added="2020-05-21T12:35:30Z" modified="2020-05-21T12:35:30Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0574.jpg" added="2020-05-21T12:35:30Z" modified="2020-05-21T12:35:30Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0577.jpg" added="2020-05-21T12:35:31Z" modified="2020-05-21T12:35:31Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0582.jpg" added="2020-05-21T12:35:32Z" modified="2020-05-21T12:35:32Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0586.jpg" added="2020-05-21T12:35:32Z" modified="2020-05-21T12:35:32Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0588.jpg" added="2020-05-21T12:35:34Z" modified="2020-05-21T12:35:34Z" visited="2020-05-21T12:35:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0477.jpg" added="2020-05-21T12:35:39Z" modified="2020-05-21T12:35:53Z" visited="2020-05-21T12:35:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0484.jpg" added="2020-05-21T12:35:41Z" modified="2020-05-21T12:35:51Z" visited="2020-05-21T12:35:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0488.jpg" added="2020-05-21T12:35:42Z" modified="2020-05-21T12:35:50Z" visited="2020-05-21T12:35:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0492.jpg" added="2020-05-21T12:35:42Z" modified="2020-05-21T12:35:49Z" visited="2020-05-21T12:35:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0495.jpg" added="2020-05-21T12:35:43Z" modified="2020-05-21T12:35:49Z" visited="2020-05-21T12:35:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0503.jpg" added="2020-05-21T12:35:44Z" modified="2020-05-21T12:35:48Z" visited="2020-05-21T12:35:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0508.jpg" added="2020-05-21T12:35:45Z" modified="2020-05-21T12:35:48Z" visited="2020-05-21T12:35:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0510.jpg" added="2020-05-21T12:35:46Z" modified="2020-05-21T12:35:46Z" visited="2020-05-21T12:35:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0472.jpg" added="2020-05-21T12:35:53Z" modified="2020-05-21T12:35:53Z" visited="2020-05-21T12:35:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0466.jpg" added="2020-05-21T12:35:54Z" modified="2020-05-21T12:35:54Z" visited="2020-05-21T12:35:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0460.jpg" added="2020-05-21T12:35:55Z" modified="2020-05-21T12:35:55Z" visited="2020-05-21T12:35:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0458.jpg" added="2020-05-21T12:35:56Z" modified="2020-05-21T12:35:56Z" visited="2020-05-21T12:36:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0452.jpg" added="2020-05-21T12:35:58Z" modified="2020-05-21T12:35:58Z" visited="2020-05-21T12:36:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0449.jpg" added="2020-05-21T12:35:58Z" modified="2020-05-21T12:35:58Z" visited="2020-05-21T12:36:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:35:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0446.jpg" added="2020-05-21T12:36:00Z" modified="2020-05-21T12:36:00Z" visited="2020-05-21T12:36:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0443.jpg" added="2020-05-21T12:36:01Z" modified="2020-05-21T12:36:01Z" visited="2020-05-21T12:36:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0439.jpg" added="2020-05-21T12:36:01Z" modified="2020-05-21T12:36:01Z" visited="2020-05-21T12:36:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0430.jpg" added="2020-05-21T12:36:02Z" modified="2020-05-21T12:36:02Z" visited="2020-05-21T12:36:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0426.jpg" added="2020-05-21T12:36:03Z" modified="2020-05-21T12:36:03Z" visited="2020-05-21T12:36:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0423.jpg" added="2020-05-21T12:36:04Z" modified="2020-05-21T12:36:04Z" visited="2020-05-21T12:36:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0419.jpg" added="2020-05-21T12:36:05Z" modified="2020-05-21T12:36:05Z" visited="2020-05-21T12:36:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0413.jpg" added="2020-05-21T12:36:06Z" modified="2020-05-21T12:36:06Z" visited="2020-05-21T12:36:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0408.jpg" added="2020-05-21T12:36:06Z" modified="2020-05-21T12:36:06Z" visited="2020-05-21T12:36:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0391.jpg" added="2020-05-21T12:36:08Z" modified="2020-05-21T12:36:08Z" visited="2020-05-21T12:36:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0387.jpg" added="2020-05-21T12:36:09Z" modified="2020-05-21T12:36:09Z" visited="2020-05-21T12:36:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0371.jpg" added="2020-05-21T12:36:11Z" modified="2020-05-21T12:36:11Z" visited="2020-05-21T12:36:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/zapya/folder/SoeYuNandarReady@PhotographyDays/SoeYuNandarReady@PhotographyDays/DSC_0367.jpg" added="2020-05-21T12:36:12Z" modified="2020-05-21T12:36:12Z" visited="2020-05-21T12:36:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:36:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/MIUI/Gallery/cloud/owner/rehearsal%20day/DSC_0626.jpg" added="2020-05-21T12:37:07Z" modified="2020-05-21T12:37:07Z" visited="2020-05-21T12:37:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:37:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/MIUI/Gallery/cloud/owner/rehearsal%20day/DSC_0405.jpg" added="2020-05-21T12:37:12Z" modified="2020-05-21T12:37:20Z" visited="2020-05-21T12:37:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:37:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/MIUI/Gallery/cloud/owner/rehearsal%20day/DSC_0399.jpg" added="2020-05-21T12:37:14Z" modified="2020-05-21T12:37:19Z" visited="2020-05-21T12:37:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:37:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/MIUI/Gallery/cloud/owner/rehearsal%20day/DSC_0379.jpg" added="2020-05-21T12:37:15Z" modified="2020-05-21T12:37:15Z" visited="2020-05-21T12:37:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:37:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/MIUI/Gallery/cloud/owner/rehearsal%20day/DSC_0428.jpg" added="2020-05-21T12:37:21Z" modified="2020-05-21T12:37:27Z" visited="2020-05-21T12:37:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:37:27Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://%5Busb%3A001,007%5D/Internal%20shared%20storage/MIUI/Gallery/cloud/owner/rehearsal%20day/DSC_0481.jpg" added="2020-05-21T12:37:21Z" modified="2020-05-21T12:37:21Z" visited="2020-05-21T12:37:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-05-21T12:37:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/user/SP%20PHD%20U3/GOT7/eye%20on%20you%20world%20tour/GOT7%20EYES%20ON%20YOU%20DVD1.mp4" added="2020-05-27T13:03:38Z" modified="2020-05-27T13:03:38Z" visited="2020-05-27T13:03:38Z">
+    <title>GOT7 EYES ON YOU DVD1.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2020-05-27T13:03:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/html5.png" added="2020-06-04T20:59:37Z" modified="2020-06-04T20:59:37Z" visited="2020-06-04T20:59:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T20:59:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/css3.png" added="2020-06-04T21:00:34Z" modified="2020-06-04T21:00:34Z" visited="2020-06-04T21:00:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T21:00:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/bootstrap.png" added="2020-06-04T21:00:55Z" modified="2020-06-04T21:00:55Z" visited="2020-06-04T21:00:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T21:00:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/javascript.png" added="2020-06-04T21:01:27Z" modified="2020-06-04T21:01:27Z" visited="2020-06-04T21:01:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T21:01:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/jquery.png" added="2020-06-04T21:01:59Z" modified="2020-06-04T21:01:59Z" visited="2020-06-04T21:01:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T21:01:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/mysql.png" added="2020-06-04T21:02:27Z" modified="2020-06-04T21:02:27Z" visited="2020-06-04T21:02:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T21:02:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/java.png" added="2020-06-04T21:03:33Z" modified="2020-06-04T21:03:33Z" visited="2020-06-04T21:03:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T21:03:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/portfolio/images/github.png" added="2020-06-04T21:04:06Z" modified="2020-06-04T21:04:06Z" visited="2020-06-04T21:04:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-06-04T21:04:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/card%20rotate" added="2020-06-06T19:39:09Z" modified="2020-06-06T19:39:09Z" visited="2020-06-06T19:39:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-06-06T19:39:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/card%20rotate/index.html" added="2020-06-06T19:40:01Z" modified="2020-06-06T19:40:01Z" visited="2020-06-06T19:40:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-06-06T19:40:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/card%20rotate/style.css" added="2020-06-06T19:40:49Z" modified="2020-06-06T19:40:49Z" visited="2020-06-06T19:40:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-06-06T19:40:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Documents/card%20rotate/custom.js" added="2020-06-06T19:41:15Z" modified="2020-06-06T19:41:15Z" visited="2020-06-06T19:41:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-06-06T19:41:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/coffeeshop.png" added="2020-06-06T20:07:03Z" modified="2020-06-06T20:07:03Z" visited="2020-06-06T20:07:03Z">
+    <title>coffeeshop.png</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog file:///home/user/Downloads/screencapture-file-home-user-Documents-Shop-index-html-2020-06-06-22_04_25.png&apos;" modified="2020-06-06T20:07:03Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

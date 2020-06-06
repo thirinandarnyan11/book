@@ -1,10 +1,10 @@
 [directory]
 nautilus-icon-view-keep-aligned=false
-nautilus-icon-view-layout-timestamp=1588234783
+nautilus-icon-view-layout-timestamp=1591471496
 nautilus-desktop-icon-size=48
 
 [trash]
-nautilus-icon-position-timestamp=1588234783
+nautilus-icon-position-timestamp=1591471496
 nautilus-icon-position=56,26
 icon-scale=1
 
@@ -42,3 +42,13 @@ nautilus-icon-position-timestamp=1583864480
 nautilus-icon-position=56,266
 icon-scale=1
 nautilus-icon-position-timestamp=1584395995
+
+[backup.volume]
+nautilus-icon-position=56,786
+icon-scale=1
+nautilus-icon-position-timestamp=1588445543
+
+[USB.volume]
+nautilus-icon-position=34,784
+icon-scale=1
+nautilus-icon-position-timestamp=1588445612

@@ -1,25 +1,26 @@
 {
 	"folder_history":
 	[
+		"/home/user/Documents/portfolio",
 		"/home/user/Documents/modelagency",
+		"/home/user/Documents/MyPortfolio",
+		"/home/user/Documents/Jquery/IT_Shop",
+		"/home/user/Documents/Shop",
 		"/home/user/Documents/book",
 		"/home/user/Documents/model",
-		"/home/user/Documents/Shop",
 		"/home/user/Documents/modelagencyproject",
 		"/home/user/Documents/Jquery",
-		"/home/user/Documents/MyPortfolio",
 		"/home/user/Documents/Bootstrap",
 		"/home/user/Documents/CSS",
 		"/home/user/Documents/CSS/Coffee World",
 		"/home/user/Documents/example",
-		"/home/user/Documents/Jquery/IT_Shop",
 		"/home/user/Documents/Javascript",
 		"/home/user/Documents/shop",
 		"/home/user/Documents/HTML/portfolio",
 		"/home/user/Documents/HTML"
 	],
 	"last_version": 3211,
-	"last_window_id": 87,
+	"last_window_id": 102,
 	"log_indexing": false,
 	"settings":
 	{
@@ -30,6 +31,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"back",
+						"background-image\tproperty"
+					],
 					[
 						"sig",
 						"signin"
@@ -281,10 +286,6 @@
 					[
 						"div",
 						"div_text"
-					],
-					[
-						"back",
-						"background-color\tproperty"
 					],
 					[
 						"margi",
@@ -542,7 +543,7 @@
 			],
 			"find":
 			{
-				"height": 24.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
@@ -572,7 +573,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 24.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -586,7 +587,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 44.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -635,6 +636,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"back",
+						"background-image\tproperty"
+					],
 					[
 						"sig",
 						"signin"
@@ -886,10 +891,6 @@
 					[
 						"div",
 						"div_text"
-					],
-					[
-						"back",
-						"background-color\tproperty"
 					],
 					[
 						"margi",
@@ -1032,10 +1033,29 @@
 			"buffers":
 			[
 				{
-					"file": "/home/user/Documents/book/index.html",
+					"file": "/home/user/Documents/MyPortfolio/style.css",
 					"settings":
 					{
-						"buffer_size": 24582,
+						"buffer_size": 1986,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/MyPortfolio/index.html",
+					"settings":
+					{
+						"buffer_size": 3790,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Documents/MyPortfolio/scrolling_nav.js",
+					"settings":
+					{
+						"buffer_size": 3171,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -1072,7 +1092,7 @@
 			},
 			"expanded_folders":
 			[
-				"/home/user/Documents/book"
+				"/home/user/Documents/MyPortfolio"
 			],
 			"file_history":
 			[
@@ -1163,7 +1183,7 @@
 			],
 			"find":
 			{
-				"height": 24.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
@@ -1194,7 +1214,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/user/Documents/book"
+					"path": "/home/user/Documents/MyPortfolio"
 				}
 			],
 			"groups":
@@ -1205,31 +1225,92 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/user/Documents/book/index.html",
-							"semi_transient": true,
+							"file": "/home/user/Documents/MyPortfolio/style.css",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 24582,
+								"buffer_size": 1986,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										1986,
+										1986
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 431.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/user/Documents/MyPortfolio/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3790,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3773,
+										3773
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 913.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/user/Documents/MyPortfolio/scrolling_nav.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3171,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3171,
+										3171
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 829.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1237,7 +1318,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 24.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -1275,7 +1356,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 44.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1318,7 +1399,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 86,
+			"window_id": 97,
 			"workspace_name": ""
 		}
 	],

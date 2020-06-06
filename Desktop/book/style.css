@@ -1,0 +1,300 @@
+#img{
+	height: 600px;
+}
+#i_star{
+	font-size:5px;
+}
+/*menu navbar*/
+#navbarSupportedContent{
+	margin-right: 100px;
+}
+a.nav-link:hover,a.nav-link:active{
+	background-color: #086888fa;
+	color: white;
+}
+.nav-item{
+	padding-left: 10px;
+	font-size: 16px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 13px 10px;
+  text-decoration: none;
+  display: block;
+  font-size: 12px;
+}
+.dropdown-content a:hover {background-color: #ddd;color: #0d9bca;}
+
+.dropdown:hover .dropdown-content {display: block;}
+/*slider*/
+.slide_text{
+	margin-top: -390px;
+	margin-left: 500px;
+	text-transform: uppercase;
+	font-weight: bolder;
+	text-align: left;
+}
+.slide_text h1{
+	font-size: 45px;
+}
+.slide_info{
+	margin-left: 500px;
+	text-align: left;
+}
+.slide_info p{
+	font-size: 20px;
+}
+/*end of slider*/
+/*card slider*/
+#slider_img{
+	height: 200px;
+}
+.card{
+	width: 80%;
+	height: 320px;
+}
+.card-title{
+	font-size: 15px;
+}
+.card-footer{
+	background-color: white;
+}
+.name{
+	font-size: 13px;
+	color: #086888fa;
+	text-decoration: underline;
+}
+a.name:hover,a.name:active{
+	color: #1e89adb0;
+}
+.hr1{
+	width: 100%;
+	margin-left: auto;
+}
+/*end of card slider*/
+hr{
+	width: 100%;
+}
+.link ul{
+	text-decoration: none;
+	list-style-type: none;
+}
+.footer{
+	background-color: #eeeeee70;
+}
+h6{
+	text-transform:uppercase;
+}
+p{
+	font-size: 14px;
+}
+i{
+	font-size:12px;
+}
+.nav_link{
+	color:white;
+}
+a.nav_link:hover{
+	text-decoration:none;
+	color: white;
+}
+/*best_seller css*/
+.hr1{
+	width: 100%;
+}
+ @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+}
+html {
+
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+body {
+	margin: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+	display: block;
+}
+audio, canvas, progress, video {
+	display: inline-block;
+	vertical-align: baseline;
+}
+audio:not([controls]) {
+	display: none;
+	height: 0;
+}
+
+a {
+	background-color: transparent;
+	text-decoration: none;
+}
+a:active, a:hover {
+	outline: 0;
+}
+
+h1,h2,h3,h4,h5,h6,p,ul,ol{ margin:0px; padding:0px;}
+
+.card-img{
+	width: 100%;
+	height: 230px;
+}
+/*book link for index page*/
+.bname{
+	text-decoration: underline;
+	color: black;
+	font-size: 15px;
+}
+a.bname:hover,a.bname:active{
+	color: black;
+}
+/*end of book link css*/
+.navbar-hide {
+    pointer-events: none;
+    opacity: 0;
+}
+.footer_link{
+	color: black;
+}
+/*english_book css*/
+.breadcrumb{
+	background-color: white;
+}
+.breadcrumb-item{
+	color: blue;
+}
+#banner1{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/ebook1.jpg);
+	width: 100%;
+	height: 230px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  background-color: white;
+  color: #dc5f75;
+  width: 260px;
+  height: 25px;
+  margin-left: 24px;
+}
+a.page-link:hover,a.page-link:active{
+	background-color: #086888fa;
+	color: white;
+}
+/*image css for english book*/
+#image{
+	width: 170px;
+	height: 250px;
+}
+a.book_link{
+	color: black;
+	text-decoration-line: underline;
+	font-size: 15px;
+}
+/*book detail page css*/
+#image_detail{
+	width: 250px;
+	height: 350px;
+}
+/*star rating*/
+.checked {
+  color: orange;
+}
+hr{
+	width: 50%;
+	margin-left: 50px;
+	margin-top: 1px;
+}
+.star{
+	font-size: 10px;
+}
+/*show more css*/
+#more {
+	display: none;
+}
+#myBtn{
+	color: #0d9bca;
+	text-decoration-line: underline;
+	font-weight: bold;
+	font-size: 15px;
+}
+a#myBtn:hover,a#myBtn:active{
+	color: black;
+}
+/*end*/
+/*product detail*/
+.hor{
+	margin-left: 8px;
+	width: 98%;
+}
+/*footer*/
+.ul_list li{
+	list-style-type: none;
+	font-size: 17px;
+}
+.footer_text{
+	background-color: #eeeeeecf;
+	line-height: 20px;
+}
+.ul_list li .footer_link{
+	color: black;
+	font-size: 13px;
+}
+a.footer_link:hover,a.footer_link:active{
+	color:#086888fa;
+	text-decoration: none;
+}
+.title{
+	text-transform: uppercase;
+	font-size: 15px;
+	font-family:'Raleway-Regular';
+}
+/*end of english book page*/
+/*myanmar book page css*/
+#banner2{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/mbook1.jpg);
+	width: 100%;
+	height: 230px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*about bg image*/
+#banner3{
+	background:linear-gradient(to bottom, rgba(218,165,146,0.4)0,rgba(218,165,146,.4)100%),url(images/about.jpg);
+	width: 100%;
+	height: 230px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*end of about bg image*/
+#banner4{
+	background:linear-gradient(to bottom, rgba(190,165,146,0.4)0,rgba(190,165,146,.4)100%),url(images/book1.jpg);
+	width: 100%;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+

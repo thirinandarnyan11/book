@@ -1,0 +1,32 @@
+@font-face{
+	font-family: 'OpenSans-Italic';
+	src:url('fonts/OpenSans-Italic.ttf');
+}
+@font-face{
+	font-family: 'OpenSans-Bold';
+	src:url('fonts/OpenSans-Bold.ttf');
+}
+@font-face{
+	font-family:'Raleway-Regular';
+	src:url('fonts/Open_Sans,Raleway/Raleway/Raleway-Regular.ttf');
+}
+@font-face{
+	font-family: 'Open_Sans-Regular';
+	src:url('fonts/Open_Sans,Raleway/Open_Sans/Open_Sans-Regular.ttf');
+}
+@font-face{
+	font-family: 'Liu_Jian_Mao_Cao';
+	src:url('fonts/Liu_Jian_Mao_Cao/LiuJianMaoCao-Regular.ttf');
+}
+@font-face{
+	font-family: 'MarckScript';
+	src:url('fonts/Marck_Script/MarckScript-Regular.ttf');
+}
+@font-face{
+	font-family: 'Parisienne';
+	src:url('fonts/Parisienne/Parisienne-Regular.ttf');
+}
+@font-face{
+	font-family: 'Alex_Brush';
+	src:url('fonts/Alex_Brush/AlexBrush-Regular.ttf');
+}

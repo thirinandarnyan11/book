@@ -1,3 +1,3 @@
-2020/04/30-07:28:55.155 8a1 Reusing MANIFEST /home/user/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/04/30-07:28:55.183 8a1 Recovering log #3
-2020/04/30-07:28:55.184 8a1 Reusing old log /home/user/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2020/06/06-21:26:48.260 888 Reusing MANIFEST /home/user/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/06/06-21:26:48.260 888 Recovering log #3
+2020/06/06-21:26:48.285 888 Reusing old log /home/user/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 

@@ -296,3 +296,95 @@ git add --a
 git commit -m 'project by tnn'
 git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
 git push origin master
+git add --a
+git commit -m 'project by tnn'
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
+git remote -v
+git remote rm
+git remote remove https://github.com/thirinandarnyan11/book.git
+git remote rm origin
+git init
+git status
+git add --a
+git init
+git status
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/Bookstore.git
+git push origin master
+git init 
+git status
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git push -u  origin master
+git add --a
+git init
+git status
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git remote -v
+git init
+git status
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/modelagency.git
+git push origin master
+git init
+git status
+git add --a
+git remote set-url origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git remote -v
+git remote rm
+git remote -v
+git init
+git status
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git init
+git status
+git add --a
+git status
+git remote add origin https://github.com/thirinandarnyan1234/Book.git
+git remote -v
+git remote set-url https://github.com/thirinandarnyan1234/Book.git
+git remote -v
+git remote set-url origin https://github.com/thirinandarnyan1234/Book.git
+git remote iv
+git remote -v
+git remote add origin https://github.com/thirinandarnyan1234/Book.git
+git push origin master
+git add --a
+git status
+git remote add origin https://github.com/thirinandarnyan1234/Book.git
+git push origin master
+git remote rm origin
+git remote -v
+git init
+git status
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git init
+git status
+git remote -v
+git add --a
+git status
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git add --a
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+git remote add origin https://github.com/thirinandarnyan11/book.git
+git push origin master
+sudo reboot
