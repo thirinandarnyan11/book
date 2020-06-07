@@ -1,12 +1,18 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="170" last-seen="1591474042"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="19977.5" last-seen="1591476609"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="3802" last-seen="1588258102"/>
-    <application id="eog.desktop" open-window-count="0" score="1" last-seen="1591473905"/>
-    <application id="sublime_text.desktop" open-window-count="3" score="20984.923385620117" last-seen="1591476727"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="2" last-seen="1591562376"/>
     <application id="firefox.desktop" open-window-count="0" score="10843.481430053711" last-seen="1584483374"/>
+    <application id="file-roller.desktop" open-window-count="0" score="0" last-seen="1591562350"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="206" last-seen="1591566465"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1591214607"/>
+    <application id="eog.desktop" open-window-count="0" score="3" last-seen="1591566220"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="20949.5" last-seen="1591567627"/>
+    <application id="nautilus-folder-handler.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="sublime_text.desktop" open-window-count="2" score="21865.923385620117" last-seen="1591567286"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="3855" last-seen="1591567632"/>
+    <application id="evince.desktop" open-window-count="0" score="3" last-seen="1591566151"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="2" last-seen="1591566435"/>
   </context>
 </application-state>

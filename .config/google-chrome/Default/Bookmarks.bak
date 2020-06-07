@@ -1,0 +1,187 @@
+{
+   "checksum": "0a4428060662f621b89cd9082270f8b6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13229980755806736",
+            "guid": "30e918e3-60ad-4ec9-9184-c672b9b61c74",
+            "id": "5",
+            "name": "Buy Books Online, New and Used Online Bookstore from Alibris",
+            "type": "url",
+            "url": "https://www.alibris.com/books"
+         }, {
+            "date_added": "13230051001455426",
+            "guid": "0e770f7c-7c41-4b8a-b112-d6d251020ed9",
+            "id": "7",
+            "name": "Myanmar Bookshop - Myanmar Books - Book Details",
+            "type": "url",
+            "url": "http://www.myanmarbookshop.com/MyanmarBooks/BookDetails/1038"
+         }, {
+            "date_added": "13230076380177798",
+            "guid": "836c33ab-7dbd-4f7b-a7ff-52daaa6cad6e",
+            "id": "9",
+            "name": "Bootstrap Sidebar Examples",
+            "type": "url",
+            "url": "https://bootsnipp.com/tags/sidebar"
+         }, {
+            "date_added": "13230316847678778",
+            "guid": "6d37d007-3fb3-4f14-b2cd-3d9f08609208",
+            "id": "11",
+            "name": "Scrolling Nav - One Page Scrolling Bootstrap Template - Start Bootstrap",
+            "type": "url",
+            "url": "https://startbootstrap.com/templates/scrolling-nav/"
+         }, {
+            "date_added": "13230388697610806",
+            "guid": "6f340321-7ff2-4f38-9aaa-ea7472c889da",
+            "id": "13",
+            "name": "CSS Card Hover Effects",
+            "type": "url",
+            "url": "https://codepen.io/Jhonierpc/pen/MWgBJpy"
+         }, {
+            "date_added": "13232294893609948",
+            "guid": "08776d87-fc8c-4bcd-8a5a-773022db1475",
+            "id": "15",
+            "name": "Bootstrap Snippet JS Typewriter (Text Animation) using HTML CSS Javascript",
+            "type": "url",
+            "url": "https://bootsnipp.com/snippets/XRNAv"
+         }, {
+            "date_added": "13232297100632570",
+            "guid": "9d1d2960-dcf7-4444-ab49-3cf9caeb51a2",
+            "id": "16",
+            "name": "Bootstrap and jQuery 'image animate' code snippets",
+            "type": "url",
+            "url": "https://bootsnipp.com/search?q=image+animate&page=4"
+         }, {
+            "date_added": "13232307100381251",
+            "guid": "e9907996-ba6a-4cab-92d2-7c81d9142d3c",
+            "id": "18",
+            "name": "Tryit Editor v3.6",
+            "type": "url",
+            "url": "https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_user_rating"
+         }, {
+            "date_added": "13232310343847762",
+            "guid": "0c6ce23b-1322-49d1-a312-65327b4a973c",
+            "id": "19",
+            "name": "Quidditch Through the Ages : J. K. Rowling : 9781408880739",
+            "type": "url",
+            "url": "https://www.bookdepository.com/Quidditch-Through-the-Ages-J.-K.-Rowling/9781408880739?redirected=true&utm_medium=Google&utm_campaign=Base1&utm_source=LK&utm_content=Quidditch-Through-the-Ages&selectCurrency=USD&w=AF70AU96GFY3R6A8VC5H&pdg=pla-293946777986:cmp-9541661519:adg-100781542074:crv-422617025662:pos-:dev-c&gclid=CjwKCAjwv4_1BRAhEiwAtMDLsscoaCpf1QybvTIyF-xnpycdxiLeJaJt-k1Hf3LGV29OZZs7eR2tqxoCHNMQAvD_BwE#"
+         }, {
+            "date_added": "13232395293371363",
+            "guid": "7dbcef27-9352-432e-a147-8cdd4a733569",
+            "id": "21",
+            "name": "Myanmar Book Centre",
+            "type": "url",
+            "url": "http://www.myanmarbook.com/index.php?__2M3Nkamg=__1dG9wMTBiaw"
+         }, {
+            "date_added": "13232395361502185",
+            "guid": "e4d16f58-566c-4c9f-8cf6-771f70313893",
+            "id": "22",
+            "name": "Myanmar Book Centre",
+            "type": "url",
+            "url": "http://www.myanmarbook.com/"
+         }, {
+            "date_added": "13232397770556662",
+            "guid": "dff1b1cd-65d0-4870-9854-276c3b542d1b",
+            "id": "23",
+            "name": "Myanmar Book Download",
+            "type": "url",
+            "url": "https://www.mmbookdownload.com/author-a-kyi-taw.html"
+         }, {
+            "date_added": "13232466722151419",
+            "guid": "b193bf61-a529-4ca8-92eb-3c8832037089",
+            "id": "25",
+            "name": "Yangon Door2Door",
+            "type": "url",
+            "url": "https://www.yangond2d.com/?gclid=Cj0KCQjwhZr1BRCLARIsALjRVQO9nxM_HcInDwpD7Pnr6cFAill-76B8WwO5voXTPcswTOE2ny91aPcaArBOEALw_wcB"
+         }, {
+            "date_added": "13232566929489901",
+            "guid": "7c2e5f4c-adec-45c4-bb85-ecda94f6b1b3",
+            "id": "27",
+            "name": "Spicing Up the Bootstrap Carousel with CSS3 Animations — SitePoint",
+            "type": "url",
+            "url": "https://www.sitepoint.com/bootstrap-carousel-with-css3-animations/"
+         }, {
+            "date_added": "13232567287927770",
+            "guid": "6d429e62-a9d5-433f-a478-4405af63f418",
+            "id": "28",
+            "name": "Tweenmax slideshow",
+            "type": "url",
+            "url": "https://codepen.io/astrixsz/pen/zBXvWx"
+         }, {
+            "date_added": "13232567858116341",
+            "guid": "882c13db-c1b7-4def-8066-d77ee0f6b1b0",
+            "id": "29",
+            "name": "30 CSS Slideshow Design With Impressive Transition Effects - uiCookies",
+            "type": "url",
+            "url": "https://uicookies.com/css-slideshow/"
+         }, {
+            "date_added": "13234533306472608",
+            "guid": "9b061836-1268-4af1-bfe0-492150667587",
+            "id": "31",
+            "name": "Bootstrap 4 transparent navbar - HTML & CSS snippet template",
+            "type": "url",
+            "url": "https://bootstrapious.com/p/transparent-navbar"
+         }, {
+            "date_added": "13234533533310121",
+            "guid": "dd879f36-5815-44d0-a1bf-47a67b7fdd5c",
+            "id": "32",
+            "name": "10 Amazing CSS & JavaScript Text Animation Snippets",
+            "type": "url",
+            "url": "https://speckyboy.com/css-javascript-text-animation-snippets/"
+         }, {
+            "date_added": "13234534159029995",
+            "guid": "45eb045e-a4c3-4c82-babb-4e27a22401b7",
+            "id": "33",
+            "name": "Moving Letters | Text animated with JavaScript & anime.js",
+            "type": "url",
+            "url": "https://tobiasahlin.com/moving-letters/"
+         }, {
+            "date_added": "13235744623533282",
+            "guid": "9ad67135-35bf-4ede-8a78-b3c8dbf970d7",
+            "id": "35",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13235749874353584",
+            "guid": "ed573554-260f-41f2-97af-d55970bfbb47",
+            "id": "36",
+            "name": "Maiden - Responsive One Page Portfolio WordPress Theme Preview - ThemeForest",
+            "type": "url",
+            "url": "https://preview.themeforest.net/item/maiden-responsive-one-page-portfolio-wordpress-theme/full_screen_preview/20403649?_ga=2.131876428.2101242410.1583735937-40966678.1583215208&irgwc=1&clickid=2SrXYN3s0xyOTKxwUx0Mo3Q3Uki1%3A%3ATgt34yWI0&iradid=275988&irpid=420717&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_420717&utm_medium=affiliate&utm_source=impact_radius"
+         }, {
+            "date_added": "13235945896511166",
+            "guid": "adefc697-f521-43f1-ba57-6ce7922d0143",
+            "id": "38",
+            "name": "Bootstrap Snippet Rotating Card using HTML CSS Bootstrap Javascript",
+            "type": "url",
+            "url": "https://bootsnipp.com/snippets/AXnRg"
+         } ],
+         "date_added": "13229980155415950",
+         "date_modified": "13235945896511166",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13229980155415956",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13229980155415957",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,33 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "logo_128.png",
+      "default_popup": "popup.html"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+Shift+P"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/contentScriptsCheck.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1TkP94odbgrFGUVkGLaIoDgyzzxy3kncWB+zoMmIbfHy/5MmXT6DIA/ZJBXzIg0XsNVo/aMCQI1by7ru7XkvjPvvyxd5Y94ywUYH4JkUDngwhblLBZtNwm8Y/cOVXiIcEaOZkLoFtPjEZ9x/SL8qxiv5ucEzl5NRZQ6BFRoc9pDL695W2eq9jBzv+GHzSukMdxV0h7YduaRwpBj/DWif8mEIPwZmp6eNa1UXLZHiXtqxGR0S7CrWSZuaUqRo94yb8FfwBle5m3E1yyOx72IHwVYySxAaLKqkW27//nB2KAEIPuPdATQZWYBYZRlng9isX5oreFPnmHx0YoBBE1KJHQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "offline_enabled": true,
+   "permissions": [ "storage", "activeTab", "downloads", "\u003Call_urls>" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.2"
+}

@@ -1,3 +1,6 @@
-2020/06/06-21:28:28.577 aeb Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/06/06-21:28:28.577 aeb Recovering log #881
-2020/06/06-21:28:28.577 aeb Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000881.log 
+2020/06/07-20:14:39.011 9d7 Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/06/07-20:14:39.012 9d7 Recovering log #881
+2020/06/07-20:14:39.175 9d7 Reusing old log /home/user/.config/google-chrome/Default/Session Storage/000881.log 
+2020/06/07-20:15:26.274 b5a Level-0 table #885: started
+2020/06/07-20:15:26.318 b5a Level-0 table #885: 16836 bytes OK
+2020/06/07-20:15:26.398 b5a Delete type=0 #881

@@ -1,6 +1,15 @@
-2020/06/06-21:28:28.849 ac8 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/06/06-21:28:28.849 ac8 Recovering log #367
-2020/06/06-21:28:28.850 ac8 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000367.log 
-2020/06/06-21:37:55.527 100c Level-0 table #371: started
-2020/06/06-21:37:56.388 100c Level-0 table #371: 14427 bytes OK
-2020/06/06-21:37:56.844 100c Delete type=0 #367
+2020/06/07-20:14:47.689 9d8 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/06/07-20:14:47.689 9d8 Recovering log #370
+2020/06/07-20:14:47.759 9d8 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000370.log 
+2020/06/07-20:23:37.226 b5a Level-0 table #374: started
+2020/06/07-20:23:37.769 b5a Level-0 table #374: 13856 bytes OK
+2020/06/07-20:23:38.238 b5a Delete type=0 #370
+2020/06/07-20:23:38.238 b5a Compacting 4@0 + 1@1 files
+2020/06/07-20:23:38.657 b5a Generated table #375@0: 5384 keys, 1819556 bytes
+2020/06/07-20:23:38.657 b5a Compacted 4@0 + 1@1 files => 1819556 bytes
+2020/06/07-20:23:38.707 b5a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-20:23:38.708 b5a Delete type=2 #374
+2020/06/07-20:23:38.708 b5a Delete type=2 #371
+2020/06/07-20:23:38.708 b5a Delete type=2 #368
+2020/06/07-20:23:38.708 b5a Delete type=2 #363
+2020/06/07-20:23:38.708 b5a Delete type=2 #365

@@ -1,5 +1,7 @@
 [Added Associations]
 text/html=firefox.desktop;google-chrome.desktop;chromium_chromium.desktop;
+application/pdf=google-chrome.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=google-chrome.desktop;
 
 [Default Applications]
 text/html=google-chrome.desktop

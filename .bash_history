@@ -388,3 +388,9 @@ git push origin master
 git remote add origin https://github.com/thirinandarnyan11/book.git
 git push origin master
 sudo reboot
+git init
+git status
+git add --a
+git commit -m 'Book store bootstrap project bt tnn'
+git remote add origin https://github.com/Thirnandarnyan/BookStore.git
+git push origin master
